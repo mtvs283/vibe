@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Old Wisdom, New Vibes | SinaVro Vibe",
+  title: "Viral Vibe | SinaVro",
   description: "A playful Korean slang and proverb card game for adult learners.",
 };
 

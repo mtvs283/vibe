@@ -56,11 +56,19 @@ button { font: inherit; }
 .brand-name { font-size: 13px; font-weight: 900; letter-spacing: .14em; }
 .edition-pill { margin-left: auto; border: 1px solid var(--ink); border-radius: 999px; padding: 7px 12px; font: 700 10px var(--font-geist-mono); }
 
-.hero { max-width: 920px; margin: 68px auto 44px; text-align: center; position: relative; }
+.hero { max-width: 920px; margin: 62px auto 44px; text-align: center; position: relative; }
 .eyebrow { color: var(--coral-dark); font: 800 12px var(--font-geist-mono); letter-spacing: .18em; }
-.hero h1 { margin: 10px 0 16px; font-size: clamp(54px, 9vw, 106px); line-height: .86; letter-spacing: -.075em; font-weight: 950; }
-.hero h1 span { display: block; color: var(--coral); transform: rotate(-2deg); text-shadow: 3px 3px 0 var(--ink); }
-.hero-copy { max-width: 660px; margin: 28px auto 18px; font-size: clamp(16px, 2vw, 20px); line-height: 1.55; font-weight: 520; }
+.hero .viral-title { margin: 10px 0 12px; font-size: clamp(58px, 9.5vw, 112px); line-height: .78; letter-spacing: -.075em; font-weight: 950; }
+.viral-title .viral-word, .viral-title .vibe-word { display: flex; justify-content: center; color: var(--ink); transform: rotate(-1deg); }
+.viral-title .vibe-word { color: var(--coral); margin-top: 10px; text-shadow: 3px 3px 0 var(--ink); transform: rotate(1deg); }
+.viral-title i { display: inline-block; position: relative; font-style: normal; }
+.viral-title i:nth-child(odd) { transform: rotate(-3deg) translateY(1px); }
+.viral-title i:nth-child(even) { transform: rotate(3deg) translateY(-2px); }
+.logo-eyes { position: absolute; display: flex; gap: 4px; left: 49%; top: 30%; transform: translate(-50%, -50%) rotate(-2deg); z-index: 2; }
+.logo-eyes em { display: block; width: clamp(11px, 1.7vw, 19px); aspect-ratio: 1; border: 2px solid var(--ink); border-radius: 50%; background: var(--paper); box-shadow: inset 3px -2px 0 var(--ink); }
+.product-descriptor { display: inline-block; margin-top: 5px; padding: 7px 12px; border: 1px solid var(--ink); border-radius: 999px; font: 800 10px var(--font-geist-mono); letter-spacing: .13em; }
+.brand-slogan { margin: 16px 0 0; color: var(--coral-dark); font-size: clamp(20px, 2.4vw, 28px); font-weight: 900; letter-spacing: -.035em; }
+.hero-copy { max-width: 660px; margin: 18px auto; font-size: clamp(16px, 2vw, 20px); line-height: 1.55; font-weight: 520; }
 .hero-tags { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; }
 .hero-tags span { background: var(--navy); color: white; border-radius: 999px; padding: 7px 11px; font: 700 11px var(--font-geist-mono); }
 
@@ -95,6 +103,9 @@ button { font: inherit; }
 
 .play-grid { display: grid; grid-template-columns: minmax(300px, .82fr) minmax(420px, 1.18fr); gap: clamp(28px, 5vw, 72px); max-width: 1120px; margin: 0 auto; align-items: start; }
 .image-slot { min-height: 410px; border: 2px dashed var(--navy); border-radius: 24px; background: rgba(255,250,241,.72); display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 30px; text-align: center; position: relative; }
+.image-slot.filled { min-height: 0; aspect-ratio: 16 / 9; padding: 0; overflow: hidden; border-style: solid; background: var(--paper); }
+.card-art { display: block; width: 100%; height: 100%; object-fit: cover; }
+.image-slot.filled .slot-label { z-index: 2; color: var(--paper); background: rgba(23, 37, 34, .78); border-radius: 999px; padding: 6px 8px; backdrop-filter: blur(4px); }
 .slot-label { position: absolute; left: 16px; top: 16px; color: var(--navy); font: 800 9px var(--font-geist-mono); letter-spacing: .14em; }
 .slot-shape { width: 130px; height: 100px; border: 2px solid var(--navy); border-radius: 50% 50% 44% 56%; display: grid; place-items: center; transform: rotate(-7deg); margin-bottom: 22px; background: repeating-linear-gradient(45deg, transparent 0 8px, rgba(24,49,83,.06) 8px 16px); }
 .slot-shape span { font-size: 46px; font-weight: 200; color: var(--navy); transform: rotate(7deg); }
@@ -155,7 +166,7 @@ button { font: inherit; }
 @media (max-width: 760px) {
   .landing-shell { padding-inline: 16px; }
   .hero { margin-top: 52px; }
-  .hero h1 { font-size: 58px; }
+  .hero .viral-title { font-size: 64px; }
   .part-grid, .play-grid { grid-template-columns: 1fr; }
   .part-card { min-height: 0; }
   .landing-footer { flex-direction: column; align-items: center; }

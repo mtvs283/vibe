@@ -20,7 +20,8 @@ test("server-renders the finished game landing page", async () => {
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /<title>Old Wisdom, New Vibes \| SinaVro Vibe<\/title>/i);
+  assert.match(html, /<title>Viral Vibe \| SinaVro<\/title>/i);
+  assert.match(html, /aria-label="Viral Vibe"/);
   assert.match(html, /Old Wisdom/);
   assert.match(html, /New Vibes/);
   assert.match(html, /Catch the Vibe/);
@@ -39,6 +40,6 @@ test("includes both complete card decks and image prompt controls", async () => 
   assert.match(page, /NANO BANANA IMAGE PROMPT/);
   assert.match(page, /navigator\.clipboard\.writeText/);
   assert.match(page, /Artwork intentionally left blank/);
-  assert.match(layout, /SinaVro Vibe/);
+  assert.match(layout, /Viral Vibe \| SinaVro/);
   assert.doesNotMatch(packageJson, /react-loading-skeleton/);
 });

@@ -13,6 +13,8 @@ type PartOneCard = {
   relation: string;
   note: string;
   prompt: string;
+  image?: string;
+  imageAlt?: string;
 };
 
 type PartTwoCard = {
@@ -23,6 +25,8 @@ type PartTwoCard = {
   meaning: string;
   note: string;
   prompt: string;
+  image?: string;
+  imageAlt?: string;
 };
 
 const stylePrompt =
@@ -32,6 +36,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "스불재",
     romanization: "seu-bul-jae",
+    image: "/card-art/part1-01-seubuljae.webp",
+    imageAlt: "An office worker spills coffee on a laptop while cloud backup is switched off",
     era: "2020s internet slang",
     meaning: "I brought this disaster upon myself.",
     scenario: "You ignored every backup reminder. Then your laptop died the night before the deadline.",
@@ -44,6 +50,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "갓생",
     romanization: "gat-saeng",
+    image: "/card-art/part1-02-gatsaeng.webp",
+    imageAlt: "A disciplined adult surrounded by exercise, study, meal prep and planning goals",
     era: "2020s lifestyle slang",
     meaning: "A disciplined, productive, admirable life.",
     scenario: "Wake up early, exercise, study Korean, prepare lunch, and still arrive at work on time.",
@@ -56,6 +64,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "중꺾마",
     romanization: "jung-kkeok-ma",
+    image: "/card-art/part1-03-jungkkeokma.webp",
+    imageAlt: "A losing football team helps one another stand beneath a one-to-nine scoreboard",
     era: "2022 sports & gaming meme",
     meaning: "What matters is an unbreakable spirit.",
     scenario: "Your team is far behind, but nobody gives up before the final whistle.",
@@ -68,6 +78,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "내로남불",
     romanization: "nae-ro-nam-bul",
+    image: "/card-art/part1-04-naeronambul.webp",
+    imageAlt: "The same person excuses his own lateness but criticizes someone else for being late",
     era: "2010s–2020s public discourse",
     meaning: "One rule for me, another for you.",
     scenario: "He complains when others are five minutes late, but expects everyone to wait when he is late.",
@@ -80,6 +92,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "오히려 좋아",
     romanization: "ohiryeo joa",
+    image: "/card-art/part1-05-ohiryeojoa.webp",
+    imageAlt: "A delighted customer receives a spectacular fresh cake after finding an empty display",
     era: "2020s reaction meme",
     meaning: "This might actually be better!",
     scenario: "The café is sold out of the cake you wanted, so you discover an even better fresh dessert.",
@@ -92,6 +106,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "알잘딱깔센",
     romanization: "al-jal-ttak-kkal-sen",
+    image: "/card-art/part1-06-aljalttakkalsen.webp",
+    imageAlt: "A designer turns a vague rough sketch into a polished presentation",
     era: "late 2010s–2020s slang",
     meaning: "Handle it well, neatly, and with good sense—without being told every detail.",
     scenario: "You give one short instruction. Your coworker understands the whole situation and delivers perfectly.",
@@ -104,6 +120,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "엄친아",
     romanization: "eom-chin-a",
+    image: "/card-art/part1-07-eomchina.webp",
+    imageAlt: "Two mothers compare an embarrassed adult child with a highly accomplished friend’s son",
     era: "2000s comparison culture",
     meaning: "The impossibly perfect ‘friend’s son’ your mother compares you with.",
     scenario: "Your family praises someone else’s grades, job, manners, cooking, and fitness—all during dinner.",
@@ -116,6 +134,8 @@ const partOneCards: PartOneCard[] = [
   {
     term: "느좋",
     romanization: "neu-jo",
+    image: "/card-art/part1-08-neujo.webp",
+    imageAlt: "Two adults admire the lighting, plants, music and furniture of a stylish cafe",
     era: "2020s aesthetic slang",
     meaning: "It just has a nice vibe.",
     scenario: "You cannot explain why, but the café’s colors, music, light, and tableware all feel right.",
@@ -131,6 +151,8 @@ const partTwoCards: PartTwoCard[] = [
   {
     remix: "개똥 SOLD OUT",
     format: "CONSUMER CULTURE REMIX",
+    image: "/card-art/part2-01-dog-sold-out.webp",
+    imageAlt: "A person searches with an empty sample jar beside a sold-out sign in a dog park",
     answer: "개똥도 약에 쓰려면 없다",
     options: ["개똥도 약에 쓰려면 없다", "싼 게 비지떡", "그림의 떡"],
     meaning: "Even something common is nowhere to be found exactly when you need it.",
@@ -140,6 +162,8 @@ const partTwoCards: PartTwoCard[] = [
   {
     remix: "톨로 주고 그란데로 받는다",
     format: "CAFÉ SIZE REMIX",
+    image: "/card-art/part2-02-tall-grande.webp",
+    imageAlt: "A cafe customer gives a small Tall cup and receives an enormous Grande cup",
     answer: "되로 주고 말로 받는다",
     options: ["되로 주고 말로 받는다", "콩 한 쪽도 나눠 먹는다", "누워서 떡 먹기"],
     meaning: "You give a little but get much more back—often as punishment or loss.",
@@ -149,6 +173,8 @@ const partTwoCards: PartTwoCard[] = [
   {
     remix: "중요한 건 꺾이는 고개",
     format: "MEME WORDPLAY",
+    image: "/card-art/part2-03-bowing-rice.webp",
+    imageAlt: "A mature rice stalk bends low under the weight of ripe grain",
     answer: "벼는 익을수록 고개를 숙인다",
     options: ["벼는 익을수록 고개를 숙인다", "중이 제 머리 못 깎는다", "고래 싸움에 새우 등 터진다"],
     meaning: "The wiser or more accomplished a person becomes, the more humble they should be.",
@@ -162,6 +188,8 @@ const partTwoCards: PartTwoCard[] = [
     options: ["서당 개 삼 년이면 풍월을 읊는다", "개구리 올챙이 적 생각 못 한다", "하룻강아지 범 무서운 줄 모른다"],
     meaning: "Long exposure to an environment can teach you something, even without formal study.",
     note: "The remix treats the dog like a veteran performer entering its third season.",
+    image: "/card-art/part2-04-seodang-dog.webp",
+    imageAlt: "A dog performs calligraphy before astonished scholars at a traditional village school",
     prompt: `${stylePrompt} Show the original proverb at a small traditional Korean village school beneath simple tiled eaves: a proud dog suddenly performs like a veteran poetry master in front of stunned adult scholars, one paw raised with absurd confidence. Capture ink brushes suspended midair and jaws dropping at the exact reveal; use hanbok and study objects only because they explain the original seodang setting.`,
   },
   {
@@ -171,6 +199,8 @@ const partTwoCards: PartTwoCard[] = [
     options: ["참새가 방앗간을 그냥 지나치랴", "가재는 게 편", "울며 겨자 먹기"],
     meaning: "People cannot easily pass by something they love or habitually enjoy.",
     note: "못 참지 is the perfect modern reaction when temptation is simply too strong.",
+    image: "/card-art/part2-05-mill-sparrow.webp",
+    imageAlt: "A sparrow makes a sharp turn toward grain at a traditional Korean mill",
     prompt: `${stylePrompt} Show the original proverb at a traditional Korean grain mill: a sparrow flies past, then makes an impossibly sharp midair U-turn toward the grain with huge tempted eyes and wings braking dramatically. Adult mill workers in simple historical clothing react with knowing amusement; use the mill wheel, grain and modest tiled roof only to make the proverb's original image instantly clear.`,
   },
   {
@@ -188,6 +218,8 @@ const partTwoCards: PartTwoCard[] = [
     answer: "사공이 많으면 배가 산으로 간다",
     options: ["사공이 많으면 배가 산으로 간다", "백지장도 맞들면 낫다", "가는 날이 장날"],
     meaning: "Too many people giving directions can make a project go completely off course.",
+    image: "/card-art/part2-07-mountain-boat.webp",
+    imageAlt: "Too many Korean boatmen row a wooden boat in conflicting directions on a mountain",
     note: "The impossible result becomes a first-person internet story: somehow, we rowed a boat up a mountain.",
     prompt: `${stylePrompt} Show the original proverb as an absurd historical Korean freeze-frame: a traditional wooden ferry is somehow stranded near the top of a green mountain while far too many adult boatmen in simple work hanbok shout conflicting directions and row toward different sides. Use an aerial tilted camera, exaggerated arguing faces and one oar pointing straight at the viewer; restrained period detail only.`,
   },
@@ -197,6 +229,8 @@ const partTwoCards: PartTwoCard[] = [
     answer: "굼벵이도 구르는 재주가 있다",
     options: ["굼벵이도 구르는 재주가 있다", "우물 안 개구리", "낫 놓고 기역 자도 모른다"],
     meaning: "Everyone has at least one thing they can do well.",
+    image: "/card-art/part2-08-grub.webp",
+    imageAlt: "A grub rolls like a champion athlete before a wildly cheering crowd",
     note: "The slow grub receives sports-commentator hype for finally showing its special move.",
     prompt: `${stylePrompt} A tiny grub suddenly executes an outrageously spectacular rolling move like a champion athlete, captured inches from the ground with extreme forced perspective. A diverse group of young adults erupts in exaggerated disbelief behind it as if watching a world final; make the underdog victory instantly funny. No traditional Korean motifs.`,
   },
@@ -248,17 +282,23 @@ export default function Home() {
     return (
       <main className="landing-shell">
         <header className="topbar">
-          <div className="brand-mark">OV</div>
-          <div className="brand-name">SINAVRO VIBE</div>
+          <div className="brand-mark">SV</div>
+          <div className="brand-name">SINAVRO</div>
           <span className="edition-pill">ENGLISH EDITION</span>
         </header>
 
         <section className="hero">
-          <div className="eyebrow">A KOREAN CULTURE CARD GAME</div>
-          <h1>
-            Old Wisdom,
-            <span>New Vibes.</span>
+          <div className="eyebrow">SINAVRO PRESENTS</div>
+          <h1 className="viral-title" aria-label="Viral Vibe">
+            <span className="viral-word">
+              <i>V</i><i>I</i><i>R</i><i>A</i><i>L</i>
+            </span>
+            <span className="vibe-word">
+              <i>V</i><i>I</i><i className="eye-host">B<b className="logo-eyes" aria-hidden="true"><em /><em /></b></i><i>E</i><i>.</i>
+            </span>
           </h1>
+          <div className="product-descriptor">KOREAN PROVERBS &amp; SLANG CARD GAME</div>
+          <p className="brand-slogan">Old Wisdom, New Vibes.</p>
           <p className="hero-copy">
             Match Korean internet slang with timeless proverbs. Then remix the old wisdom in the language of memes.
           </p>
@@ -350,11 +390,17 @@ export default function Home() {
 
       <section className="play-grid">
         <div className="visual-column">
-          <div className="image-slot">
+          <div className={`image-slot ${card.image ? "filled" : ""}`}>
             <span className="slot-label">IMAGE SLOT {String(index + 1).padStart(2, "0")}</span>
-            <div className="slot-shape"><span>+</span></div>
-            <strong>Artwork intentionally left blank</strong>
-            <small>Generate with Nano Banana, then place the final card art here.</small>
+            {card.image ? (
+              <img className="card-art" src={card.image} alt={card.imageAlt ?? "Card illustration"} />
+            ) : (
+              <>
+                <div className="slot-shape"><span>+</span></div>
+                <strong>Artwork intentionally left blank</strong>
+                <small>Generate with Nano Banana, then place the final card art here.</small>
+              </>
+            )}
           </div>
           <div className={`prompt-panel ${showPrompt ? "open" : ""}`}>
             <button className="prompt-toggle" onClick={() => setShowPrompt((value) => !value)}>
