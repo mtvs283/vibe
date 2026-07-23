@@ -292,11 +292,11 @@ export default function Home() {
         <section className="hero">
           <div className="eyebrow">SINAVRO PRESENTS</div>
           <h1 className="viral-title" aria-label="Viral Vibe">
-            <span className="viral-word">
+            <span className="viral-word" aria-hidden="true">
               <i>V</i><i>I</i><i>R</i><i>A</i><i>L</i>
             </span>
-            <span className="vibe-word">
-              <i>V</i><i>I</i><i className="eye-host">B<b className="logo-eyes" aria-hidden="true"><em /><em /></b></i><i>E</i><i>.</i>
+            <span className="vibe-animation" aria-hidden="true">
+              <img src="/viral-vibe.gif" alt="" />
             </span>
           </h1>
           <div className="product-descriptor">KOREAN PROVERBS &amp; SLANG CARD GAME</div>
