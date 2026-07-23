@@ -26,7 +26,7 @@ type PartTwoCard = {
 };
 
 const stylePrompt =
-  "Editorial card-game illustration for adult Korean-language learners, playful retro-modern Korean poster style, bold flat shapes, warm cream background, coral red, deep navy and fresh lime palette, expressive adult characters, clear visual storytelling, subtle paper grain, landscape 4:3 composition, no written words, no letters, no logos, no watermark.";
+  "High-energy editorial card-game illustration for young adult international audiences, meme-native visual humor, capturing the exact split-second when something hilariously goes wrong or unexpectedly right, exaggerated but believable adult facial expressions and body language, instantly readable absurd situation, bold off-center framing, playful wide-angle or low-angle camera, one surprising foreground detail, hand-cut paper collage mixed with risograph print, visible paper fibers, rough ink texture, slightly misregistered colors, bold graphic shadows, warm cream, electric coral, deep navy and acid-lime palette, landscape 4:3 composition. Use a contemporary global visual language. Do not add traditional Korean clothing, architecture, calligraphy or decorative motifs unless the individual scene prompt explicitly requests them to explain the original proverb. Avoid glossy 3D, polished corporate illustration, anime school characters, cute children, generic smooth AI illustration, written words, letters, logos and watermarks.";
 
 const partOneCards: PartOneCard[] = [
   {
@@ -39,7 +39,7 @@ const partOneCards: PartOneCard[] = [
     options: ["제 꾀에 제가 넘어간다", "백지장도 맞들면 낫다", "원숭이도 나무에서 떨어진다"],
     relation: "CLOSE MATCH",
     note: "Both point to suffering the consequences of your own actions. 스불재 is shorter, more casual, and usually self-mocking.",
-    prompt: `${stylePrompt} A tired office worker staring in horror at a dead laptop while ignored backup reminder notes pile up around the desk; the disaster is clearly caused by the worker's own choices.`,
+    prompt: `${stylePrompt} Freeze the exact second a young adult office worker realizes the laptop has died: black screen reflected in enormous horrified eyes, coffee suspended mid-spill, hands frozen above the keyboard, and a ridiculous mountain of ignored backup reminders collapsing into the foreground. Make the self-inflicted cause instantly obvious and funny, not tragic.`,
   },
   {
     term: "갓생",
@@ -51,7 +51,7 @@ const partOneCards: PartOneCard[] = [
     options: ["티끌 모아 태산", "누워서 떡 먹기", "가는 날이 장날"],
     relation: "SAME VIBE",
     note: "갓생 celebrates disciplined living; the proverb emphasizes how small efforts accumulate into something big.",
-    prompt: `${stylePrompt} One energetic adult completing a sequence of small morning habits—waking early, stretching, studying Korean, packing a healthy lunch—with tiny completed tasks visually building into a proud mountain shape.`,
+    prompt: `${stylePrompt} A dynamic wide-angle morning scene of one ambitious young adult somehow exercising, studying Korean, meal-prepping and answering a work message at once, with exaggerated focused confidence rather than stress. Tiny completed tasks stack into a visual mountain behind the character; an absurdly balanced coffee cup in the foreground adds meme energy.`,
   },
   {
     term: "중꺾마",
@@ -63,7 +63,7 @@ const partOneCards: PartOneCard[] = [
     options: ["고생 끝에 낙이 온다", "우물 안 개구리", "낮말은 새가 듣고 밤말은 쥐가 듣는다"],
     relation: "SAME VIBE",
     note: "The meme focuses on perseverance; the proverb promises that hardship can eventually give way to joy.",
-    prompt: `${stylePrompt} A diverse amateur sports team exhausted and far behind on a scoreboard but standing back up together with determined faces, a bright finish line glowing in the distance.`,
+    prompt: `${stylePrompt} Low-angle freeze-frame of a diverse young adult amateur team, sweaty and dramatically exhausted, getting back on their feet together while a huge scoreboard shows they are far behind using abstract shapes only. One teammate points forward with comically intense determination; the distant finish line glows like an impossible challenge.`,
   },
   {
     term: "내로남불",
@@ -75,7 +75,7 @@ const partOneCards: PartOneCard[] = [
     options: ["똥 묻은 개가 겨 묻은 개 나무란다", "개천에서 용 난다", "콩 심은 데 콩 난다"],
     relation: "CULTURAL COUSIN",
     note: "Both criticize hypocrisy: someone with a bigger fault judges another person for a smaller one.",
-    prompt: `${stylePrompt} A hypocritical adult pointing angrily at a wall clock because a friend is five minutes late, while a second clock and calendar reveal that the accuser arrived much later the previous day.`,
+    prompt: `${stylePrompt} A sharply comic split-scene: in the foreground, a self-righteous young adult angrily points at a clock because a friend is five minutes late; behind them, an oversized second clock and visual flashback reveal that the accuser arrived ridiculously late yesterday. Exaggerate the accuser's moral outrage and the friend's deadpan stare.`,
   },
   {
     term: "오히려 좋아",
@@ -87,7 +87,7 @@ const partOneCards: PartOneCard[] = [
     options: ["하늘이 무너져도 솟아날 구멍이 있다", "소 잃고 외양간 고친다", "사공이 많으면 배가 산으로 간다"],
     relation: "POSITIVE ENERGY",
     note: "The meme cheerfully reframes a setback. The proverb says a way forward can still be found in a disaster.",
-    prompt: `${stylePrompt} An adult customer first disappointed by an empty cake display, then delighted as a baker presents a beautiful fresh dessert from the oven; the setback visibly turns into a lucky discovery.`,
+    prompt: `${stylePrompt} Capture the exact emotional flip in a modern café: a young adult stares miserably at an empty cake display, then whips around with an exaggerated delighted face as a baker reveals an even better steaming fresh dessert. Use a surprising over-the-counter camera angle and make bad luck visibly transform into a win.`,
   },
   {
     term: "알잘딱깔센",
@@ -99,7 +99,7 @@ const partOneCards: PartOneCard[] = [
     options: ["하나를 보면 열을 안다", "열 번 찍어 안 넘어가는 나무 없다", "두 손뼉이 맞아야 소리가 난다"],
     relation: "CLOSE MATCH",
     note: "Both praise someone who quickly understands more than what was explicitly shown or explained.",
-    prompt: `${stylePrompt} A capable coworker receives one simple sticky note and confidently transforms a messy project table into a perfectly organized presentation while a surprised manager gives a thumbs-up.`,
+    prompt: `${stylePrompt} A cool, capable young coworker casually receives one tiny instruction card and, in the same energetic scene, turns a chaotic project table into a flawless presentation. The manager is frozen mid-gasp in the background while the coworker gives an effortless knowing look to camera; use an off-center before-and-after composition.`,
   },
   {
     term: "엄친아",
@@ -111,7 +111,7 @@ const partOneCards: PartOneCard[] = [
     options: ["남의 떡이 커 보인다", "싼 게 비지떡", "세 살 버릇 여든까지 간다"],
     relation: "CULTURAL COUSIN",
     note: "엄친아 captures comparison pressure; the proverb says what belongs to someone else often looks better.",
-    prompt: `${stylePrompt} A humorous Korean family dinner where relatives admire an impossibly perfect young adult shown with trophies, a chef apron and exercise gear, while another adult at the table looks overwhelmed by comparison.`,
+    prompt: `${stylePrompt} A contemporary Korean family dinner shot with an exaggerated wide-angle lens: relatives enthusiastically present an impossibly perfect young adult surrounded by trophies, fitness gear, a chef apron and career symbols, while the person being compared sinks lower and lower behind a rice bowl with a stunned meme-worthy expression. No traditional costume or decorative Korean motifs.`,
   },
   {
     term: "느좋",
@@ -123,7 +123,7 @@ const partOneCards: PartOneCard[] = [
     options: ["보기 좋은 떡이 먹기도 좋다", "그림의 떡", "떡 줄 사람은 생각도 않는데 김칫국부터 마신다"],
     relation: "SAME VIBE",
     note: "느좋 is an intuitive aesthetic reaction. The proverb connects pleasing appearance with a pleasing experience.",
-    prompt: `${stylePrompt} A stylish adult entering a beautifully composed Korean café with harmonious lighting, ceramics, plants and dessert, pausing with a delighted expression because the whole atmosphere simply feels right.`,
+    prompt: `${stylePrompt} A stylish young adult enters a contemporary Seoul café and is almost physically pulled forward by the perfect vibe—light, ceramics, plants, music speakers and dessert aligning around them like a visual magnet. Capture a quiet but unmistakable 'this is it' facial expression, with a quirky tilted camera and one oversized dessert in the foreground. No traditional motifs.`,
   },
 ];
 
@@ -135,7 +135,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["개똥도 약에 쓰려면 없다", "싼 게 비지떡", "그림의 떡"],
     meaning: "Even something common is nowhere to be found exactly when you need it.",
     note: "The remix turns sudden scarcity into an online shopping ‘sold out’ moment.",
-    prompt: `${stylePrompt} A comic online shopping scene where an adult urgently searches for a very ordinary humble item, but every shelf and product tile is dramatically empty with red sold-out symbols represented only by shapes, no readable text.`,
+    prompt: `${stylePrompt} Show the original proverb through a lightly historical Korean setting: beneath the tiled eaves of a traditional market apothecary, a young adult in simple everyday hanbok urgently needs one extremely ordinary humble item, but every basket and shelf is absurdly empty. Capture the exact moment of disbelief with the shopkeeper helplessly turning out empty containers; traditional details should clarify the proverb, not decorate the whole image.`,
   },
   {
     remix: "톨로 주고 그란데로 받는다",
@@ -144,7 +144,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["되로 주고 말로 받는다", "콩 한 쪽도 나눠 먹는다", "누워서 떡 먹기"],
     meaning: "You give a little but get much more back—often as punishment or loss.",
     note: "Traditional measuring units become familiar coffee cup sizes: small in, much larger out.",
-    prompt: `${stylePrompt} At a modern café counter, one adult hands over a tiny cup but immediately receives an absurdly huge overflowing cup in return, looking shocked by the disproportionate exchange.`,
+    prompt: `${stylePrompt} Show the original proverb in a traditional Korean market: one adult merchant in simple work hanbok hands over a tiny wooden doe measuring box, then recoils as an enormous mal-sized container overflowing with grain crashes into the foreground in return. Use forced perspective so the huge repayment feels hilariously unfair; include only restrained market and tiled-roof details.`,
   },
   {
     remix: "중요한 건 꺾이는 고개",
@@ -153,7 +153,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["벼는 익을수록 고개를 숙인다", "중이 제 머리 못 깎는다", "고래 싸움에 새우 등 터진다"],
     meaning: "The wiser or more accomplished a person becomes, the more humble they should be.",
     note: "It bends 중꺾마 into a visual lesson about mature rice bowing its head.",
-    prompt: `${stylePrompt} A golden rice field where the fullest mature rice stalk bows gracefully while younger empty stalks stand stiff and proud, visual metaphor for wisdom and humility.`,
+    prompt: `${stylePrompt} Show the original proverb in a golden Korean rice field: a mature heavy rice stalk bows gracefully close to the camera while younger empty stalks stand stiff and boastful behind it. A wise adult farmer in plain traditional work clothes quietly mirrors the bow as a proud show-off poses in the distance; use a low field-level angle and restrained historical detail.`,
   },
   {
     remix: "3년 차 서당 개, 폼 미쳤다",
@@ -162,7 +162,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["서당 개 삼 년이면 풍월을 읊는다", "개구리 올챙이 적 생각 못 한다", "하룻강아지 범 무서운 줄 모른다"],
     meaning: "Long exposure to an environment can teach you something, even without formal study.",
     note: "The remix treats the dog like a veteran performer entering its third season.",
-    prompt: `${stylePrompt} A proud Korean dog outside a traditional village school confidently reciting poetry to amazed adult students, with a playful veteran-performer pose and traditional study objects around it.`,
+    prompt: `${stylePrompt} Show the original proverb at a small traditional Korean village school beneath simple tiled eaves: a proud dog suddenly performs like a veteran poetry master in front of stunned adult scholars, one paw raised with absurd confidence. Capture ink brushes suspended midair and jaws dropping at the exact reveal; use hanbok and study objects only because they explain the original seodang setting.`,
   },
   {
     remix: "아, 방앗간은 못 참지ㅋㅋ",
@@ -171,7 +171,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["참새가 방앗간을 그냥 지나치랴", "가재는 게 편", "울며 겨자 먹기"],
     meaning: "People cannot easily pass by something they love or habitually enjoy.",
     note: "못 참지 is the perfect modern reaction when temptation is simply too strong.",
-    prompt: `${stylePrompt} A sparrow flying past a traditional Korean mill suddenly making a dramatic U-turn toward delicious grains, unable to resist, with lively comic motion and amused adult bystanders.`,
+    prompt: `${stylePrompt} Show the original proverb at a traditional Korean grain mill: a sparrow flies past, then makes an impossibly sharp midair U-turn toward the grain with huge tempted eyes and wings braking dramatically. Adult mill workers in simple historical clothing react with knowing amusement; use the mill wheel, grain and modest tiled roof only to make the proverb's original image instantly clear.`,
   },
   {
     remix: "설마: 사람 잡은 썰 푼다",
@@ -180,7 +180,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["설마가 사람 잡는다", "말 한마디에 천 냥 빚도 갚는다", "공든 탑이 무너지랴"],
     meaning: "Careless confidence that ‘it probably won’t happen’ can cause real trouble.",
     note: "The abstract word 설마 becomes the author of a dramatic anonymous community post.",
-    prompt: `${stylePrompt} An overconfident adult ignoring a clear warning sign while a chain of small preventable accidents begins behind them, composed like a dramatic anonymous internet confession without any visible text.`,
+    prompt: `${stylePrompt} Contemporary meme scene: an overconfident young adult waves away an obvious warning with a smug 'what could go wrong?' expression while, just behind them, a ridiculous chain reaction of small preventable accidents has already begun. Freeze one object in midair seconds before impact and use an ominously cheerful wide-angle composition. No traditional Korean motifs.`,
   },
   {
     remix: "산에서 노 저은 썰 푼다",
@@ -189,7 +189,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["사공이 많으면 배가 산으로 간다", "백지장도 맞들면 낫다", "가는 날이 장날"],
     meaning: "Too many people giving directions can make a project go completely off course.",
     note: "The impossible result becomes a first-person internet story: somehow, we rowed a boat up a mountain.",
-    prompt: `${stylePrompt} A wooden boat impossibly stranded high on a green mountain while too many adult rowers point in conflicting directions and argue, each holding an oar, humorous clear cause-and-effect scene.`,
+    prompt: `${stylePrompt} Show the original proverb as an absurd historical Korean freeze-frame: a traditional wooden ferry is somehow stranded near the top of a green mountain while far too many adult boatmen in simple work hanbok shout conflicting directions and row toward different sides. Use an aerial tilted camera, exaggerated arguing faces and one oar pointing straight at the viewer; restrained period detail only.`,
   },
   {
     remix: "굼벵이 구르는 폼 미쳤다",
@@ -198,7 +198,7 @@ const partTwoCards: PartTwoCard[] = [
     options: ["굼벵이도 구르는 재주가 있다", "우물 안 개구리", "낫 놓고 기역 자도 모른다"],
     meaning: "Everyone has at least one thing they can do well.",
     note: "The slow grub receives sports-commentator hype for finally showing its special move.",
-    prompt: `${stylePrompt} A tiny grub executing an unexpectedly spectacular rolling move like a champion athlete while a diverse group of adults cheers in delighted surprise, playful underdog victory.`,
+    prompt: `${stylePrompt} A tiny grub suddenly executes an outrageously spectacular rolling move like a champion athlete, captured inches from the ground with extreme forced perspective. A diverse group of young adults erupts in exaggerated disbelief behind it as if watching a world final; make the underdog victory instantly funny. No traditional Korean motifs.`,
   },
 ];
 
