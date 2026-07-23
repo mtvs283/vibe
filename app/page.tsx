@@ -210,7 +210,9 @@ const partTwoCards: PartTwoCard[] = [
     options: ["설마가 사람 잡는다", "말 한마디에 천 냥 빚도 갚는다", "공든 탑이 무너지랴"],
     meaning: "Careless confidence that ‘it probably won’t happen’ can cause real trouble.",
     note: "The abstract word 설마 becomes the author of a dramatic anonymous community post.",
-    prompt: `${stylePrompt} Contemporary meme scene: an overconfident young adult waves away an obvious warning with a smug 'what could go wrong?' expression while, just behind them, a ridiculous chain reaction of small preventable accidents has already begun. Freeze one object in midair seconds before impact and use an ominously cheerful wide-angle composition. No traditional Korean motifs.`,
+    image: "/card-art/part2-06-seolma.webp",
+    imageAlt: "An adult says no way to a warning, then flees as the warned-about bookcase tips over",
+    prompt: `${stylePrompt} A two-beat internet-comic scene: on the left, a worried coworker points at a slightly wobbling bookcase while an overconfident adult waves away the warning beneath one speech bubble reading “NO WAY.” On the right, the same adult in identical clothes flees in horror as a cat bumps the bookcase and it tips, freezing books and a plant in midair. Exactly two adults and one cat. Make the sequence warning, disbelief, then the exact warned-about event instantly clear. “NO WAY.” is the only readable text. No electrical cables, stacked drinks, floating icons, extra people, traditional Korean motifs, glossy 3D or anime style.`,
   },
   {
     remix: "산에서 노 저은 썰 푼다",
