@@ -9,7 +9,8 @@ export type LocaleInfo = {
 };
 
 type StringEntry = Record<string, string>;
-type ProverbEntry = Record<string, string> & {
+type ProverbEntry = {
+  [key: string]: string | Record<string, string> | undefined;
   types?: Record<string, string>;
   notes?: Record<string, string>;
 };
@@ -49,7 +50,8 @@ export function t(locale: string, key: string, vars?: Record<string, string | nu
 export function proverbText(locale: string, ko: string): string {
   const entry = proverbs[ko];
   if (!entry) return "";
-  return entry[locale] ?? entry.en ?? "";
+  const value = entry[locale] ?? entry.en;
+  return typeof value === "string" ? value : "";
 }
 
 export function proverbMeta(locale: string, ko: string): { type?: string; note?: string } {
