@@ -1,0 +1,19 @@
+{
+  "verdict": "pass_with_notes",
+  "critical": [],
+  "warns": [],
+  "by_lang": {
+    "ne": {},
+    "my": {},
+    "km": {},
+    "hi": {},
+    "bn": {},
+    "ar": {},
+    "es": {},
+    "fr": {},
+    "de": {},
+    "sw": {},
+    "ha": {},
+    "fil": {}
+  }
+}

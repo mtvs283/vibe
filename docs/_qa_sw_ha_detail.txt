@@ -1,0 +1,677 @@
+## sw paraphrase only
+- 그림의 떡
+  EN: Pie in the sky.
+  sw: Kuona na kutoweza kupata. | note=loose
+- 똥 묻은 개가 겨 묻은 개 나무란다
+  EN: The pot calling the kettle black.
+  sw: Sufuria inamlaumu mkojo mweusi. | note=loose
+- 말 한마디에 천 냥 빚도 갚는다
+  EN: Kind words go a long way.
+  sw: Neno jema hulipa gharama kubwa. | note=loose
+- 벼는 익을수록 고개를 숙인다
+  EN: The fuller the ear, the lower it bows.
+  sw: Mtu anapozidi kuwa na hekima, ndivyo anavyopaswa kuwa mnyenyekevu zaidi. | note=loose
+- 서당 개 삼 년이면 풍월을 읊는다
+  EN: You pick things up by osmosis.
+  sw: Unajifunza kwa kuwa tu mahali fulani muda mrefu. | note=loose
+- 설마가 사람 잡는다
+  EN: Famous last words.
+  sw: Kudhani 'labda haitatokea' huleta matatizo halisi. | note=loose
+- 콩 한 쪽도 나눠 먹는다
+  EN: Share and share alike.
+  sw: Kugawana hata kipande cha mwisho. | note=loose
+- 하룻강아지 범 무서운 줄 모른다
+  EN: Fools rush in where angels fear to tread.
+  sw: Mbwa mtoto hamwogopi chui. | note=loose
+
+## sw all proverbs
+- [saying] 가는 날이 장날
+  EN: Just my luck.
+  XX: Bahati mbaya tu. | None
+- [proverb] 가재는 게 편
+  EN: Birds of a feather flock together.
+  XX: Ndege wa aina moja huruka pamoja. | None
+- [saying] 개구리 올챙이 적 생각 못 한다
+  EN: Don’t forget where you came from.
+  XX: Usisahau ulikotoka. | None
+- [saying] 개똥도 약에 쓰려면 없다
+  EN: You can never find a thing when you need it.
+  XX: Kitu hakipatikani hasa unapokihitaji. | None
+- [saying] 개천에서 용 난다
+  EN: From rags to riches.
+  XX: Kutoka umaskini hadi utajiri. | None
+- [proverb] 고래 싸움에 새우 등 터진다
+  EN: When elephants fight, the grass gets trampled.
+  XX: Wakubwa wanapopigana, ni majani yanayoumia. | None
+- [proverb] 고생 끝에 낙이 온다
+  EN: Every cloud has a silver lining.
+  XX: Baada ya dhiki faraja. | None
+- [proverb] 공든 탑이 무너지랴
+  EN: Hard work pays off.
+  XX: Bidii huleta mafanikio. | None
+- [proverb] 굼벵이도 구르는 재주가 있다
+  EN: Every dog has its day.
+  XX: Kila mbwa ana siku yake. | None
+- [paraphrase] 그림의 떡
+  EN: Pie in the sky.
+  XX: Kuona na kutoweza kupata. | loose
+- [proverb] 남의 떡이 커 보인다
+  EN: The grass is always greener on the other side.
+  XX: Nyasi za jirani huonekana nzuri zaidi. | None
+- [idiom] 낫 놓고 기역 자도 모른다
+  EN: Doesn’t know A from B.
+  XX: Hajui hata A wala B. | None
+- [idiom] 낮말은 새가 듣고 밤말은 쥐가 듣는다
+  EN: Walls have ears.
+  XX: Kuta zina masikio. | None
+- [idiom] 누워서 떡 먹기
+  EN: A piece of cake.
+  XX: Rahisi kama kula keki. | None
+- [proverb] 되로 주고 말로 받는다
+  EN: Sow the wind, reap the whirlwind.
+  XX: Aupandaye upepo atavuna tufani. | None
+- [saying] 두 손뼉이 맞아야 소리가 난다
+  EN: It takes two to tango.
+  XX: Mkono mmoja hauwezi kupiga makofi. | None
+- [proverb] 떡 줄 사람은 생각도 않는데 김칫국부터 마신다
+  EN: Don’t count your chickens before they hatch.
+  XX: Usihesabu vifaranga kabla havijaanguliwa. | None
+- [paraphrase] 똥 묻은 개가 겨 묻은 개 나무란다
+  EN: The pot calling the kettle black.
+  XX: Sufuria inamlaumu mkojo mweusi. | loose
+- [saying] 뜻이 있는 곳에 길이 있다
+  EN: Where there’s a will, there’s a way.
+  XX: Penye nia pana njia. | None
+- [paraphrase] 말 한마디에 천 냥 빚도 갚는다
+  EN: Kind words go a long way.
+  XX: Neno jema hulipa gharama kubwa. | loose
+- [saying] 백지장도 맞들면 낫다
+  EN: Many hands make light work.
+  XX: Umoja ni nguvu. | None
+- [paraphrase] 벼는 익을수록 고개를 숙인다
+  EN: The fuller the ear, the lower it bows.
+  XX: Mtu anapozidi kuwa na hekima, ndivyo anavyopaswa kuwa mnyenyekevu zaidi. | loose
+- [saying] 보기 좋은 떡이 먹기도 좋다
+  EN: We eat with our eyes first.
+  XX: Tunakula kwa macho kwanza. | None
+- [proverb] 사공이 많으면 배가 산으로 간다
+  EN: Too many cooks spoil the broth.
+  XX: Wapishi wengi huharibu mchuzi. | None
+- [paraphrase] 서당 개 삼 년이면 풍월을 읊는다
+  EN: You pick things up by osmosis.
+  XX: Unajifunza kwa kuwa tu mahali fulani muda mrefu. | loose
+- [paraphrase] 설마가 사람 잡는다
+  EN: Famous last words.
+  XX: Kudhani 'labda haitatokea' huleta matatizo halisi. | loose
+- [proverb] 세 살 버릇 여든까지 간다
+  EN: Old habits die hard.
+  XX: Tabia za utotoni haziondoki kirahisi. | None
+- [proverb] 소 잃고 외양간 고친다
+  EN: Shutting the stable door after the horse has bolted.
+  XX: Kufunga zizi baada ya ng'ombe kuibiwa. | None
+- [proverb] 싼 게 비지떡
+  EN: You get what you pay for.
+  XX: Cha bei rahisi hugharimu zaidi baadaye. | None
+- [saying] 열 번 찍어 안 넘어가는 나무 없다
+  EN: If at first you don’t succeed, try, try again.
+  XX: Ukiendelea kujaribu, hatimaye utafanikiwa. | None
+- [idiom] 우물 안 개구리
+  EN: A frog in a well.
+  XX: Chura wa kisimani. | None
+- [idiom] 울며 겨자 먹기
+  EN: Grin and bear it.
+  XX: Kukubali kwa uchungu lakini kwa tabasamu. | loose
+- [proverb] 원숭이도 나무에서 떨어진다
+  EN: Even Homer sometimes nods.
+  XX: Hata mtaalamu hukosea wakati mwingine. | None
+- [idiom] 제 무덤 내가 판다
+  EN: You dug your own grave.
+  XX: Kujichimbia kaburi lako mwenyewe. | None
+- [proverb] 중이 제 머리 못 깎는다
+  EN: The cobbler’s children have no shoes.
+  XX: Fundi viatu mwenyewe hutembea peku. | None
+- [idiom] 참새가 방앗간을 그냥 지나치랴
+  EN: Like a moth to a flame.
+  XX: Kama nondo anavyovutwa na moto. | None
+- [proverb] 콩 심은 데 콩 난다
+  EN: You reap what you sow.
+  XX: Uvunacho ndicho ulichopanda. | None
+- [paraphrase] 콩 한 쪽도 나눠 먹는다
+  EN: Share and share alike.
+  XX: Kugawana hata kipande cha mwisho. | loose
+- [proverb] 티끌 모아 태산
+  EN: Many a little makes a mickle.
+  XX: Tone kwa tone hujaza mtungi. | None
+- [saying] 하나를 보면 열을 안다
+  EN: A word to the wise is enough.
+  XX: Mwenye busara ishara moja inatosha. | None
+- [paraphrase] 하룻강아지 범 무서운 줄 모른다
+  EN: Fools rush in where angels fear to tread.
+  XX: Mbwa mtoto hamwogopi chui. | loose
+- [saying] 호랑이 담배 피던 시절
+  EN: Back in my day.
+  XX: Wakati wangu... | None
+
+## ha paraphrase only
+- 그림의 떡
+  EN: Pie in the sky.
+  ha: Gani ido, rasa hannu. | note=loose
+- 똥 묻은 개가 겨 묻은 개 나무란다
+  EN: The pot calling the kettle black.
+  ha: Tukunya tana zargin kwarya da bakinta. | note=loose
+- 말 한마디에 천 냥 빚도 갚는다
+  EN: Kind words go a long way.
+  ha: Kalma mai kyau ta fi darajar da ta ke da ita. | note=loose
+- 벼는 익을수록 고개를 숙인다
+  EN: The fuller the ear, the lower it bows.
+  ha: Yadda mutum ke kara samun hikima, haka ya kamata ya zama mai tawali'u. | note=loose
+- 서당 개 삼 년이면 풍월을 읊는다
+  EN: You pick things up by osmosis.
+  ha: Zama a wuri na dogon lokaci yana koya wa mutum wani abu ba tare da nema ba. | note=loose
+- 설마가 사람 잡는다
+  EN: Famous last words.
+  ha: Amincewa cewa 'ba zai faru ba' na kawo matsala ta gaske. | note=loose
+- 콩 한 쪽도 나눠 먹는다
+  EN: Share and share alike.
+  ha: Raba abinci har zuwa cizo na karshe. | note=loose
+- 하룻강아지 범 무서운 줄 모른다
+  EN: Fools rush in where angels fear to tread.
+  ha: Kwikwiyo bai san tsoron damisa ba. | note=loose
+
+## ha all proverbs
+- [saying] 가는 날이 장날
+  EN: Just my luck.
+  XX: Rashin sa'a ne kawai. | None
+- [proverb] 가재는 게 편
+  EN: Birds of a feather flock together.
+  XX: Tsuntsaye masu launi daya suke tashi tare. | None
+- [saying] 개구리 올챙이 적 생각 못 한다
+  EN: Don’t forget where you came from.
+  XX: Kada ka manta inda ka fito. | None
+- [saying] 개똥도 약에 쓰려면 없다
+  EN: You can never find a thing when you need it.
+  XX: Ba a samun abu sai lokacin da ba a bukatarsa. | None
+- [saying] 개천에서 용 난다
+  EN: From rags to riches.
+  XX: Daga talauci zuwa arziki. | None
+- [proverb] 고래 싸움에 새우 등 터진다
+  EN: When elephants fight, the grass gets trampled.
+  XX: Idan giwaye suka yi fada, ciyawa ce ke shan wahala. | None
+- [proverb] 고생 끝에 낙이 온다
+  EN: Every cloud has a silver lining.
+  XX: Bayan wahala sai sauki. | None
+- [proverb] 공든 탑이 무너지랴
+  EN: Hard work pays off.
+  XX: Aiki tukuru yana kawo nasara. | None
+- [proverb] 굼벵이도 구르는 재주가 있다
+  EN: Every dog has its day.
+  XX: Kare kowa yana da ranarsa. | None
+- [paraphrase] 그림의 떡
+  EN: Pie in the sky.
+  XX: Gani ido, rasa hannu. | loose
+- [proverb] 남의 떡이 커 보인다
+  EN: The grass is always greener on the other side.
+  XX: Ciyawar makwabci kan yi kama da mafi kore. | None
+- [idiom] 낫 놓고 기역 자도 모른다
+  EN: Doesn’t know A from B.
+  XX: Bai san A da B ba. | None
+- [idiom] 낮말은 새가 듣고 밤말은 쥐가 듣는다
+  EN: Walls have ears.
+  XX: Bango yana da kunnuwa. | None
+- [idiom] 누워서 떡 먹기
+  EN: A piece of cake.
+  XX: Sauki kamar cin kek. | None
+- [proverb] 되로 주고 말로 받는다
+  EN: Sow the wind, reap the whirlwind.
+  XX: Wanda ya shuka iska zai girbi guguwa. | None
+- [saying] 두 손뼉이 맞아야 소리가 난다
+  EN: It takes two to tango.
+  XX: Hannu daya ba ya tafi sauti. | None
+- [proverb] 떡 줄 사람은 생각도 않는데 김칫국부터 마신다
+  EN: Don’t count your chickens before they hatch.
+  XX: Kada ka kirga kajin kafin su ƙyanƙyashe. | None
+- [paraphrase] 똥 묻은 개가 겨 묻은 개 나무란다
+  EN: The pot calling the kettle black.
+  XX: Tukunya tana zargin kwarya da bakinta. | loose
+- [saying] 뜻이 있는 곳에 길이 있다
+  EN: Where there’s a will, there’s a way.
+  XX: Inda akwai nufi, akwai hanya. | None
+- [paraphrase] 말 한마디에 천 냥 빚도 갚는다
+  EN: Kind words go a long way.
+  XX: Kalma mai kyau ta fi darajar da ta ke da ita. | loose
+- [saying] 백지장도 맞들면 낫다
+  EN: Many hands make light work.
+  XX: Hadin kai karfi ne. | None
+- [paraphrase] 벼는 익을수록 고개를 숙인다
+  EN: The fuller the ear, the lower it bows.
+  XX: Yadda mutum ke kara samun hikima, haka ya kamata ya zama mai tawali'u. | loose
+- [saying] 보기 좋은 떡이 먹기도 좋다
+  EN: We eat with our eyes first.
+  XX: Muna cin abinci da ido tukuna kafin baki. | None
+- [proverb] 사공이 많으면 배가 산으로 간다
+  EN: Too many cooks spoil the broth.
+  XX: Yawan masu dafa abinci na kawo lalacewar miya. | None
+- [paraphrase] 서당 개 삼 년이면 풍월을 읊는다
+  EN: You pick things up by osmosis.
+  XX: Zama a wuri na dogon lokaci yana koya wa mutum wani abu ba tare da nema ba. | loose
+- [paraphrase] 설마가 사람 잡는다
+  EN: Famous last words.
+  XX: Amincewa cewa 'ba zai faru ba' na kawo matsala ta gaske. | loose
+- [proverb] 세 살 버릇 여든까지 간다
+  EN: Old habits die hard.
+  XX: Halin da aka girma da shi ba ya sauki cirewa. | None
+- [proverb] 소 잃고 외양간 고친다
+  EN: Shutting the stable door after the horse has bolted.
+  XX: Gyaran turaki bayan an sace shanu. | None
+- [proverb] 싼 게 비지떡
+  EN: You get what you pay for.
+  XX: Abin arha yakan zama tsada a karshe. | None
+- [saying] 열 번 찍어 안 넘어가는 나무 없다
+  EN: If at first you don’t succeed, try, try again.
+  XX: Mai dagewa zai kai ga nasara. | None
+- [idiom] 우물 안 개구리
+  EN: A frog in a well.
+  XX: Kwadi a cikin rijiya. | None
+- [idiom] 울며 겨자 먹기
+  EN: Grin and bear it.
+  XX: Karba da murmushi ko da a raini. | loose
+- [proverb] 원숭이도 나무에서 떨어진다
+  EN: Even Homer sometimes nods.
+  XX: Ko masani kan yi kuskure wani lokaci. | None
+- [idiom] 제 무덤 내가 판다
+  EN: You dug your own grave.
+  XX: Haƙa wa kanka kabari. | None
+- [proverb] 중이 제 머리 못 깎는다
+  EN: The cobbler’s children have no shoes.
+  XX: Mai gyaran takalma da kansa yana tafiya babu takalmi. | None
+- [idiom] 참새가 방앗간을 그냥 지나치랴
+  EN: Like a moth to a flame.
+  XX: Kamar asu da ke jan hankalinsa zuwa wuta. | None
+- [proverb] 콩 심은 데 콩 난다
+  EN: You reap what you sow.
+  XX: Abin da ka shuka shi za ka girba. | None
+- [paraphrase] 콩 한 쪽도 나눠 먹는다
+  EN: Share and share alike.
+  XX: Raba abinci har zuwa cizo na karshe. | loose
+- [proverb] 티끌 모아 태산
+  EN: Many a little makes a mickle.
+  XX: Digo-digo na ruwa shi ke cika akwati. | None
+- [saying] 하나를 보면 열을 안다
+  EN: A word to the wise is enough.
+  XX: Mai hankali ishara daya ta isa. | None
+- [paraphrase] 하룻강아지 범 무서운 줄 모른다
+  EN: Fools rush in where angels fear to tread.
+  XX: Kwikwiyo bai san tsoron damisa ba. | loose
+- [saying] 호랑이 담배 피던 시절
+  EN: Back in my day.
+  XX: A zamanina... | None
+
+## UI + card fields
+KEY ui.edition_pill
+ en: ENGLISH EDITION
+ sw: TOLEO LA KISWAHILI
+ ha: FASSARAR HAUSA
+KEY ui.sinavro_presents
+ en: SINAVRO PRESENTS
+ sw: SINAVRO INAWASILISHA
+ ha: SINAVRO NA GABATARWA
+KEY ui.product_descriptor
+ en: KOREAN PROVERBS & SLANG CARD GAME
+ sw: MCHEZO WA KADI: METHALI NA LUGHA YA MITAANI YA KIKOREA
+ ha: WASAN KATI: KARIN MAGANAR KOREA DA SALON MAGANA
+KEY ui.tap_to_continue
+ en: TAP TO CONTINUE →
+ sw: GUSA ILI KUENDELEA →
+ ha: TABA DON CI GABA →
+KEY ui.brand_slogan
+ en: Old Wisdom, New Vibes.
+ sw: Hekima ya Kale, Mtindo Mpya.
+ ha: Tsohuwar Hikima, Sabuwar Yanayi.
+KEY ui.hero_copy
+ en: Match Korean internet slang with timeless proverbs. Then remix the old wisdom in the language of memes.
+ sw: Linganisha lugha ya mitaani ya Kikorea na methali za milele. Kisha changanya hekima hiyo ya kale kwa lugha ya memes.
+ ha: Ka daidaita salon magana na intanet na Koriya da karin magana marasa lokaci. Sannan ka sake tsara wannan tsohuwar hikima cikin harshen memes.
+KEY ui.tag.korean_slang
+ en: #KoreanSlang
+ sw: #LughaYaMitaaniYaKikorea
+ ha: #SalonMaganaKoriya
+KEY ui.tag.proverbs
+ en: #Proverbs
+ sw: #Methali
+ ha: #KarinMagana
+KEY ui.tag.world_wisdom
+ en: #WorldWisdom
+ sw: #HekimaYaDunia
+ ha: #HikimarDuniya
+KEY ui.part01_title
+ en: Catch the Vibe
+ sw: Pata Mtindo
+ ha: Kama Yanayin
+KEY ui.part01_body
+ en: Discover real Korean slang, read the situation, and find its closest proverb cousin.
+ sw: Gundua lugha halisi ya mitaani ya Kikorea, soma hali husika, na pata methali inayokaribiana nayo zaidi.
+ ha: Gano ainihin salon magana na Koriya, karanta yanayin, sannan ka nemo karin maganar da ta fi kusa da shi.
+KEY ui.part01_li1
+ en: 8 real expressions
+ sw: Misemo halisi 8
+ ha: Kalamai na gaskiya 8
+KEY ui.part01_li2
+ en: Two-panel visual cards
+ sw: Kadi za picha za paneli mbili
+ ha: Katunan hoto masu bangare biyu
+KEY ui.part01_li3
+ en: English proverb matches
+ sw: Methali za Kiingereza zinazolingana
+ ha: Karin maganar Ingilishi da ta dace
+KEY ui.start_part1
+ en: START PART 1 →
+ sw: ANZA SEHEMU YA 1 →
+ ha: FARA SASHE NA 1 →
+KEY ui.part02_title
+ en: Proverb Remix
+ sw: Uchanganyaji wa Methali
+ ha: Sake Tsara Karin Magana
+KEY ui.part02_body
+ en: Decode Korean proverbs rewritten as memes, community posts, and modern punchlines.
+ sw: Fumbua methali za Kikorea zilizoandikwa upya kama memes, machapisho ya jamii, na vichekesho vya kisasa.
+ ha: Warware karin maganar Koriya da aka sake rubutawa a matsayin memes, sakonnin al'umma, da kalaman zamani.
+KEY ui.part02_li1
+ en: 8 creative remixes
+ sw: Michanganyiko 8 ya ubunifu
+ ha: Sake tsari na kirkira 8
+KEY ui.part02_li2
+ en: Two-panel visual cards
+ sw: Kadi za picha za paneli mbili
+ ha: Katunan hoto masu bangare biyu
+KEY ui.part02_li3
+ en: World-wisdom discussion
+ sw: Mjadala wa hekima ya dunia
+ ha: Tattaunawa kan hikimar duniya
+KEY ui.start_part2
+ en: START PART 2 →
+ sw: ANZA SEHEMU YA 2 →
+ ha: FARA SASHE NA 2 →
+KEY ui.game_title.part1
+ en: CATCH THE VIBE
+ sw: PATA MTINDO
+ ha: KAMA YANAYIN
+KEY ui.game_title.part2
+ en: PROVERB REMIX
+ sw: UCHANGANYAJI WA METHALI
+ ha: SAKE TSARA KARIN MAGANA
+KEY ui.misses
+ en: MISSES
+ sw: MAKOSA
+ ha: KURAKURAI
+KEY ui.part_switch_1
+ en: ← PART 1
+ sw: ← SEHEMU 1
+ ha: ← SASHE 1
+KEY ui.part_switch_2
+ en: PART 2 →
+ sw: SEHEMU 2 →
+ ha: SASHE 2 →
+KEY ui.part_complete
+ en: PART {n} COMPLETE
+ sw: SEHEMU {n} IMEKAMILIKA
+ ha: SASHE {n} YA KAMMALA
+KEY ui.result.immaculate
+ en: Your vibe is immaculate.
+ sw: Mtindo wako hauna dosari.
+ ha: Yanayinka ba shi da kuskure.
+KEY ui.result.close
+ en: Close. The wisdom is landing.
+ sw: Karibu. Hekima inakaribia.
+ ha: Kusan. Hikima tana zuwa.
+KEY ui.result.loading
+ en: The wisdom is loading.
+ sw: Hekima inapakia.
+ ha: Ana loda hikima.
+KEY ui.result.zero_misses
+ en: Zero misses. You read every vibe on the first try.
+ sw: Makosa sifuri. Umesoma kila mtindo kwa jaribio la kwanza.
+ ha: Sifili kurakurai. Ka karanta kowane yanayi a gwaji na farko.
+KEY ui.result.misses_line
+ en: You missed {n} time(s). Lower is better—try again for a cleaner run.
+ sw: Umekosa mara {n}. Kadri ikipungua ndivyo bora — jaribu tena kwa raundi safi zaidi.
+ ha: Ka yi kuskure sau {n}. Karanci ya fi kyau — sake gwadawa domin zagaye mai tsafta.
+KEY ui.result.after_part1
+ en: You have decoded the slang. Now use those new vibes to remix old Korean wisdom.
+ sw: Umefumbua lugha ya mitaani. Sasa tumia mitindo hii mipya kuchanganya hekima ya zamani ya Kikorea.
+ ha: Ka warware salon maganar. Yanzu ka yi amfani da sabbin yanayin nan don sake tsara tsohuwar hikimar Koriya.
+KEY ui.result.after_part2
+ en: You have travelled from old proverbs to internet memes—and found the human truth underneath both.
+ sw: Umesafiri kutoka methali za zamani hadi memes za mtandaoni — na kupata ukweli wa kibinadamu chini ya vyote viwili.
+ ha: Ka yi tafiya daga tsohuwar karin magana zuwa memes na intanet — kuma ka sami gaskiyar dan Adam a karkashin duka biyun.
+KEY ui.around_the_world
+ en: AROUND THE WORLD
+ sw: DUNIANI KOTE
+ ha: KEWAYE DUNIYA
+KEY ui.world_question
+ en: Does your language have a proverb that matched one of today’s cards?
+ sw: Je, lugha yako ina methali inayolingana na mojawapo ya kadi za leo?
+ ha: Shin harshenka yana da karin magana da ta yi daidai da daya daga cikin katunan yau?
+KEY ui.continue_part2
+ en: CONTINUE TO PART 2 →
+ sw: ENDELEA HADI SEHEMU YA 2 →
+ ha: CI GABA ZUWA SASHE NA 2 →
+KEY ui.go_part1
+ en: ← GO TO PART 1
+ sw: ← NENDA SEHEMU YA 1
+ ha: ← TAFI SASHE NA 1
+KEY ui.play_again
+ en: PLAY AGAIN
+ sw: CHEZA TENA
+ ha: SAKE WASA
+KEY ui.back_home
+ en: BACK TO HOME
+ sw: RUDI NYUMBANI
+ ha: KOMA GIDA
+KEY ui.old_wisdom_new_vibes
+ en: OLD WISDOM, NEW VIBES
+ sw: HEKIMA YA KALE, MTINDO MPYA
+ ha: TSOHUWAR HIKIMA, SABUWAR YANAYI
+KEY ui.correct
+ en: CORRECT
+ sw: SAHIHI
+ ha: DAIDAI
+KEY ui.wrong
+ en: WRONG
+ sw: SI SAHIHI
+ ha: BA DAIDAI BA
+KEY ui.try_again
+ en: TRY AGAIN
+ sw: JARIBU TENA
+ ha: SAKE GWADAWA
+KEY ui.next
+ en: NEXT
+ sw: IFUATAYO
+ ha: NA GABA
+KEY ui.decode_it
+ en: DECODE IT
+ sw: IFUMBUE
+ ha: WARWARE SHI
+KEY ui.find_proverb_q
+ en: What is the original proverb?
+ sw: Methali asili ni ipi?
+ ha: Menene ainihin karin maganar?
+KEY ui.find_proverb_hint_p1
+ en: Find the Korean proverb that matches this vibe.
+ sw: Tafuta methali ya Kikorea inayolingana na mtindo huu.
+ ha: Nemo karin maganar Koriya da ta dace da wannan yanayin.
+KEY ui.find_proverb_hint_p2
+ en: Find the original Korean proverb hiding inside this modern remix.
+ sw: Tafuta methali asili ya Kikorea iliyofichwa ndani ya mchanganyiko huu wa kisasa.
+ ha: Nemo ainihin karin maganar Koriya da ke boye a cikin wannan sabon tsari.
+KEY ui.image_slot
+ en: Image slot
+ sw: Nafasi ya picha
+ ha: Wurin hoto
+KEY ui.image_slot_hint
+ en: Drop Gemini art here later.
+ sw: Weka sanaa ya Gemini hapa baadaye.
+ ha: Sanya fasahar Gemini a nan daga baya.
+KEY ui.part1_cleared
+ en: PART 1 CLEARED ✓
+ sw: SEHEMU 1 IMEKAMILIKA ✓
+ ha: SASHE NA 1 YA KAMMALA ✓
+KEY card.p1-01.era
+ en: 2020s internet slang
+ sw: Lugha ya mitaani ya intaneti ya miaka ya 2020
+ ha: Salon magana na intanet na shekarun 2020
+KEY card.p1-01.meaning
+ en: I brought this disaster upon myself.
+ sw: Nilijiletea msiba huu mwenyewe.
+ ha: Na jawo wa kaina wannan bala'i da kaina.
+KEY card.p1-01.scenario
+ en: You ignored every warning. Now you are standing in the mess you made with your own hands.
+ sw: Ulipuuza kila onyo. Sasa umesimama katika fujo ulizojitengenezea kwa mikono yako mwenyewe.
+ ha: Ka ki kula da kowace gargadi. Yanzu kana tsaye a cikin rikicin da ka kirkira da hannunka.
+KEY card.p1-02.era
+ en: 2020s lifestyle slang
+ sw: Lugha ya mitaani ya mtindo wa maisha ya miaka ya 2020
+ ha: Salon salon rayuwa na shekarun 2020
+KEY card.p1-02.meaning
+ en: A disciplined, productive, admirable life.
+ sw: Maisha yenye nidhamu, uzalishaji, na yanayostahili pongezi.
+ ha: Rayuwa mai tsari, mai amfani, kuma abin yabo.
+KEY card.p1-02.scenario
+ en: Wake up early, exercise, study Korean, prepare lunch, and still arrive at work on time.
+ sw: Amka mapema, fanya mazoezi, jifunze Kikorea, andaa chakula cha mchana, na bado ufike kazini kwa wakati.
+ ha: Farka da wuri, yin motsa jiki, koyon Koriya, shirya abincin rana, kuma har yanzu isa aiki cikin lokaci.
+KEY card.p1-03.era
+ en: 2022 sports & gaming meme
+ sw: Meme ya michezo na michezo ya video ya 2022
+ ha: Meme na wasanni da wasan bidiyo na 2022
+KEY card.p1-03.meaning
+ en: What matters is an unbreakable spirit.
+ sw: Kinachohitajika ni roho isiyoweza kuvunjika.
+ ha: Abin da ke da muhimmanci shine ruhi wanda ba za a karya ba.
+KEY card.p1-03.scenario
+ en: Your team is far behind, but nobody gives up before the final whistle.
+ sw: Timu yako iko nyuma sana, lakini hakuna anayekata tamaa kabla ya filimbi ya mwisho.
+ ha: Kungiyarka na baya sosai, amma babu wanda zai daina kafin busa na karshe.
+KEY card.p1-04.era
+ en: 2010s–2020s public discourse
+ sw: Mazungumzo ya umma ya miaka ya 2010–2020
+ ha: Muhawarar jama'a ta shekarun 2010–2020
+KEY card.p1-04.meaning
+ en: One rule for me, another for you.
+ sw: Sheria moja kwangu, nyingine kwako.
+ ha: Doka daya a gareni, wata kuma a gareka.
+KEY card.p1-04.scenario
+ en: He complains when others are five minutes late, but expects everyone to wait when he is late.
+ sw: Analalamika wengine wanapochelewa dakika tano, lakini anatarajia kila mtu amsubiri anapochelewa mwenyewe.
+ ha: Yakan yi korafi idan wasu suka makara da mintuna biyar, amma yana son kowa ya jira shi idan shi ne ya makara.
+KEY card.p1-05.era
+ en: 2020s reaction meme
+ sw: Meme ya majibu ya miaka ya 2020
+ ha: Meme na mayar da martani na shekarun 2020
+KEY card.p1-05.meaning
+ en: This might actually be better!
+ sw: Hii inaweza kuwa bora zaidi!
+ ha: Wataƙila wannan zai iya zama mafi kyau!
+KEY card.p1-05.scenario
+ en: You miss the crowded bus in the rain—then the next one gives you a luxury empty seat.
+ sw: Unakosa basi lililojaa kwenye mvua — kisha lile linalofuata linakupa kiti tupu cha kifahari.
+ ha: Ka rasa bas mai cike a lokacin ruwan sama — sai wanda ya biyo baya ya baka kujera mai kwanciyar hankali wofi.
+KEY card.p1-06.era
+ en: late 2010s–2020s slang
+ sw: Lugha ya mitaani ya mwishoni mwa miaka ya 2010–2020
+ ha: Salon magana na karshen shekarun 2010–2020
+KEY card.p1-06.meaning
+ en: Handle it well, neatly, and with good sense—without being told every detail.
+ sw: Kushughulikia jambo vizuri, kwa mpangilio na busara — bila kuambiwa kila undani.
+ ha: Sarrafa lamarin da kyau, cikin tsari da hankali — ba tare da an bayyana kowane bayani ba.
+KEY card.p1-06.scenario
+ en: You give one short instruction. Your coworker understands the whole situation and delivers perfectly.
+ sw: Unatoa maagizo mafupi. Mfanyakazi mwenzako anaelewa hali nzima na kutimiza kwa ukamilifu.
+ ha: Ka bada gajeriyar umarni. Abokin aikinka ya fahimci dukkan yanayin kuma ya kammala shi daidai.
+KEY card.p1-07.era
+ en: 2000s comparison culture
+ sw: Utamaduni wa kulinganisha wa miaka ya 2000
+ ha: Al'adar kwatanci ta shekarun 2000
+KEY card.p1-07.meaning
+ en: The impossibly perfect ‘friend’s son’ your mother compares you with.
+ sw: Yule 'mwana wa rafiki' mkamilifu kupindukia ambaye mama yako anakulinganisha naye.
+ ha: 'Danan abokiyarki' cikakke ba zai yiwu ba wanda mahaifiyarka ke kwatanta ki da shi.
+KEY card.p1-07.scenario
+ en: Your family praises someone else’s grades, job, manners, cooking, and fitness—all during dinner.
+ sw: Familia yako inasifu alama, kazi, tabia njema, upishi, na afya ya mtu mwingine — yote wakati wa chakula cha jioni.
+ ha: Iyalinka na yabon maki, aiki, dabi'a, girki, da lafiyar jikin wani — duk yayin abincin dare.
+KEY card.p1-08.era
+ en: 2020s aesthetic slang
+ sw: Lugha ya mitaani ya urembo ya miaka ya 2020
+ ha: Salon magana na kayan kwalliya na shekarun 2020
+KEY card.p1-08.meaning
+ en: It just has a nice vibe.
+ sw: Ina mtindo mzuri tu.
+ ha: Yana da kyakkyawan yanayi kawai.
+KEY card.p1-08.scenario
+ en: You cannot explain why, but the café’s colors, music, light, and tableware all feel right.
+ sw: Huwezi kueleza kwa nini, lakini rangi, muziki, mwanga, na vyombo vya mkahawa vinahisi sahihi.
+ ha: Ba za ka iya bayyana dalilin ba, amma launuka, kida, haske, da kayan abinci na kofi duk suna jin dai-dai.
+KEY card.p2-01.format
+ en: CONSUMER CULTURE REMIX
+ sw: MCHANGANYIKO WA UTAMADUNI WA MATUMIZI
+ ha: SAKE TSARIN AL'ADAR MASU SAYAYYA
+KEY card.p2-01.meaning
+ en: Even something common is nowhere to be found exactly when you need it.
+ sw: Hata kitu cha kawaida hakipatikani hasa unapokihitaji zaidi.
+ ha: Ko da wani abu na yau da kullum ba a same shi ba daidai lokacin da ake bukatarsa.
+KEY card.p2-02.format
+ en: CAFÉ SIZE REMIX
+ sw: MCHANGANYIKO WA UKUBWA WA KAHAWA
+ ha: SAKE TSARIN GWARGWADON KOFI
+KEY card.p2-02.meaning
+ en: You give a little but get much more back—often as punishment or loss.
+ sw: Unatoa kidogo lakini unapata mengi zaidi kurudi — mara nyingi kama adhabu au hasara.
+ ha: Ka bada kadan amma ka samu mafi yawa a maimako — sau da yawa a matsayin hukunci ko hasara.
+KEY card.p2-03.format
+ en: MEME WORDPLAY
+ sw: MCHEZO WA MANENO WA MEME
+ ha: WASAN KALMOMI NA MEME
+KEY card.p2-03.meaning
+ en: The wiser or more accomplished a person becomes, the more humble they should be.
+ sw: Kadri mtu anavyozidi kuwa na busara au mafanikio, ndivyo anavyopaswa kuwa na unyenyekevu zaidi.
+ ha: Yadda mutum ke ƙara zama mai hikima ko nasara, haka ya kamata ya kara zama mai tawali'u.
+KEY card.p2-04.format
+ en: PERFORMANCE MEME
+ sw: MEME YA UTENDAJI
+ ha: MEME NA AIKI
+KEY card.p2-04.meaning
+ en: Long exposure to an environment can teach you something, even without formal study.
+ sw: Kukaa muda mrefu katika mazingira fulani kunaweza kukufundisha kitu, hata bila masomo rasmi.
+ ha: Dogon zama a wani yanayi na iya koya maka wani abu, ko da ba tare da karatun boko ba.
+KEY card.p2-05.format
+ en: CAN’T-RESIST MEME
+ sw: MEME YA KUTOWEZA KUJIZUIA
+ ha: MEME NA RASHIN IYA HANA KAI
+KEY card.p2-05.meaning
+ en: People cannot easily pass by something they love or habitually enjoy.
+ sw: Watu hawawezi kupita kwa urahisi karibu na kitu wanachokipenda au kuzoea kukifurahia.
+ ha: Mutane ba za su iya wucewa cikin sauki ba kusa da abin da suke so ko suke jin dadinsa akai-akai.
+KEY card.p2-06.format
+ en: COMMUNITY POST TITLE
+ sw: KICHWA CHA CHAPISHO LA JAMII
+ ha: TAKEN SAKON AL'UMMA
+KEY card.p2-06.meaning
+ en: Careless confidence that ‘it probably won’t happen’ can cause real trouble.
+ sw: Imani ya kizembe kwamba 'labda haitatokea' inaweza kusababisha shida halisi.
+ ha: Amincewa marar kulawa cewa 'wataƙila ba zai faru ba' na iya haddasa matsala ta gaske.
+KEY card.p2-07.format
+ en: GENERATION MEME
+ sw: MEME YA VIZAZI
+ ha: MEME NA ZAMANI
+KEY card.p2-07.meaning
+ en: Older folks start ‘back in my day’ stories—sometimes flexing how hard or glorious those days were.
+ sw: Wazee huanza hadithi za 'wakati wangu' — mara nyingine wakijivunia jinsi siku hizo zilivyokuwa ngumu au tukufu.
+ ha: Manya suna farawa labaru na 'a zamanina' — wani lokaci suna alfahari da yadda kwanakin nan suka yi wahala ko daukaka.
+KEY card.p2-08.format
+ en: PERFORMANCE MEME
+ sw: MEME YA UTENDAJI
+ ha: MEME NA AIKI
+KEY card.p2-08.meaning
+ en: Everyone has at least one thing they can do well.
+ sw: Kila mtu ana angalau jambo moja analoweza kufanya vizuri.
+ ha: Kowa yana da akalla abu daya da zai iya yi da kyau.

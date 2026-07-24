@@ -1,0 +1,217 @@
+=== paraphrase rates ===
+ne: paraphrase=11/42 loose_note=13/42
+my: paraphrase=8/42 loose_note=10/42
+km: paraphrase=8/42 loose_note=11/42
+hi: paraphrase=11/42 loose_note=13/42
+bn: paraphrase=11/42 loose_note=13/42
+ar: paraphrase=10/42 loose_note=10/42
+es: paraphrase=6/42 loose_note=13/42
+fr: paraphrase=10/42 loose_note=11/42
+de: paraphrase=8/42 loose_note=10/42
+sw: paraphrase=8/42 loose_note=9/42
+ha: paraphrase=8/42 loose_note=9/42
+fil: paraphrase=9/42 loose_note=11/42
+=== placeholder failures ===
+none
+=== UI samples ===
+KEY ui.brand_slogan
+ en: Old Wisdom, New Vibes.
+ es: Sabiduría antigua, vibra nueva.
+ fr: Vieille sagesse, nouvelle vibe.
+ de: Alte Weisheit, neue Vibes.
+ ar: حكمة قديمة، أجواء جديدة.
+ hi: पुरानी बुद्धि, नया अंदाज़।
+ fil: Lumang Karunungan, Bagong Vibe.
+ km: ប្រាជ្ញាចាស់ អារម្មណ៍ថ្មី។
+ sw: Hekima ya Kale, Mtindo Mpya.
+ ha: Tsohuwar Hikima, Sabuwar Yanayi.
+ ne: पुरानो बुद्धि, नयाँ भाइब।
+KEY ui.hero_copy
+ en: Match Korean internet slang with timeless proverbs. Then remix the old wisdom in the language of memes.
+ es: Empareja la jerga de internet coreana con refranes atemporales. Luego remezcla la vieja sabiduría en el lenguaje de los memes.
+ fr: Associez le jargon internet coréen à des proverbes intemporels. Puis remixez cette vieille sagesse dans la langue des mèmes.
+ de: Verbinde koreanischen Internet-Slang mit zeitlosen Sprichwörtern. Remixe dann die alte Weisheit in der Sprache der Memes.
+ ar: اجمع بين العامية الكورية على الإنترنت والأمثال الخالدة. ثم أعد صياغة الحكمة القديمة بلغة الميمز.
+ hi: कोरियाई इंटरनेट स्लैंग को कालातीत कहावतों से मिलाएँ। फिर उस पुरानी बुद्धि को मीम्स की भाषा में नए सिरे से पेश करें।
+ fil: Itambal ang Korean internet slang sa mga walang-hanggang kasabihan. Pagkatapos, i-remix ang lumang karunungan sa wika ng mga meme.
+ km: ផ្គូផ្គងពាក្យស្លាំងអ៊ីនធឺណិតកូរ៉េជាមួយសុភាសិតដែលមិនចេះហួសសម័យ។ បន្ទាប់មករៀបចំប្រាជ្ញាចាស់នោះឡើងវិញជាភាសាមេម។
+ sw: Linganisha lugha ya mitaani ya Kikorea na methali za milele. Kisha changanya hekima hiyo ya kale kwa lugha ya memes.
+ ha: Ka daidaita salon magana na intanet na Koriya da karin magana marasa lokaci. Sannan ka sake tsara wannan tsohuwar hikima cikin harshen memes.
+ ne: कोरियाली इन्टरनेट स्ल्याङलाई कालातीत उखानसँग मिलाउनुहोस्। त्यसपछि त्यो पुरानो बुद्धिलाई मिमको भाषामा नयाँ रूपमा ल्याउनुहोस्।
+KEY ui.correct
+ en: CORRECT
+ es: CORRECTO
+ fr: CORRECT
+ de: RICHTIG
+ ar: صحيح
+ hi: सही
+ fil: TAMA
+ km: ត្រឹមត្រូវ
+ sw: SAHIHI
+ ha: DAIDAI
+ ne: सही
+KEY ui.wrong
+ en: WRONG
+ es: INCORRECTO
+ fr: INCORRECT
+ de: FALSCH
+ ar: خطأ
+ hi: गलत
+ fil: MALI
+ km: មិនត្រឹមត្រូវ
+ sw: SI SAHIHI
+ ha: BA DAIDAI BA
+ ne: गलत
+KEY ui.try_again
+ en: TRY AGAIN
+ es: INTENTAR DE NUEVO
+ fr: RÉESSAYER
+ de: NOCHMAL VERSUCHEN
+ ar: حاول مرة أخرى
+ hi: फिर कोशिश करें
+ fil: SUBUKAN ULIT
+ km: សាកល្បងម្តងទៀត
+ sw: JARIBU TENA
+ ha: SAKE GWADAWA
+ ne: फेरि प्रयास गर्नुहोस्
+KEY ui.result.misses_line
+ en: You missed {n} time(s). Lower is better—try again for a cleaner run.
+ es: Fallaste {n} vez(veces). Menos es mejor: inténtalo de nuevo para una ronda más limpia.
+ fr: Tu as raté {n} fois. Moins, c'est mieux — réessaie pour une partie plus propre.
+ de: Du hast {n} Mal daneben gelegen. Weniger ist besser — versuch es noch einmal für einen saubereren Lauf.
+ ar: أخطأت {n} مرة. كلما قلّ العدد كان أفضل — جرّب مرة أخرى لأداء أنظف.
+ hi: तुमसे {n} बार गलती हुई। कम बेहतर है — साफ़-सुथरे राउंड के लिए फिर कोशिश करो।
+ fil: Nagkamali ka ng {n} beses. Mas mabuti kung mas kaunti — subukan muli para sa mas malinis na round.
+ km: អ្នកខុស {n} ដង។ តិចជាងគឺល្អជាង — សាកល្បងម្តងទៀតដើម្បីមួយជុំស្អាតជាងមុន។
+ sw: Umekosa mara {n}. Kadri ikipungua ndivyo bora — jaribu tena kwa raundi safi zaidi.
+ ha: Ka yi kuskure sau {n}. Karanci ya fi kyau — sake gwadawa domin zagaye mai tsafta.
+ ne: तपाईंले {n} पटक गल्ती गर्नुभयो। कम राम्रो हो — अझ सफा राउन्डको लागि फेरि प्रयास गर्नुहोस्।
+KEY card.p1-01.meaning
+ en: I brought this disaster upon myself.
+ es: Yo mismo me busqué este desastre.
+ fr: Je me suis attiré ce désastre moi-même.
+ de: Ich habe mir dieses Desaster selbst eingebrockt.
+ ar: جلبت هذه الكارثة على نفسي بنفسي.
+ hi: यह मुसीबत मैंने खुद अपने ऊपर मोल ली।
+ fil: Ako mismo ang may kagagawan ng sakunang ito.
+ km: ខ្ញុំបានទាញយកគ្រោះមហន្តរាយនេះមកលើខ្លួនឯង។
+ sw: Nilijiletea msiba huu mwenyewe.
+ ha: Na jawo wa kaina wannan bala'i da kaina.
+ ne: यो विपत्ति मैले आफैंले निम्त्याएको हुँ।
+KEY card.p1-04.scenario
+ en: He complains when others are five minutes late, but expects everyone to wait when he is late.
+ es: Se queja cuando otros llegan cinco minutos tarde, pero espera que todos lo esperen cuando él llega tarde.
+ fr: Il se plaint quand les autres ont cinq minutes de retard, mais s'attend à ce que tout le monde l'attende quand il est en retard.
+ de: Er beschwert sich, wenn andere fünf Minuten zu spät sind, erwartet aber, dass alle warten, wenn er selbst zu spät ist.
+ ar: يشتكي عندما يتأخر الآخرون خمس دقائق، لكنه يتوقع من الجميع الانتظار عندما يتأخر هو.
+ hi: जब दूसरे पाँच मिनट देर से आते हैं तो वह शिकायत करता है, लेकिन जब खुद देर से आता है तो चाहता है सब उसका इंतज़ार करें।
+ fil: Nagrereklamo siya kapag limang minuto ang huli ng iba, pero inaasahan niyang lahat ay maghihintay kapag siya ang nahuli.
+ km: គាត់ត្អូញត្អែរនៅពេលអ្នកដទៃយឺតប្រាំនាទី ប៉ុន្តែរំពឹងឲ្យអ្នកគ្រប់គ្នារង់ចាំគាត់នៅពេលគាត់យឺត។
+ sw: Analalamika wengine wanapochelewa dakika tano, lakini anatarajia kila mtu amsubiri anapochelewa mwenyewe.
+ ha: Yakan yi korafi idan wasu suka makara da mintuna biyar, amma yana son kowa ya jira shi idan shi ne ya makara.
+ ne: अरू पाँच मिनेट ढिलो हुँदा गुनासो गर्छ, तर आफू ढिलो हुँदा सबैले पर्खिनुपर्छ भन्ने अपेक्षा गर्छ।
+=== proverb samples ===
+KO 제 무덤 내가 판다 | You dug your own grave.
+ es[idiom]: Cavar tu propia tumba. | None
+ fr[idiom]: Creuser sa propre tombe. | None
+ de[idiom]: Sich sein eigenes Grab schaufeln. | None
+ ar[idiom]: حفر قبره بيده. | None
+ hi[idiom]: अपनी कब्र खुद खोदना। | None
+ fil[idiom]: Sariling libingan ang hinukay. | None
+ km[idiom]: ជីករណ្តៅដាក់ខ្លួនឯង។ | None
+ ne[idiom]: आफैंले आफ्नो चिहान खन्नु। | None
+ my[idiom]: ကိုယ့်သင်္ချိုင်းကို ကိုယ်တူးခြင်း။ | None
+ sw[idiom]: Kujichimbia kaburi lako mwenyewe. | None
+ ha[idiom]: Haƙa wa kanka kabari. | None
+ bn[idiom]: নিজের কবর নিজে খোঁড়া। | None
+KO 남의 떡이 커 보인다 | The grass is always greener on the other side.
+ es[proverb]: La hierba siempre es más verde del otro lado. | None
+ fr[proverb]: L'herbe est toujours plus verte ailleurs. | None
+ de[proverb]: Das Gras auf der anderen Seite ist immer grüner. | None
+ ar[proverb]: عشب الجار دائماً أخضر. | None
+ hi[proverb]: दूसरे की थाली का खाना ज़्यादा स्वादिष्ट लगता है। | None
+ fil[proverb]: Mas berde palagi ang damo sa kabilang bakod. | None
+ km[proverb]: ស្មៅផ្ទះអ្នកជិតខាងតែងមើលទៅបៃតងជាង។ | None
+ ne[proverb]: अर्काको थालको भात बढी मीठो देखिन्छ। | None
+ my[proverb]: တစ်ဖက်လူ့ မြက်ခင်းက ပိုစိမ်းလန်းနေသည်ဟု ထင်ရသည်။ | None
+ sw[proverb]: Nyasi za jirani huonekana nzuri zaidi. | None
+ ha[proverb]: Ciyawar makwabci kan yi kama da mafi kore. | None
+ bn[proverb]: অন্যের থালার ভাত বেশি সুস্বাদু মনে হয়। | None
+KO 설마가 사람 잡는다 | Famous last words.
+ es[paraphrase]: Dicho y hecho, la desgracia llegó por confiado. | loose
+ fr[paraphrase]: À force de tenter le sort, le malheur finit par arriver. | loose
+ de[paraphrase]: Wer den Teufel an die Wand malt, den holt er auch. | loose
+ ar[paraphrase]: لا تقل فعلت حتى تفعل، فالحذر واجب. | loose
+ hi[paraphrase]: अति आत्मविश्वास मुसीबत बुला लेता है। | loose
+ fil[paraphrase]: Ang walang-ingat na kumpiyansa na 'malamang hindi mangyayari' ay nagdudulot ng gulo. | loose
+ km[paraphrase]: ការទុកចិត្តធ្វេសប្រហែសថា 'ប្រហែលជាមិនកើតឡើងទេ' នាំមកនូវបញ្ហាពិត។ | loose
+ ne[paraphrase]: बढी आत्मविश्वासले नै समस्या निम्त्याउँछ। | loose
+ my[paraphrase]: 'ဖြစ်မှာမဟုတ်ဘူး' ဆိုတဲ့ ပေါ့ပေါ့တန်တန် ယုံကြည်မှုက အမှန်တကယ် ပြဿနာဖြစ်စေနိုင်သည်။ | loose
+ sw[paraphrase]: Kudhani 'labda haitatokea' huleta matatizo halisi. | loose
+ ha[paraphrase]: Amincewa cewa 'ba zai faru ba' na kawo matsala ta gaske. | loose
+ bn[paraphrase]: বেশি আত্মবিশ্বাসই বিপদ ডেকে আনে। | loose
+KO 호랑이 담배 피던 시절 | Back in my day.
+ es[saying]: En mis tiempos... | None
+ fr[saying]: De mon temps... | None
+ de[saying]: Zu meiner Zeit... | None
+ ar[saying]: في زماني... | None
+ hi[saying]: मेरे ज़माने में... | None
+ fil[saying]: Noong araw ko... | None
+ km[saying]: នៅសម័យខ្ញុំ... | None
+ ne[saying]: मेरो पालामा... | None
+ my[saying]: ငါ့ခေတ်တုန်းက... | None
+ sw[saying]: Wakati wangu... | None
+ ha[saying]: A zamanina... | None
+ bn[saying]: আমার সময়ে... | None
+KO 되로 주고 말로 받는다 | Sow the wind, reap the whirlwind.
+ es[proverb]: El que siembra vientos recoge tempestades. | None
+ fr[proverb]: Qui sème le vent récolte la tempête. | None
+ de[proverb]: Wer Wind sät, wird Sturm ernten. | None
+ ar[proverb]: من يزرع الريح يحصد العاصفة. | None
+ hi[paraphrase]: जैसा बोओगे वैसा काटोगे — पर उल्टा फल भुगतोगे। | loose
+ fil[proverb]: Ang naghahasik ng hangin ay aani ng bagyo. | None
+ km[proverb]: អ្នកសាបព្រួសខ្យល់ នឹងច្រូតកាត់ព្យុះ។ | None
+ ne[paraphrase]: जस्तो गर्यो त्यस्तै पाइन्छ, उल्टो झन् गाह्रो हुन्छ। | loose
+ my[proverb]: လေကိုစိုက်ပျိုးသူသည် လေဆင်းနှင်းလေကို ရိတ်သိမ်းရလိမ့်မည်။ | None
+ sw[proverb]: Aupandaye upepo atavuna tufani. | None
+ ha[proverb]: Wanda ya shuka iska zai girbi guguwa. | None
+ bn[paraphrase]: যেমন কাজ তেমন ফল, উল্টো হলে আরও কঠিন। | loose
+KO 서당 개 삼 년이면 풍월을 읊는다 | You pick things up by osmosis.
+ es[paraphrase]: Lo aprendes por pura costumbre de estar ahí. | loose
+ fr[paraphrase]: On apprend par simple habitude d'être là. | loose
+ de[paraphrase]: Man lernt allein durch die Gewohnheit, dabei zu sein. | loose
+ ar[paraphrase]: جالس القوم فتصبح منهم. | loose
+ hi[paraphrase]: संगत का असर ज़रूर पड़ता है। | loose
+ fil[paraphrase]: Natutunan lang dahil laging naroon. | loose
+ km[paraphrase]: នៅជាមួយកន្លែងណាយូរ តែងរៀនអ្វីមួយដោយធម្មជាតិ។ | loose
+ ne[paraphrase]: सङ्गतको प्रभाव नपरी छाड्दैन। | loose
+ my[paraphrase]: နေရာတစ်ခုမှာ ကြာကြာနေရုံနှင့်ပင် တစ်ခုခု သင်ယူမိတတ်သည်။ | loose
+ sw[paraphrase]: Unajifunza kwa kuwa tu mahali fulani muda mrefu. | loose
+ ha[paraphrase]: Zama a wuri na dogon lokaci yana koya wa mutum wani abu ba tare da nema ba. | loose
+ bn[paraphrase]: সঙ্গদোষে কিছু একটা শিখেই যায়। | loose
+KO 개똥도 약에 쓰려면 없다 | You can never find a thing when you need it.
+ es[saying]: Nunca encuentras algo cuando lo necesitas. | None
+ fr[saying]: On ne trouve jamais une chose quand on en a besoin. | None
+ de[saying]: Man findet nie etwas, wenn man es braucht. | None
+ ar[saying]: لا تجد الشيء إلا حين لا تحتاجه. | None
+ hi[saying]: ज़रूरत के वक़्त चीज़ कभी नहीं मिलती। | None
+ fil[saying]: Hindi mo mahanap ang isang bagay kapag kailangan mo ito. | None
+ km[saying]: រកមិនឃើញរបស់នៅពេលដែលត្រូវការវាបំផុត។ | None
+ ne[saying]: चाहिँदा बेला चीज कहिल्यै भेटिँदैन। | None
+ my[saying]: လိုချင်တဲ့အချိန်မှာ ဘယ်တော့မှ ရှာမတွေ့ပါ။ | None
+ sw[saying]: Kitu hakipatikani hasa unapokihitaji. | None
+ ha[saying]: Ba a samun abu sai lokacin da ba a bukatarsa. | None
+ bn[saying]: দরকারের সময় জিনিসটা কখনো পাওয়া যায় না। | None
+KO 똥 묻은 개가 겨 묻은 개 나무란다 | The pot calling the kettle black.
+ es[idiom]: Le dijo la sartén al cazo. | None
+ fr[proverb]: C'est l'hôpital qui se moque de la charité. | None
+ de[proverb]: Ein Esel schimpft den anderen Langohr. | None
+ ar[proverb]: قالت الحلة للقدر: يا عيون سود. | None
+ hi[proverb]: उल्टा चोर कोतवाल को डाँटे। | None
+ fil[proverb]: Ang kaldero ang nagsasabing maitim ang kaldero. | None
+ km[proverb]: ខ្ទះថ្កោលមឆ្នូងលើលេខសខ្មៅដូចខ្លួនឯង។ | loose
+ ne[proverb]: चोरकै आमाको ठूलो स्वर। | None
+ my[proverb]: ဒယ်အိုးက အိုးကို မီးခိုးနံ့ဆိုပြီး ပြစ်တင်နေသလိုပါပဲ။ | None
+ sw[paraphrase]: Sufuria inamlaumu mkojo mweusi. | loose
+ ha[paraphrase]: Tukunya tana zargin kwarya da bakinta. | loose
+ bn[proverb]: চোরের মায়ের বড় গলা। | None

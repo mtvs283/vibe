@@ -1,0 +1,1335 @@
+{
+  "strings": {
+    "ui.edition_pill": {
+      "th": "ฉบับภาษาอังกฤษ",
+      "id": "EDISI BAHASA INGGRIS",
+      "mn": "АНГЛИ ХЭЛНИЙ ХУВИЛБАР"
+    },
+    "ui.sinavro_presents": {
+      "th": "SINAVRO นำเสนอ",
+      "id": "SINAVRO MEMBAWAKAN",
+      "mn": "SINAVRO ТАНИЛЦУУЛЖ БАЙНА"
+    },
+    "ui.product_descriptor": {
+      "th": "เกมการ์ดสุภาษิตและสแลงเกาหลี",
+      "id": "PERMAINAN KARTU PERIBAHASA & SLANG KOREA",
+      "mn": "СОЛОНГОС ЗҮЙР ҮГ, СЛЭНГИЙН КАРТ ТОГЛООМ"
+    },
+    "ui.tap_to_continue": {
+      "th": "แตะเพื่อไปต่อ →",
+      "id": "KETUK UNTUK LANJUT →",
+      "mn": "ҮРГЭЛЖЛҮҮЛЭХИЙН ТУЛД ТОВШИНО УУ →"
+    },
+    "ui.brand_slogan": {
+      "th": "ภูมิปัญญาเก่า ไวบ์ใหม่",
+      "id": "Kearifan lama, vibe baru.",
+      "mn": "Хуучин мэргэн ухаан, шинэ вайб."
+    },
+    "ui.hero_copy": {
+      "th": "จับคู่สแลงอินเทอร์เน็ตเกาหลีกับสุภาษิตอมตะ แล้วรีมิกซ์ภูมิปัญญาเก่าในภาษาของมีม",
+      "id": "Pasangkan slang internet Korea dengan peribahasa abadi. Lalu remix kearifan lama dalam bahasa meme.",
+      "mn": "Солонгос интернетийн слэнг болон мөнхийн зүйр үгийг хосолно. Дараа нь хуучин мэргэн ухааныг мемээр дахин бүтээнэ."
+    },
+    "ui.tag.korean_slang": {
+      "th": "#สแลงเกาหลี",
+      "id": "#SlangKorea",
+      "mn": "#СолонгосСлэнг"
+    },
+    "ui.tag.proverbs": {
+      "th": "#สุภาษิต",
+      "id": "#Peribahasa",
+      "mn": "#ЗүйрҮг"
+    },
+    "ui.tag.world_wisdom": {
+      "th": "#ภูมิปัญญาโลก",
+      "id": "#KearifanDunia",
+      "mn": "#ДэлхийнМэргэнУхаан"
+    },
+    "ui.part01_title": {
+      "th": "จับไวบ์ให้ได้",
+      "id": "Tangkap Vibnya",
+      "mn": "Вайбыг барь"
+    },
+    "ui.part01_body": {
+      "th": "ค้นพบสแลงเกาหลีจริง อ่านสถานการณ์ แล้วหาสุภาษิตที่ใกล้เคียงที่สุด",
+      "id": "Temukan slang Korea asli, baca situasinya, dan cari peribahasa yang paling dekat.",
+      "mn": "Жинхэнэ солонгос слэнг олж, нөхцөл байдлыг уншаад, хамгийн ойр зүйр үгийг олно."
+    },
+    "ui.part01_li1": {
+      "th": "8 สำนวนจริง",
+      "id": "8 ekspresi asli",
+      "mn": "8 жинхэнэ хэллэг"
+    },
+    "ui.part01_li2": {
+      "th": "การ์ดภาพสองแผง",
+      "id": "Kartu visual dua panel",
+      "mn": "Хоёр самбартай зурагт карт"
+    },
+    "ui.part01_li3": {
+      "th": "คู่สุภาษิตภาษาอังกฤษ",
+      "id": "Padanan peribahasa Inggris",
+      "mn": "Англи зүйр үгийн хослол"
+    },
+    "ui.start_part1": {
+      "th": "เริ่มพาร์ต 1 →",
+      "id": "MULAI BAGIAN 1 →",
+      "mn": "1-Р ХЭСГИЙГ ЭХЛҮҮЛЭХ →"
+    },
+    "ui.part02_title": {
+      "th": "รีมิกซ์สุภาษิต",
+      "id": "Remix Peribahasa",
+      "mn": "Зүйр үгийн ремикс"
+    },
+    "ui.part02_body": {
+      "th": "ถอดรหัสสุภาษิตเกาหลีที่ถูกเขียนใหม่เป็นมีม โพสต์ชุมชน และมุกสมัยใหม่",
+      "id": "Pecahkan kode peribahasa Korea yang ditulis ulang jadi meme, postingan komunitas, dan punchline modern.",
+      "mn": "Мем, олон нийтийн пост, орчин үеийн хошигнол болгон дахин бичсэн солонгос зүйр үгийг тайл."
+    },
+    "ui.part02_li1": {
+      "th": "8 รีมิกซ์สร้างสรรค์",
+      "id": "8 remix kreatif",
+      "mn": "8 бүтээлч ремикс"
+    },
+    "ui.part02_li2": {
+      "th": "การ์ดภาพสองแผง",
+      "id": "Kartu visual dua panel",
+      "mn": "Хоёр самбартай зурагт карт"
+    },
+    "ui.part02_li3": {
+      "th": "คุยเรื่องภูมิปัญญาโลก",
+      "id": "Diskusi kearifan dunia",
+      "mn": "Дэлхийн мэргэн ухааны яриа"
+    },
+    "ui.start_part2": {
+      "th": "เริ่มพาร์ต 2 →",
+      "id": "MULAI BAGIAN 2 →",
+      "mn": "2-Р ХЭСГИЙГ ЭХЛҮҮЛЭХ →"
+    },
+    "ui.game_title.part1": {
+      "th": "จับไวบ์ให้ได้",
+      "id": "TANGKAP VIBNYA",
+      "mn": "ВАЙБЫГ БАРЬ"
+    },
+    "ui.game_title.part2": {
+      "th": "รีมิกซ์สุภาษิต",
+      "id": "REMIX PERIBAHASA",
+      "mn": "ЗҮЙР ҮГИЙН РЕМИКС"
+    },
+    "ui.misses": {
+      "th": "พลาด",
+      "id": "SALAH",
+      "mn": "АЛДАА"
+    },
+    "ui.part_switch_1": {
+      "th": "← พาร์ต 1",
+      "id": "← BAGIAN 1",
+      "mn": "← 1-Р ХЭСЭГ"
+    },
+    "ui.part_switch_2": {
+      "th": "พาร์ต 2 →",
+      "id": "BAGIAN 2 →",
+      "mn": "2-Р ХЭСЭГ →"
+    },
+    "ui.part_complete": {
+      "th": "พาร์ต {n} ผ่านแล้ว",
+      "id": "BAGIAN {n} SELESAI",
+      "mn": "{n}-Р ХЭСЭГ ДУУСЛАА"
+    },
+    "ui.result.immaculate": {
+      "th": "ไวบ์ของคุณเป๊ะมาก",
+      "id": "Vibemu sempurna.",
+      "mn": "Таны вайб төгс."
+    },
+    "ui.result.close": {
+      "th": "ใกล้แล้ว ภูมิปัญญากำลังลงตัว",
+      "id": "Hampir. Kearifannya mulai nyangkut.",
+      "mn": "Бараг. Мэргэн ухаан сууж байна."
+    },
+    "ui.result.loading": {
+      "th": "ภูมิปัญญากำลังโหลด",
+      "id": "Kearifan sedang loading.",
+      "mn": "Мэргэн ухаан ачааллаж байна."
+    },
+    "ui.result.zero_misses": {
+      "th": "ไม่พลาดเลย อ่านไวบ์ได้หมดตั้งแต่ครั้งแรก",
+      "id": "Tanpa salah. Kamu baca setiap vibe di percobaan pertama.",
+      "mn": "Алдаагүй. Та анхны оролдлогоор бүх вайбыг уншсан."
+    },
+    "ui.result.misses_line": {
+      "th": "คุณพลาด {n} ครั้ง ยิ่งน้อยยิ่งดี—ลองอีกรอบให้นิ่งขึ้น",
+      "id": "Kamu salah {n} kali. Semakin kecil semakin bagus—coba lagi untuk run yang lebih bersih.",
+      "mn": "Та {n} удаа алдсан. Бага байх тусам сайн—цэвэрхэн давахын тулд дахин оролдоорой."
+    },
+    "ui.result.after_part1": {
+      "th": "คุณถอดรหัสสแลงแล้ว ตอนนี้ใช้ไวบ์ใหม่นั้นรีมิกซ์ภูมิปัญญาเกาหลีเก่า",
+      "id": "Kamu sudah memecahkan slang. Sekarang pakai vibe baru itu untuk remix kearifan Korea lama.",
+      "mn": "Та слэнгийг тайлсан. Одоо тэр шинэ вайбаар хуучин солонгос мэргэн ухааныг ремикс хий."
+    },
+    "ui.result.after_part2": {
+      "th": "คุณเดินทางจากสุภาษิตเก่าถึงมีมออนไลน์—และพบความจริงของมนุษย์ที่อยู่ใต้ทั้งสอง",
+      "id": "Kamu sudah berjalan dari peribahasa lama ke meme internet—dan menemukan kebenaran manusia di baliknya.",
+      "mn": "Та хуучин зүйр үгээс интернетийн мем рүү аялсан—мөн хоёулангийнх нь доорх хүний үнэнийг олсон."
+    },
+    "ui.around_the_world": {
+      "th": "รอบโลก",
+      "id": "KELILING DUNIA",
+      "mn": "ДЭЛХИЙГЭЭР"
+    },
+    "ui.world_question": {
+      "th": "ภาษาของคุณมีสุภาษิตที่ตรงกับการ์ดวันนี้ไหม?",
+      "id": "Apakah bahasamu punya peribahasa yang cocok dengan salah satu kartu hari ini?",
+      "mn": "Таны хэлэнд өнөөдрийн картуудын аль нэгтэй тохирох зүйр үг байдаг уу?"
+    },
+    "ui.continue_part2": {
+      "th": "ไปพาร์ต 2 ต่อ →",
+      "id": "LANJUT KE BAGIAN 2 →",
+      "mn": "2-Р ХЭСЭГ РҮҮ ҮРГЭЛЖЛҮҮЛЭХ →"
+    },
+    "ui.go_part1": {
+      "th": "← ไปพาร์ต 1",
+      "id": "← KE BAGIAN 1",
+      "mn": "← 1-Р ХЭСЭГ РҮҮ"
+    },
+    "ui.play_again": {
+      "th": "เล่นอีกครั้ง",
+      "id": "MAIN LAGI",
+      "mn": "ДАХИН ТОГЛОХ"
+    },
+    "ui.back_home": {
+      "th": "กลับหน้าแรก",
+      "id": "KEMBALI KE BERANDA",
+      "mn": "НҮҮР ХУУДАС РҮҮ"
+    },
+    "ui.old_wisdom_new_vibes": {
+      "th": "ภูมิปัญญาเก่า ไวบ์ใหม่",
+      "id": "KEARIFAN LAMA, VIBE BARU",
+      "mn": "ХУУЧИН МЭРГЭН УХААН, ШИНЭ ВАЙБ"
+    },
+    "ui.correct": {
+      "th": "ถูกต้อง",
+      "id": "BENAR",
+      "mn": "ЗӨВ"
+    },
+    "ui.wrong": {
+      "th": "ผิด",
+      "id": "SALAH",
+      "mn": "БУРУУ"
+    },
+    "ui.try_again": {
+      "th": "ลองอีกครั้ง",
+      "id": "COBA LAGI",
+      "mn": "ДАХИН ОРОЛД"
+    },
+    "ui.next": {
+      "th": "ถัดไป",
+      "id": "LANJUT",
+      "mn": "ДАРААХ"
+    },
+    "ui.decode_it": {
+      "th": "ถอดรหัส",
+      "id": "PECAHKAN",
+      "mn": "ТАЙЛ"
+    },
+    "ui.find_proverb_q": {
+      "th": "สุภาษิตต้นฉบับคืออะไร?",
+      "id": "Apa peribahasa aslinya?",
+      "mn": "Жинхэнэ зүйр үг юу вэ?"
+    },
+    "ui.find_proverb_hint_p1": {
+      "th": "หาสุภาษิตเกาหลีที่ตรงกับไวบ์นี้",
+      "id": "Cari peribahasa Korea yang cocok dengan vibe ini.",
+      "mn": "Энэ вайбтай тохирох солонгос зүйр үгийг ол."
+    },
+    "ui.find_proverb_hint_p2": {
+      "th": "หาสุภาษิตเกาหลีต้นฉบับที่ซ่อนอยู่ในรีมิกซ์สมัยใหม่นี้",
+      "id": "Cari peribahasa Korea asli yang tersembunyi di remix modern ini.",
+      "mn": "Энэ орчин үеийн ремикст нуугдсан жинхэнэ солонгос зүйр үгийг ол."
+    },
+    "ui.image_slot": {
+      "th": "ช่องรูปภาพ",
+      "id": "Slot gambar",
+      "mn": "Зургийн зай"
+    },
+    "ui.image_slot_hint": {
+      "th": "วางงานศิลป์ Gemini ที่นี่ทีหลัง",
+      "id": "Letakkan seni Gemini di sini nanti.",
+      "mn": "Gemini-ийн зургийг дараа энд хийнэ."
+    },
+    "ui.part1_cleared": {
+      "th": "พาร์ต 1 เคลียร์ ✓",
+      "id": "BAGIAN 1 SELESAI ✓",
+      "mn": "1-Р ХЭСЭГ ДУУССАН ✓"
+    },
+    "card.p1-01.era": {
+      "th": "สแลงอินเทอร์เน็ตยุค 2020",
+      "id": "Slang internet 2020-an",
+      "mn": "2020-аад оны интернетийн слэнг"
+    },
+    "card.p1-01.meaning": {
+      "th": "หายนะนี้ฉันก่อเอง",
+      "id": "Bencana ini aku datangkan sendiri.",
+      "mn": "Энэ гамшгийг би өөрөө авчирсан."
+    },
+    "card.p1-01.scenario": {
+      "th": "คุณเพิกเฉยทุกคำเตือน ตอนนี้ยืนอยู่กลางกองขยะที่ตัวเองสร้างด้วยมือตัวเอง",
+      "id": "Kamu abaikan semua peringatan. Sekarang kamu berdiri di kekacauan yang kamu buat sendiri.",
+      "mn": "Та бүх анхааруулгыг үл тоомсорлосон. Одоо өөрийн гараар үүсгэсэн эмх замбараагүй байдал дунд зогсож байна."
+    },
+    "card.p1-02.era": {
+      "th": "สแลงไลฟ์สไตล์ยุค 2020",
+      "id": "Slang gaya hidup 2020-an",
+      "mn": "2020-аад оны амьдралын хэв маягийн слэнг"
+    },
+    "card.p1-02.meaning": {
+      "th": "ชีวิตที่มีวินัย ผลิตผล และน่าชื่นชม",
+      "id": "Hidup yang disiplin, produktif, dan mengagumkan.",
+      "mn": "Сахилга баттай, бүтээмжтэй, бишрэм амьдрал."
+    },
+    "card.p1-02.scenario": {
+      "th": "ตื่นเช้า ออกกำลังกาย เรียนเกาหลี เตรียมข้าวเที่ยง แล้วยังไปทำงานทันเวลา",
+      "id": "Bangun pagi, olahraga, belajar Korea, siapkan bekal, dan tetap sampai kantor tepat waktu.",
+      "mn": "Эрт босоод, дасгал хийгээд, солонгос сураад, үдийн хоол бэлдээд, ажлын цагтаа хүрдэг."
+    },
+    "card.p1-03.era": {
+      "th": "มีมกีฬาและเกมปี 2022",
+      "id": "Meme olahraga & game 2022",
+      "mn": "2022 оны спорт, тоглоомын мем"
+    },
+    "card.p1-03.meaning": {
+      "th": "สิ่งสำคัญคือจิตใจที่ไม่ยอมแพ้",
+      "id": "Yang penting adalah semangat yang tak terkalahkan.",
+      "mn": "Чухал нь эвдэршгүй сэтгэл."
+    },
+    "card.p1-03.scenario": {
+      "th": "ทีมคุณตามห่างมาก แต่ไม่มีใครยอมแพ้ก่อนเสียงหวูดสุดท้าย",
+      "id": "Timmu tertinggal jauh, tapi tak ada yang menyerah sebelum peluit akhir.",
+      "mn": "Таны баг хол хоцорсон ч эцсийн шүгэл хүртэл хэн ч бууж өгөхгүй."
+    },
+    "card.p1-04.era": {
+      "th": "วาทกรรมสาธารณะยุค 2010–2020",
+      "id": "Wacana publik 2010-an–2020-an",
+      "mn": "2010–2020-аад оны нийтийн яриа"
+    },
+    "card.p1-04.meaning": {
+      "th": "กฎหนึ่งสำหรับฉัน อีกกฎสำหรับคุณ",
+      "id": "Satu aturan untukku, aturan lain untukmu.",
+      "mn": "Надад нэг дүрэм, чамд өөр дүрэм."
+    },
+    "card.p1-04.scenario": {
+      "th": "เขาบ่นเมื่อคนอื่นมาสายห้านาที แต่คาดหวังให้ทุกคนรอเมื่อตัวเองสาย",
+      "id": "Dia mengeluh kalau orang lain terlambat lima menit, tapi mengharapkan semua menunggu saat dia yang terlambat.",
+      "mn": "Бусад таван минут хоцорвол гомдоллодог ч өөрөө хоцорвол бүгдийг хүлээхийг хүсдэг."
+    },
+    "card.p1-05.era": {
+      "th": "มีมปฏิกิริยายุค 2020",
+      "id": "Meme reaksi 2020-an",
+      "mn": "2020-аад оны хариу үйлдлийн мем"
+    },
+    "card.p1-05.meaning": {
+      "th": "อันนี้อาจดีกว่าด้วยซ้ำ!",
+      "id": "Ini justru bisa lebih baik!",
+      "mn": "Энэ бүр илүү байж магад!"
+    },
+    "card.p1-05.scenario": {
+      "th": "คุณพลาดรถเมล์แน่นในวันที่ฝนตก—แล้วคันถัดไปให้คุณที่นั่งหรูว่างๆ",
+      "id": "Kamu ketinggalan bus penuh di hujan—lalu bus berikutnya memberimu kursi mewah yang kosong.",
+      "mn": "Бороотой өдөр дүүрэн автобус алдсан—дараагийнх нь тансаг хоосон суудал өгөв."
+    },
+    "card.p1-06.era": {
+      "th": "สแลงปลายยุค 2010–2020",
+      "id": "Slang akhir 2010-an–2020-an",
+      "mn": "2010-аад оны төгсгөл–2020-аад оны слэнг"
+    },
+    "card.p1-06.meaning": {
+      "th": "จัดการได้ดี เป็นระเบียบ และมีไหวพริบ—โดยไม่ต้องบอกทุกรายละเอียด",
+      "id": "Tangani dengan rapi, cerdas, dan masuk akal—tanpa perlu diberi tahu setiap detail.",
+      "mn": "Дэлгэрэнгүй хэлүүлэлгүйгээр цэвэрхэн, ухаалаг, зөвөөр хий."
+    },
+    "card.p1-06.scenario": {
+      "th": "คุณสั่งสั้นๆ ประโยคเดียว เพื่อนร่วมงานเข้าใจทั้งสถานการณ์แล้วส่งงานมาเป๊ะ",
+      "id": "Kamu kasih satu instruksi singkat. Rekan kerja memahami seluruh situasi dan mengirim hasil yang sempurna.",
+      "mn": "Та нэг богино заавар өгнө. Хамтран ажиллагч бүх нөхцөлийг ойлгоод төгс хүргэнэ."
+    },
+    "card.p1-07.era": {
+      "th": "วัฒนธรรมเปรียบเทียบยุค 2000",
+      "id": "Budaya perbandingan 2000-an",
+      "mn": "2000-аад оны харьцуулалтын соёл"
+    },
+    "card.p1-07.meaning": {
+      "th": "‘ลูกชายเพื่อนแม่’ ที่สมบูรณ์แบบเกินจริงที่แม่เอาไปเทียบกับคุณ",
+      "id": "‘Anak teman ibu’ yang mustahil sempurna, yang selalu dibandingkan denganmu.",
+      "mn": "Ээж чамтай харьцуулдаг төгс ‘найзын хүү’."
+    },
+    "card.p1-07.scenario": {
+      "th": "ครอบครัวชมเกรด งาน มารยาท การทำอาหาร และฟิตเนสของคนอื่น—ระหว่างกินข้าวเย็น",
+      "id": "Keluargamu memuji nilai, kerja, sopan santun, masakan, dan kebugaran orang lain—semuanya saat makan malam.",
+      "mn": "Гэр бүл чинь оройн хоолны үеэр өөр хүний дүн, ажил, зан, хоол хийх, биеийн тамирыг магтана."
+    },
+    "card.p1-08.era": {
+      "th": "สแลงสุนทรียะยุค 2020",
+      "id": "Slang estetika 2020-an",
+      "mn": "2020-аад оны гоо зүйн слэнг"
+    },
+    "card.p1-08.meaning": {
+      "th": "มันมีไวบ์ดีๆ น่ะ",
+      "id": "Rasanya punya vibe yang enak.",
+      "mn": "Зүгээр л сайхан вайбтай."
+    },
+    "card.p1-08.scenario": {
+      "th": "อธิบายไม่ได้ แต่สี เพลง แสง และจานชามของคาเฟ่รู้สึกใช่หมด",
+      "id": "Tak bisa dijelaskan, tapi warna, musik, cahaya, dan peralatan kafe semuanya terasa pas.",
+      "mn": "Яагаад гэдгийг тайлбарлаж чадахгүй ч кафегийн өнгө, хөгжим, гэрэл, аяга таваг бүгд зөв санагдана."
+    },
+    "card.p2-01.format": {
+      "th": "รีมิกซ์วัฒนธรรมผู้บริโภค",
+      "id": "REMIX BUDAYA KONSUMEN",
+      "mn": "ХЭРЭГЛЭГЧИЙН СОЁЛЫН РЕМИКС"
+    },
+    "card.p2-01.meaning": {
+      "th": "ของธรรมดาๆ กลับหาไม่เจอพอถึงเวลาที่ต้องการจริงๆ",
+      "id": "Bahkan yang biasa pun tak ketemu persis saat kamu membutuhkannya.",
+      "mn": "Энгийн зүйл ч хэрэгтэй үедээ олдохгүй."
+    },
+    "card.p2-02.format": {
+      "th": "รีมิกซ์ไซส์คาเฟ่",
+      "id": "REMIX UKURAN KAFE",
+      "mn": "КАФЕГИЙН ХЭМЖЭЭНИЙ РЕМИКС"
+    },
+    "card.p2-02.meaning": {
+      "th": "ให้ไปนิดเดียว แต่ได้กลับมามาก—มักเป็นบทลงโทษหรือความสูญเสีย",
+      "id": "Kasih sedikit, dapat balik jauh lebih banyak—sering sebagai hukuman atau kerugian.",
+      "mn": "Бага өгөөд их авна—ихэвчлэн шийтгэл эсвэл алдагдал хэлбэрээр."
+    },
+    "card.p2-03.format": {
+      "th": "มีมเล่นคำ",
+      "id": "PERMAINAN KATA MEME",
+      "mn": "ҮГИЙН ТОГЛООМТ МЕМ"
+    },
+    "card.p2-03.meaning": {
+      "th": "ยิ่งฉลาดหรือประสบความสำเร็จมาก ยิ่งควรถ่อมตัว",
+      "id": "Semakin bijak atau berprestasi seseorang, semakin rendah hatinya.",
+      "mn": "Хүн ухаантай, амжилттай болох тусам даруу байх ёстой."
+    },
+    "card.p2-04.format": {
+      "th": "มีมโชว์สกิล",
+      "id": "MEME PERFORMA",
+      "mn": "ҮЗҮҮЛБЭРИЙН МЕМ"
+    },
+    "card.p2-04.meaning": {
+      "th": "อยู่แวดล้อมนานพอ ก็เรียนรู้อะไรได้ แม้ไม่ได้เรียนจริงจัง",
+      "id": "Lama terpapar suatu lingkungan bisa membuatmu belajar, meski tanpa belajar formal.",
+      "mn": "Орчинд удаан байвал албан ёсны сургалтгүйгээр ч суралцаж болно."
+    },
+    "card.p2-05.format": {
+      "th": "มีมต้านทานไม่ได้",
+      "id": "MEME TAK TERTAHAN",
+      "mn": "ЭСЭРГҮҮЦЭЖ ЧАДАХГҮЙ МЕМ"
+    },
+    "card.p2-05.meaning": {
+      "th": "คนมักเดินผ่านสิ่งที่ชอบหรือติดเป็นนิสัยไปไม่ได้ง่ายๆ",
+      "id": "Orang tidak mudah melewatkan sesuatu yang mereka suka atau biasa nikmati.",
+      "mn": "Хүн дуртай, дассан зүйлээ хялбархан өнгөрөөж чаддаггүй."
+    },
+    "card.p2-06.format": {
+      "th": "ชื่อโพสต์ชุมชน",
+      "id": "JUDUL POSTINGAN KOMUNITAS",
+      "mn": "ОЛОН НИЙТИЙН ПОСТЫН ГАРЧИГ"
+    },
+    "card.p2-06.meaning": {
+      "th": "ความมั่นใจแบบประมาทว่า ‘คงไม่เป็นไร’ อาจก่อปัญหาจริง",
+      "id": "Keyakinan ceroboh bahwa ‘pasti nggak terjadi’ bisa bikin masalah sungguhan.",
+      "mn": "‘Болохгүй байх’ гэсэн болгоомжгүй итгэл жинхэнэ асуудал үүсгэж болно."
+    },
+    "card.p2-07.format": {
+      "th": "มีมรุ่นอายุ",
+      "id": "MEME GENERASI",
+      "mn": "ҮЕИЙН МЕМ"
+    },
+    "card.p2-07.meaning": {
+      "th": "คนรุ่นเก่าเริ่มเล่าเรื่อง ‘สมัยก่อน’—บางทีก็อวดว่าสมัยนั้นลำบากหรือรุ่งเรืองแค่ไหน",
+      "id": "Orang tua mulai cerita ‘jaman dulu’—kadang flex seberapa berat atau hebat masa itu.",
+      "mn": "Ахмадууд ‘миний үед’ гэж ярьж эхэлнэ—заримдаа тэр үе хэцүү, алдартай байсныг сайрхана."
+    },
+    "card.p2-08.format": {
+      "th": "มีมโชว์สกิล",
+      "id": "MEME PERFORMA",
+      "mn": "ҮЗҮҮЛБЭРИЙН МЕМ"
+    },
+    "card.p2-08.meaning": {
+      "th": "ทุกคนมีความสามารถอย่างน้อยหนึ่งอย่าง",
+      "id": "Setiap orang punya setidaknya satu keahlian.",
+      "mn": "Хүн бүр ядаж нэг зүйлд чадвартай."
+    },
+    "alt.001": {
+      "th": "นักท่องเที่ยวชายหาดยิ้มกว้างขุดหลุมทรายลึกข้างป้ายห้ามขุด",
+      "id": "Pengunjung pantai tersenyum lebar menggali lubang pasir dalam di samping tanda larangan menggali",
+      "mn": "Инээмсэглэсэн далайн эргийн хүн ухахыг хориглосон тэмдгийн хажууд гүн нүх ухаж байна"
+    },
+    "alt.002": {
+      "th": "คนเดิมติดอยู่ในหลุม ทรายถล่มทับ ยังถือจอบอยู่",
+      "id": "Orang yang sama terjebak di lubang saat pasir longsor menimpanya, masih memegang sekop",
+      "mn": "Тэр хүн нүхэнд гацсан, элс асгаж байхад хүрээ барьсаар"
+    },
+    "alt.003": {
+      "th": "ผู้หญิงคนหนึ่งเคลื่อนผ่านยามเช้า: ตื่น วิ่งจ็อกกิ้ง เรียนเกาหลี แพ็คข้าวเที่ยง",
+      "id": "Seorang wanita bergerak di fajar: bangun, jogging, belajar Korea, menyiapkan bekal",
+      "mn": "Нэг эмэгтэй үүрийн гэгээнд: босох, гүйх, солонгос сурах, үдийн хоол бэлдэх"
+    },
+    "alt.004": {
+      "th": "ผู้หญิงคนเดิมนั่งสงบที่โต๊ะทำงานตอน 9 โมง พร้อมข้าวเที่ยงและสมุดแพลนที่ติ๊กครบ",
+      "id": "Wanita yang sama duduk tenang di meja kantor pukul 9 pagi dengan bekal dan planner yang sudah dicentang",
+      "mn": "Тэр эмэгтэй өглөөний 9 цагт ажлын ширээнд тайван сууж, хоол болон төлөвлөгөөгөө бэлдсэн"
+    },
+    "alt.005": {
+      "th": "ทีมเหย้านั่งหมดแรงบนม้านั่งใต้สกอร์บอร์ด 1–9 ใกล้จบเกม",
+      "id": "Tim tuan rumah terduduk lesu di bangku di bawah papan skor 1–9 mendekati akhir pertandingan",
+      "mn": "Нутагтаа тоглож буй баг 1–9-ийн самбарын доор, төгсгөл ойртоход сэнтийд сууж байна"
+    },
+    "alt.006": {
+      "th": "แม้สกอร์ 1–9 ใกล้จบ ทีมยังกอดไหล่กำหมัดด้วยไฟสู้",
+      "id": "Meski skor 1–9 mendekati akhir, tim berkumpul dengan tinju terkepal dan semangat juang",
+      "mn": "1–9-ийн оноотой төгсгөл ойртоход баг нударгаа атгаж, тулааны сэтгэлээр цугларчээ"
+    },
+    "alt.007": {
+      "th": "ชายคนหนึ่งมาสายเวลา 9:05 ยิ้มสบายๆ ขณะเพื่อนร่วมงานมองนาฬิกา",
+      "id": "Seorang pria datang terlambat pukul 9:05 tersenyum santai sementara rekan kerja melihat jam",
+      "mn": "Нэг эр 9:05-д хоцорч, тайван инээмсэгдэж байхад хамт олон цаг харна"
+    },
+    "alt.008": {
+      "th": "เวลา 9:05 เดิม เขาชี้นาฬิกาโกรธเมื่อเพื่อนร่วมงานอีกคนรีบวิ่งมาสาย",
+      "id": "Di jam 9:05 yang sama, dia marah menunjuk jam saat rekan lain buru-buru datang terlambat",
+      "mn": "Мөнөөх 9:05-д өөр нэг хамт олон хоцорч ирэхэд тэр ууртайгаар цаг руу заана"
+    },
+    "alt.009": {
+      "th": "พนักงานออฟฟิศเหนื่อยถอนหายใจที่ป้ายรถเมล์ฝนตก ขณะรถเมล์ขับจากไป",
+      "id": "Pekerja kantor lelah menghela napas di halte hujan saat busnya pergi",
+      "mn": "Ядарсан ажилтан бороотой буудлаас автобус явсныг хараад санаа алдана"
+    },
+    "alt.010": {
+      "th": "ไม่กี่นาทีต่อมาเขายิ้มบนที่นั่งรถเมล์หรู พร้อมกาแฟข้างหน้าต่าง",
+      "id": "Beberapa menit kemudian dia tersenyum di kursi bus mewah dengan kopi di jendela",
+      "mn": "Хэдхэн минутын дараа тэр цонхны дэргэд кофетой тансаг автобусны суудалд инээмсэгдэнэ"
+    },
+    "alt.011": {
+      "th": "ผู้จัดการชี้ที่ภาพขยุกขยิกวงกลมเดียวพร้อมท่าทางคลุมเครือว่า ‘รู้ใช่ไหม’",
+      "id": "Manajer menunjuk coretan lingkaran berantakan dengan gestur samar ‘kamu tahu maksudnya’",
+      "mn": "Менежер нэг тойрог зурсан эмх замбараагүй зураг руу зааж, ‘юу гэсэнээ мэдэж байгаа биз’ гэсэн дохио хийнэ"
+    },
+    "alt.012": {
+      "th": "เพื่อนร่วมงานนำเสนอสไลด์ชาร์ตสวย ผู้จัดการทึ่ง ขณะที่เธอทำท่าโอเค",
+      "id": "Rekan kerja menyajikan deck chart rapi; manajer kagum sementara dia memberi tanda OK",
+      "mn": "Хамтран ажиллагч цэвэрхэн график танилцуулж, менежер гайхаж байхад тэр ОК тэмдэг үзүүлнэ"
+    },
+    "alt.013": {
+      "th": "ตอนกินข้าวเย็น ลูกชายเพื่อนแม่ที่สมบูรณ์แบบเรืองแสงลอยอยู่หลังลูกโตสองคนที่ห่อไหล่",
+      "id": "Saat makan malam, anak teman ibu yang sempurna bercahaya mengambang di belakang dua anak dewasa yang lesu",
+      "mn": "Оройн хоолны үеэр гэрэлтсэн төгс найзын хүү хоёр бөхийсон том хүүхдийн ард хөвж байна"
+    },
+    "alt.014": {
+      "th": "แม่โชว์รูปชุดสูทในโทรศัพท์ ขณะที่ลูกสาวกลอกตาตอนกำลังกิน",
+      "id": "Ibu menunjukkan foto jas di ponselnya sementara putrinya memutar mata di tengah gigitan",
+      "mn": "Ээж утсан дээрээ костюмны зураг үзүүлж байхад охин нь амьсгал зууж байхдаа нүдээ эргүүлнэ"
+    },
+    "alt.015": {
+      "th": "เพื่อนสองคนเปิดประตูคาเฟ่ข้างทางธรรมดาๆ สงสัยว่าข้างในมีอะไร",
+      "id": "Dua teman membuka pintu kafe jalanan biasa, penasaran apa yang ada di dalam",
+      "mn": "Хоёр найз энгийн харагдах гудамжны кафегийн хаалгыг нээж, дотор юу байгааг сонирхоно"
+    },
+    "alt.016": {
+      "th": "ข้างใน แสงอุ่น พืช และแก้วสวยให้ไวบ์ดีแบบอธิบายไม่ได้",
+      "id": "Di dalam, cahaya hangat, tanaman, dan cangkir cantik memberi vibe enak yang tak terjelaskan",
+      "mn": "Дотор нь дулаан гэрэл, ургамал, гоё аяганууд тайлбарлашгүй сайхан вайб өгнө"
+    },
+    "alt.017": {
+      "th": "นักช้อปจ้องชั้นร้านขายยาว่างที่มีป้ายหมดสต็อก ขณะถือรายการซื้อของ",
+      "id": "Pembeli menatap rak apotek kosong bertanda HABIS sambil memegang daftar belanja",
+      "mn": "Худалдан авагч ЗАРАГДСАН гэсэн хоосон эмийн сангийн тавиур руу жагсаалт барин ширтэнэ"
+    },
+    "alt.018": {
+      "th": "เภสัชกรยักไหล่ ขณะที่อาหารเสริมราคาแพงยังเต็มชั้นบนเคาน์เตอร์",
+      "id": "Apoteker mengangkat bahu sementara suplemen mahal tetap penuh di etalase",
+      "mn": "Эм зүйч мөрөө хавчиж байхад үнэтэй нэмэлтүүд лангуун дээр дүүрэн үлдэжээ"
+    },
+    "alt.019": {
+      "th": "บาริสต้าส่งถ้วยเล็กติดป้าย Tall ข้ามเคาน์เตอร์คาเฟ่",
+      "id": "Barista menyerahkan cangkir kecil berlabel Tall di meja kafe",
+      "mn": "Бариста кафегийн лангуун дээгүүр Tall гэсэн жижиг аяга өгнө"
+    },
+    "alt.020": {
+      "th": "บาริสต้าคนเดิมส่งถ้วย Grande ใหญ่เกินไป ลูกค้าตกใจ",
+      "id": "Barista yang sama mengembalikan cangkir Grande yang absurd besar; pelanggan tampak syok",
+      "mn": "Тэр бариста хэт том Grande аяга авчирна; үйлчлүүлэгч гайхна"
+    },
+    "alt.021": {
+      "th": "ชายผู้หยิ่งยืนคางเชิดข้างรวงข้าวเขียวแข็ง ในขณะที่รวงทองสุกก้มลงในนา",
+      "id": "Pria sombong berdiri dagu terangkat di samping padi hijau kaku sementara padi emas matang menunduk di ladang",
+      "mn": "Баахархаг эр эрүүгээ өндөрлөн хатуу ногоон будааны хажууд зогсож, боловсорсон алтан будаа талбайд бөхийнэ"
+    },
+    "alt.022": {
+      "th": "ชายคนเดิมก้มลึกท่ามกลางรวงสุกที่ก้ม หมวกและความหยิ่งทิ้งไว้บนทาง",
+      "id": "Pria yang sama membungkuk dalam di antara padi matang yang menunduk, topi dan kesombongan tertinggal di jalan",
+      "mn": "Тэр эр бөхийсон будааны дунд гүн бөхийж, малгай, бардамналаа замд үлдээнэ"
+    },
+    "alt.023": {
+      "th": "สุนัขเบื่อหาวบนเสื่อมุมโรงเรียนหมู่บ้านโบราณ",
+      "id": "Anjing bosan menguap di tikar sudut sekolah desa tradisional",
+      "mn": "Уйдсан нохой уламжлалт тосгоны сургуулийн булангийн дэвсгэр дээр зевнө"
+    },
+    "alt.024": {
+      "th": "สุนัขตัวเดิมเขียนพู่กันอักษรจีน ขณะนักเรียนและครูตะลึงมอง",
+      "id": "Anjing yang sama menulis kaligrafi dengan kuas sementara murid dan guru terheran-heran",
+      "mn": "Тэр нохой бийрээр бичиж байхад гайхсан сурагчид, багш харж байна"
+    },
+    "alt.025": {
+      "th": "นกกระจอกเบรกหักมุมพุ่งเข้าหากองเมล็ดหกหน้าโรงโม่โบราณ",
+      "id": "Seekor burung pipit berbelok tajam menuju biji-bijian tumpah di luar penggilingan tradisional",
+      "mn": "Бор шувуу уламжлалт тээрмийн гадна асгарсан үр рүү огцом эргэнэ"
+    },
+    "alt.026": {
+      "th": "นกกระจอกตัวเดิมลงบนกองเมล็ดที่ทางเข้าโรงโม่ ต้านทานไม่ได้",
+      "id": "Burung pipit yang sama mendarat di tumpukan biji di pintu penggilingan, tak bisa menahan diri",
+      "mn": "Тэр бор шувуу тээрмийн үүдэнд үрийн овоолон дээр бууж, эсэргүүцэж чадахгүй"
+    },
+    "alt.027": {
+      "th": "นักปีนเขาโบกมือสบายๆ ข้างป้ายอันตรายหน้าผา ปัดคำเตือนทิ้ง",
+      "id": "Seorang pendaki melambaikan tangan santai di samping tanda bahaya tebing, mengabaikan peringatan",
+      "mn": "Явган аялагч хадны аюулын тэмдгийн хажууд тайван гараа даллаж, анхааруулгыг үл тоомсорлоно"
+    },
+    "alt.028": {
+      "th": "ทีหลังที่คาเฟ่ เขาเล่าเรื่องอย่างมีชีวิตชีวา ขณะที่ทุกคนหัวเราะลั่น",
+      "id": "Kemudian di kafe, dia menceritakan kisah dengan antusias sementara semua tertawa",
+      "mn": "Дараа нь кафед тэр найзууддаа амьдхан ярьж байхад бүгд инээнэ"
+    },
+    "alt.029": {
+      "th": "ชายสูงอายุบรรยายตอนกินข้าวเย็น ขณะญาติรุ่นเยาว์เบื่อและเช็คโทรศัพท์",
+      "id": "Pria lebih tua berkhotbah saat makan malam sementara kerabat muda terlihat bosan dan mengecek ponsel",
+      "mn": "Ахмад эр оройн хоолны үеэр номлож байхад залуу хамаатан уйдсан харцаар утсаа шалгана"
+    },
+    "alt.030": {
+      "th": "เหนือเขาลอยภาพสมัยก่อนเกินจริง รวมถึงเสือสูบกล้องยาสูบ",
+      "id": "Di atasnya mengambang adegan jaman dulu yang berlebihan, termasuk harimau mengisap pipa",
+      "mn": "Түүний дээр хуучин цагийн хэтрүүлсэн үзэгдлүүд хөвж, тэр дундаа тамхи татсан бар байна"
+    },
+    "alt.031": {
+      "th": "ตัวอ่อนแมลงกลิ้งตัวแบบนักกีฬาแชมป์ต่อหน้าฝูงชนเชียร์ลั่น",
+      "id": "Seekor larva berguling seperti atlet juara di depan kerumunan yang bersorak liar",
+      "mn": "Хорхой аварга тамирчин шиг эргэлдэж, хөл хөдөлгөөн ихтэй үзэгчдийн өмнө"
+    }
+  },
+  "proverbs": {
+    "가는 날이 장날": {
+      "th": {
+        "text": "ไปวันไหนก็เจอวันตลาด",
+        "type": "saying",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Nasib sial hari ini.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Яг хэрэгтэй өдөр нь тохиолдоно.",
+        "type": "paraphrase",
+        "note": "loose"
+      }
+    },
+    "가재는 게 편": {
+      "th": {
+        "text": "นกเดียวกันบินด้วยกัน",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Yang sejenis berkumpul bersama.",
+        "type": "saying",
+        "note": "loose"
+      },
+      "mn": {
+        "text": "Ижил төстэй нь цугларна.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "개구리 올챙이 적 생각 못 한다": {
+      "th": {
+        "text": "กบลืมตอนเป็นลูกอ๊อด",
+        "type": "saying",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Jangan lupa asal-usulmu.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Гарал үүслээ бүү мартаарай.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "개똥도 약에 쓰려면 없다": {
+      "th": {
+        "text": "ของธรรมดาพอต้องใช้กลับหาไม่เจอ",
+        "type": "saying",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Barang biasa pun hilang saat dibutuhkan.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хэрэгтэй үедээ энгийн зүйл ч олдохгүй.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "개천에서 용 난다": {
+      "th": {
+        "text": "จากลำธารเกิดมังกร",
+        "type": "proverb",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Dari lumpur jadi emas.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Ядуугаас баян болно.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "고래 싸움에 새우 등 터진다": {
+      "th": {
+        "text": "ช้างชนกัน หญ้าแพ้",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Gajah berlomba, pelanduk mati di tengah-tengah.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Заанууд зодолдоход өвс гишгэгдэнэ.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "고생 끝에 낙이 온다": {
+      "th": {
+        "text": "ทุกข์นำสุขมา",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Sesudah hujan, datanglah teduh.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хүнд хэцүүгээс хойш аз жаргал ирнэ.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "공든 탑이 무너지랴": {
+      "th": {
+        "text": "ความเพียรไม่สูญเปล่า",
+        "type": "saying",
+        "note": ""
+      },
+      "id": {
+        "text": "Usaha tak pernah sia-sia.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хичээл зүтгэл үр дүнгээ өгнө.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "굼벵이도 구르는 재주가 있다": {
+      "th": {
+        "text": "ตัวไหนก็มีวันที่เด่น",
+        "type": "saying",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Setiap orang punya kelebihannya.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хүн бүр өөрийн авьяастай.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "그림의 떡": {
+      "th": {
+        "text": "ขนมในภาพ",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Angan-angan belaka.",
+        "type": "idiom",
+        "note": ""
+      },
+      "mn": {
+        "text": "Зургийн бялуу.",
+        "type": "idiom",
+        "note": "loose"
+      }
+    },
+    "남의 떡이 커 보인다": {
+      "th": {
+        "text": "หญ้าข้างบ้านเขียวกว่า",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Rumput tetangga selalu lebih hijau.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хөршийн өвс илүү ногоон харагдана.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "낫 놓고 기역 자도 모른다": {
+      "th": {
+        "text": "ไม่รู้กากับกา",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Tak tahu A dari B.",
+        "type": "idiom",
+        "note": ""
+      },
+      "mn": {
+        "text": "А-г Б-ээс ялгадаггүй.",
+        "type": "idiom",
+        "note": "loose"
+      }
+    },
+    "낮말은 새가 듣고 밤말은 쥐가 듣는다": {
+      "th": {
+        "text": "กำแพงมีหู ประตูมีตา",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Dinding punya telinga.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хана ч чихтэй.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "누워서 떡 먹기": {
+      "th": {
+        "text": "ง่ายเหมือนนั่งกินขนม",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Mudah seperti membalik telapak tangan.",
+        "type": "idiom",
+        "note": ""
+      },
+      "mn": {
+        "text": "Гарын алганы мэт амархан.",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "되로 주고 말로 받는다": {
+      "th": {
+        "text": "หว่านลม เกี่ยวพายุ",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Menabur angin, menuai badai.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Салхи тарьвал шуурга хураана.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "두 손뼉이 맞아야 소리가 난다": {
+      "th": {
+        "text": "มือสองข้างตบกันจึงดัง",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Bertepuk sebelah tangan tak akan terdengar.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хоёр алга нийлбэл дуу гарна.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "떡 줄 사람은 생각도 않는데 김칫국부터 마신다": {
+      "th": {
+        "text": "อย่านับไข่ในรังก่อนไก่ฟัก",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Jangan hitung ayam sebelum menetas.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Өндөг гараагүй байж тахиа бүү тоо.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "똥 묻은 개가 겨 묻은 개 나무란다": {
+      "th": {
+        "text": "หม้อดำว่าหม้อดำ",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Kuali memanggil ceret hitam.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Өөрөө буруутай хэрнээ бусдыг зэмлэнэ.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "뜻이 있는 곳에 길이 있다": {
+      "th": {
+        "text": "มีใจแล้วมีทาง",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Di mana ada kemauan, di situ ada jalan.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Зориг байвал зам бий.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "말 한마디에 천 냥 빚도 갚는다": {
+      "th": {
+        "text": "คำพูดดีมีค่าพันตำลึง",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Kata-kata baik sangat berharga.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Сайхан үг их зүйлийг засарна.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "백지장도 맞들면 낫다": {
+      "th": {
+        "text": "หลายมือทำให้งานเบา",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Berat sama dipikul, ringan sama dijinjing.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Олон гар хөнгөн ажил хийнэ.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "벼는 익을수록 고개를 숙인다": {
+      "th": {
+        "text": "รวงข้าวยิ่งสุกยิ่งก้ม",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Padi makin berisi makin tunduk.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Будаа боловсрох тусам толгойгоо бөхийлгөнө.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "보기 좋은 떡이 먹기도 좋다": {
+      "th": {
+        "text": "ดูดีก็กินอร่อย",
+        "type": "saying",
+        "note": ""
+      },
+      "id": {
+        "text": "Yang enak dilihat biasanya enak dimakan.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Сайхан харагдах нь амттай байдаг.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "사공이 많으면 배가 산으로 간다": {
+      "th": {
+        "text": "พ่อครัวมากเกินไป น้ำซุปเสีย",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Terlalu banyak juru masak, rusak kuahnya.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Залуурчин олон болсон бол завь уул руу явна.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "서당 개 삼 년이면 풍월을 읊는다": {
+      "th": {
+        "text": "อยู่ใกล้สิ่งใด ซึมซับสิ่งนั้น",
+        "type": "saying",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Lama-lama terbiasa, ikut pintar.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Орчинд удаан байвал суралцана.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "설마가 사람 잡는다": {
+      "th": {
+        "text": "ประมาทว่าคงไม่เป็น ก็พังได้",
+        "type": "saying",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Kata-kata terakhir yang terkenal.",
+        "type": "saying",
+        "note": "loose"
+      },
+      "mn": {
+        "text": "‘Болохгүй байх’ гэсэн үг хүнийг өвтгөнө.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "세 살 버릇 여든까지 간다": {
+      "th": {
+        "text": "นิสัยเก่าตายยาก",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Kebiasaan lama sulit hilang.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хуучин зуршил үхэхэд хэцүү.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "소 잃고 외양간 고친다": {
+      "th": {
+        "text": "วัวหายแล้วล้อมคอก",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Kandang dikunci setelah kuda lepas.",
+        "type": "proverb",
+        "note": "loose"
+      },
+      "mn": {
+        "text": "Морь алдсаны дараа хашаа засална.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "싼 게 비지떡": {
+      "th": {
+        "text": "ของถูกมักไม่ดี",
+        "type": "saying",
+        "note": ""
+      },
+      "id": {
+        "text": "Murah ya murahan.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Хямд бол чанар муу.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "열 번 찍어 안 넘어가는 나무 없다": {
+      "th": {
+        "text": "พยายามซ้ำๆ ย่อมสำเร็จ",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Air tetes melubangi batu.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Олон удаа оролдвол амжилтанд хүрнэ.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "우물 안 개구리": {
+      "th": {
+        "text": "กบในบ่อ",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Katak dalam tempurung.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Худагт байгаа мэлхий.",
+        "type": "idiom",
+        "note": "loose"
+      }
+    },
+    "울며 겨자 먹기": {
+      "th": {
+        "text": "ยิ้มกลืนน้ำตา",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Terpaksa menelan pahit.",
+        "type": "idiom",
+        "note": ""
+      },
+      "mn": {
+        "text": "Уйлан гич идэх.",
+        "type": "idiom",
+        "note": "loose"
+      }
+    },
+    "원숭이도 나무에서 떨어진다": {
+      "th": {
+        "text": "ลิงยังตกจากต้นไม้",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Sepandai-pandai tupai melompat, sekali waktu jatuh juga.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Сайн хүн ч алдаа гаргана.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "제 무덤 내가 판다": {
+      "th": {
+        "text": "ขุดหลุมฝังตัวเอง",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Menggali kuburan sendiri.",
+        "type": "idiom",
+        "note": ""
+      },
+      "mn": {
+        "text": "Өөрийн булшаа өөрөө ухна.",
+        "type": "idiom",
+        "note": "loose"
+      }
+    },
+    "중이 제 머리 못 깎는다": {
+      "th": {
+        "text": "ช่างตัดผมลูกไม่มีรองเท้า",
+        "type": "proverb",
+        "note": "loose"
+      },
+      "id": {
+        "text": "Tukang cukur botak.",
+        "type": "saying",
+        "note": "loose"
+      },
+      "mn": {
+        "text": "Лам өөрийнхөө толгойг хусалдаггүй.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "참새가 방앗간을 그냥 지나치랴": {
+      "th": {
+        "text": "เหมือนแมลงเม่าเข้ากองไฟ",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Seperti lalat ke madu.",
+        "type": "idiom",
+        "note": ""
+      },
+      "mn": {
+        "text": "Дуртай зүйлээ өнгөрч чадахгүй.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "콩 심은 데 콩 난다": {
+      "th": {
+        "text": "ปลูกถั่วได้ถั่ว",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Apa yang ditabur, itulah yang dituai.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Юу тарьсан түүнийгээ хураана.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "콩 한 쪽도 나눠 먹는다": {
+      "th": {
+        "text": "แบ่งปันแม้เมล็ดถั่วเม็ดเดียว",
+        "type": "saying",
+        "note": ""
+      },
+      "id": {
+        "text": "Berbagi sama rata.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Нэг шош ч хувааж иднэ.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "티끌 모아 태산": {
+      "th": {
+        "text": "หยดน้ำรวมเป็นมหาสมุทร",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Sedikit demi sedikit, lama-lama menjadi bukit.",
+        "type": "proverb",
+        "note": ""
+      },
+      "mn": {
+        "text": "Дусал цуглуулбал уул болно.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "하나를 보면 열을 안다": {
+      "th": {
+        "text": "เห็นหนึ่งรู้สิบ",
+        "type": "saying",
+        "note": ""
+      },
+      "id": {
+        "text": "Dari satu tahu sepuluh.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Нэгийг харвал арав мэднэ.",
+        "type": "saying",
+        "note": "loose"
+      }
+    },
+    "하룻강아지 범 무서운 줄 모른다": {
+      "th": {
+        "text": "ลูกสุนัขวันเดียวไม่รู้กลัวเสือ",
+        "type": "proverb",
+        "note": ""
+      },
+      "id": {
+        "text": "Anak ayam baru menetas tak takut elang.",
+        "type": "saying",
+        "note": "loose"
+      },
+      "mn": {
+        "text": "Өдрийн гөлөг бар айдаггүй.",
+        "type": "proverb",
+        "note": "loose"
+      }
+    },
+    "호랑이 담배 피던 시절": {
+      "th": {
+        "text": "สมัยเสือสูบบุหรี่",
+        "type": "idiom",
+        "note": ""
+      },
+      "id": {
+        "text": "Jaman dulu kala.",
+        "type": "saying",
+        "note": ""
+      },
+      "mn": {
+        "text": "Бар тамхи татдаг байсан үе.",
+        "type": "idiom",
+        "note": "loose"
+      }
+    }
+  }
+}

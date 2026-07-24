@@ -1,0 +1,1668 @@
+{
+  "strings": {
+    "ui.edition_pill": {
+      "ja": "英語版",
+      "zh-CN": "英语版",
+      "zh-TW": "英語版",
+      "vi": "BẢN TIẾNG ANH"
+    },
+    "ui.sinavro_presents": {
+      "ja": "SINAVRO プレゼンツ",
+      "zh-CN": "SINAVRO 出品",
+      "zh-TW": "SINAVRO 出品",
+      "vi": "SINAVRO GIỚI THIỆU"
+    },
+    "ui.product_descriptor": {
+      "ja": "韓国のことわざ＆スラング カードゲーム",
+      "zh-CN": "韩语谚语与俚语卡牌游戏",
+      "zh-TW": "韓語諺語與俚語卡牌遊戲",
+      "vi": "TRÒ CHƠI THẺ TỤC NGỮ & LÓNG HÀN"
+    },
+    "ui.tap_to_continue": {
+      "ja": "タップして続ける →",
+      "zh-CN": "点击继续 →",
+      "zh-TW": "點擊繼續 →",
+      "vi": "CHẠM ĐỂ TIẾP TỤC →"
+    },
+    "ui.brand_slogan": {
+      "ja": "古い知恵、新しいバイブス。",
+      "zh-CN": "古老智慧，新潮氛围。",
+      "zh-TW": "古老智慧，新潮氛圍。",
+      "vi": "Trí tuệ xưa, vibe mới."
+    },
+    "ui.hero_copy": {
+      "ja": "韓国のネットスラングを、時代を超えたことわざと結びつけよう。そして古い知恵をミームの言葉でリミックス。",
+      "zh-CN": "把韩语网络俚语和永恒谚语配对。再用迷因的语言，把古老智慧重新混剪。",
+      "zh-TW": "把韓語網路俚語和永恆諺語配對。再用迷因的語言，把古老智慧重新混剪。",
+      "vi": "Ghép lóng mạng Hàn với tục ngữ vượt thời gian. Rồi remix trí tuệ xưa bằng ngôn ngữ meme."
+    },
+    "ui.tag.korean_slang": {
+      "ja": "#韓国スラング",
+      "zh-CN": "#韩语俚语",
+      "zh-TW": "#韓語俚語",
+      "vi": "#LóngHàn"
+    },
+    "ui.tag.proverbs": {
+      "ja": "#ことわざ",
+      "zh-CN": "#谚语",
+      "zh-TW": "#諺語",
+      "vi": "#TụcNgữ"
+    },
+    "ui.tag.world_wisdom": {
+      "ja": "#世界の知恵",
+      "zh-CN": "#世界智慧",
+      "zh-TW": "#世界智慧",
+      "vi": "#TríTuệThếGiới"
+    },
+    "ui.part01_title": {
+      "ja": "バイブをつかめ",
+      "zh-CN": "抓住氛围",
+      "zh-TW": "抓住氛圍",
+      "vi": "Bắt lấy vibe"
+    },
+    "ui.part01_body": {
+      "ja": "本物の韓国スラングを知り、場面を読んで、いちばん近いことわざを見つけよう。",
+      "zh-CN": "认识真实的韩语俚语，读懂情境，找到最贴近的谚语表亲。",
+      "zh-TW": "認識真實的韓語俚語，讀懂情境，找到最貼近的諺語表親。",
+      "vi": "Khám phá lóng Hàn thật, đọc tình huống, tìm tục ngữ họ hàng gần nhất."
+    },
+    "ui.part01_li1": {
+      "ja": "本物の表現 8つ",
+      "zh-CN": "8个真实表达",
+      "zh-TW": "8個真實表達",
+      "vi": "8 cách nói thật"
+    },
+    "ui.part01_li2": {
+      "ja": "2パネルのビジュアルカード",
+      "zh-CN": "双画面视觉卡",
+      "zh-TW": "雙畫面視覺卡",
+      "vi": "Thẻ hình hai khung"
+    },
+    "ui.part01_li3": {
+      "ja": "英語のことわざとマッチ",
+      "zh-CN": "英语谚语配对",
+      "zh-TW": "英語諺語配對",
+      "vi": "Ghép với tục ngữ Anh"
+    },
+    "ui.start_part1": {
+      "ja": "パート1を始める →",
+      "zh-CN": "开始第1部分 →",
+      "zh-TW": "開始第1部分 →",
+      "vi": "BẮT ĐẦU PHẦN 1 →"
+    },
+    "ui.part02_title": {
+      "ja": "ことわざリミックス",
+      "zh-CN": "谚语混剪",
+      "zh-TW": "諺語混剪",
+      "vi": "Remix tục ngữ"
+    },
+    "ui.part02_body": {
+      "ja": "ミームやコミュニティ投稿、現代のパンチラインに書き換わった韓国のことわざを解読しよう。",
+      "zh-CN": "破解被改写成迷因、社区帖和现代金句的韩语谚语。",
+      "zh-TW": "破解被改寫成迷因、社群貼文和現代金句的韓語諺語。",
+      "vi": "Giải mã tục ngữ Hàn viết lại thành meme, bài đăng cộng đồng và câu đùa hiện đại."
+    },
+    "ui.part02_li1": {
+      "ja": "クリエイティブなリミックス 8つ",
+      "zh-CN": "8个创意混剪",
+      "zh-TW": "8個創意混剪",
+      "vi": "8 bản remix sáng tạo"
+    },
+    "ui.part02_li2": {
+      "ja": "2パネルのビジュアルカード",
+      "zh-CN": "双画面视觉卡",
+      "zh-TW": "雙畫面視覺卡",
+      "vi": "Thẻ hình hai khung"
+    },
+    "ui.part02_li3": {
+      "ja": "世界の知恵トーク",
+      "zh-CN": "世界智慧讨论",
+      "zh-TW": "世界智慧討論",
+      "vi": "Thảo luận trí tuệ thế giới"
+    },
+    "ui.start_part2": {
+      "ja": "パート2を始める →",
+      "zh-CN": "开始第2部分 →",
+      "zh-TW": "開始第2部分 →",
+      "vi": "BẮT ĐẦU PHẦN 2 →"
+    },
+    "ui.game_title.part1": {
+      "ja": "バイブをつかめ",
+      "zh-CN": "抓住氛围",
+      "zh-TW": "抓住氛圍",
+      "vi": "BẮT LẤY VIBE"
+    },
+    "ui.game_title.part2": {
+      "ja": "ことわざリミックス",
+      "zh-CN": "谚语混剪",
+      "zh-TW": "諺語混剪",
+      "vi": "REMIX TỤC NGỮ"
+    },
+    "ui.misses": {
+      "ja": "ミス",
+      "zh-CN": "失误",
+      "zh-TW": "失誤",
+      "vi": "SAI"
+    },
+    "ui.part_switch_1": {
+      "ja": "← パート1",
+      "zh-CN": "← 第1部分",
+      "zh-TW": "← 第1部分",
+      "vi": "← PHẦN 1"
+    },
+    "ui.part_switch_2": {
+      "ja": "パート2 →",
+      "zh-CN": "第2部分 →",
+      "zh-TW": "第2部分 →",
+      "vi": "PHẦN 2 →"
+    },
+    "ui.part_complete": {
+      "ja": "パート {n} クリア",
+      "zh-CN": "第 {n} 部分完成",
+      "zh-TW": "第 {n} 部分完成",
+      "vi": "HOÀN THÀNH PHẦN {n}"
+    },
+    "ui.result.immaculate": {
+      "ja": "バイブ、完璧すぎ。",
+      "zh-CN": "你的氛围感绝了。",
+      "zh-TW": "你的氛圍感絕了。",
+      "vi": "Vibe của bạn quá đỉnh."
+    },
+    "ui.result.close": {
+      "ja": "惜しい。知恵が届きかけてる。",
+      "zh-CN": "差一点。智慧正在落地。",
+      "zh-TW": "差一點。智慧正在落地。",
+      "vi": "Sát nút. Trí tuệ đang vào chỗ."
+    },
+    "ui.result.loading": {
+      "ja": "知恵、ロード中。",
+      "zh-CN": "智慧加载中。",
+      "zh-TW": "智慧載入中。",
+      "vi": "Trí tuệ đang tải."
+    },
+    "ui.result.zero_misses": {
+      "ja": "ミスゼロ。全部一発で読めた。",
+      "zh-CN": "零失误。每个氛围你都一次读懂。",
+      "zh-TW": "零失誤。每個氛圍你都一次讀懂。",
+      "vi": "Không sai lần nào. Bạn đọc đúng mọi vibe ngay từ đầu."
+    },
+    "ui.result.misses_line": {
+      "ja": "{n} 回ミス。少ないほどいい—もう一度きれいに走ろう。",
+      "zh-CN": "你失误了 {n} 次。越少越好—再来一局更干净。",
+      "zh-TW": "你失誤了 {n} 次。越少越好—再來一局更乾淨。",
+      "vi": "Bạn sai {n} lần. Ít hơn thì tốt hơn—thử lại cho sạch hơn."
+    },
+    "ui.result.after_part1": {
+      "ja": "スラングは解読できた。次は、その新しいバイブで古い韓国の知恵をリミックスしよう。",
+      "zh-CN": "俚语已解码。现在用这些新氛围，去混剪古老的韩国智慧。",
+      "zh-TW": "俚語已解碼。現在用這些新氛圍，去混剪古老的韓國智慧。",
+      "vi": "Bạn đã giải mã lóng. Giờ dùng vibe mới đó để remix trí tuệ Hàn xưa."
+    },
+    "ui.result.after_part2": {
+      "ja": "古いことわざからネットミームまで旅して—その下にある人間の真実にたどり着いた。",
+      "zh-CN": "你从古老谚语走到网络迷因—并找到了两者底下共通的人之常情。",
+      "zh-TW": "你從古老諺語走到網路迷因—並找到了兩者底下共通的人之常情。",
+      "vi": "Bạn đã đi từ tục ngữ xưa đến meme mạng—và thấy chân lý con người bên dưới cả hai."
+    },
+    "ui.around_the_world": {
+      "ja": "世界をめぐって",
+      "zh-CN": "环游世界",
+      "zh-TW": "環遊世界",
+      "vi": "VÒNG QUANH THẾ GIỚI"
+    },
+    "ui.world_question": {
+      "ja": "今日のカードに合うことわざ、あなたの言葉にもある？",
+      "zh-CN": "你的语言里，有没有一句谚语能对上今天的某张卡？",
+      "zh-TW": "你的語言裡，有沒有一句諺語能對上今天的某張卡？",
+      "vi": "Ngôn ngữ của bạn có tục ngữ nào khớp với một lá bài hôm nay không?"
+    },
+    "ui.continue_part2": {
+      "ja": "パート2へ続く →",
+      "zh-CN": "继续到第2部分 →",
+      "zh-TW": "繼續到第2部分 →",
+      "vi": "TIẾP TỤC PHẦN 2 →"
+    },
+    "ui.go_part1": {
+      "ja": "← パート1へ",
+      "zh-CN": "← 前往第1部分",
+      "zh-TW": "← 前往第1部分",
+      "vi": "← VỀ PHẦN 1"
+    },
+    "ui.play_again": {
+      "ja": "もう一度プレイ",
+      "zh-CN": "再玩一次",
+      "zh-TW": "再玩一次",
+      "vi": "CHƠI LẠI"
+    },
+    "ui.back_home": {
+      "ja": "ホームに戻る",
+      "zh-CN": "返回主页",
+      "zh-TW": "返回主頁",
+      "vi": "VỀ TRANG CHỦ"
+    },
+    "ui.old_wisdom_new_vibes": {
+      "ja": "古い知恵、新しいバイブス",
+      "zh-CN": "古老智慧，新潮氛围",
+      "zh-TW": "古老智慧，新潮氛圍",
+      "vi": "TRÍ TUỆ XƯA, VIBE MỚI"
+    },
+    "ui.correct": {
+      "ja": "正解",
+      "zh-CN": "正确",
+      "zh-TW": "正確",
+      "vi": "ĐÚNG"
+    },
+    "ui.wrong": {
+      "ja": "不正解",
+      "zh-CN": "错误",
+      "zh-TW": "錯誤",
+      "vi": "SAI"
+    },
+    "ui.try_again": {
+      "ja": "もう一度",
+      "zh-CN": "再试一次",
+      "zh-TW": "再試一次",
+      "vi": "THỬ LẠI"
+    },
+    "ui.next": {
+      "ja": "次へ",
+      "zh-CN": "下一张",
+      "zh-TW": "下一張",
+      "vi": "TIẾP"
+    },
+    "ui.decode_it": {
+      "ja": "解読する",
+      "zh-CN": "解码",
+      "zh-TW": "解碼",
+      "vi": "GIẢI MÃ"
+    },
+    "ui.find_proverb_q": {
+      "ja": "元のことわざは？",
+      "zh-CN": "原句谚语是什么？",
+      "zh-TW": "原句諺語是什麼？",
+      "vi": "Tục ngữ gốc là gì?"
+    },
+    "ui.find_proverb_hint_p1": {
+      "ja": "このバイブに合う韓国のことわざを見つけよう。",
+      "zh-CN": "找出匹配这个氛围的韩语谚语。",
+      "zh-TW": "找出匹配這個氛圍的韓語諺語。",
+      "vi": "Tìm tục ngữ Hàn khớp với vibe này."
+    },
+    "ui.find_proverb_hint_p2": {
+      "ja": "この現代リミックスの中に隠れた、元の韓国のことわざを見つけよう。",
+      "zh-CN": "找出藏在这现代混剪里的原句韩语谚语。",
+      "zh-TW": "找出藏在這現代混剪裡的原句韓語諺語。",
+      "vi": "Tìm tục ngữ Hàn gốc đang ẩn trong bản remix hiện đại này."
+    },
+    "ui.image_slot": {
+      "ja": "画像スロット",
+      "zh-CN": "图片位",
+      "zh-TW": "圖片位",
+      "vi": "Ô hình ảnh"
+    },
+    "ui.image_slot_hint": {
+      "ja": "あとで Gemini のアートをここに。",
+      "zh-CN": "稍后把 Gemini 插画放这里。",
+      "zh-TW": "稍後把 Gemini 插畫放這裡。",
+      "vi": "Thả art Gemini vào đây sau."
+    },
+    "ui.part1_cleared": {
+      "ja": "パート1 クリア ✓",
+      "zh-CN": "第1部分已通关 ✓",
+      "zh-TW": "第1部分已通關 ✓",
+      "vi": "PHẦN 1 XONG ✓"
+    },
+    "card.p1-01.era": {
+      "ja": "2020年代ネットスラング",
+      "zh-CN": "2020年代网络俚语",
+      "zh-TW": "2020年代網路俚語",
+      "vi": "Lóng mạng thập niên 2020"
+    },
+    "card.p1-01.meaning": {
+      "ja": "この災難、自分で呼び込んだ。",
+      "zh-CN": "这场灾难是我自找的。",
+      "zh-TW": "這場災難是我自找的。",
+      "vi": "Tôi tự rước họa vào thân."
+    },
+    "card.p1-01.scenario": {
+      "ja": "警告は全部無視した。今、自分の手で作った惨状の真ん中に立っている。",
+      "zh-CN": "你无视了所有警告。现在正站在自己亲手搞出的烂摊子里。",
+      "zh-TW": "你無視了所有警告。現在正站在自己親手搞出的爛攤子裡。",
+      "vi": "Bạn bỏ qua mọi cảnh báo. Giờ đứng giữa đống hỗn loạn do chính tay mình gây ra."
+    },
+    "card.p1-02.era": {
+      "ja": "2020年代ライフスタイルスラング",
+      "zh-CN": "2020年代生活方式俚语",
+      "zh-TW": "2020年代生活方式俚語",
+      "vi": "Lóng lối sống thập niên 2020"
+    },
+    "card.p1-02.meaning": {
+      "ja": "規律正しく、生産的で、見習いたくなる生き方。",
+      "zh-CN": "自律、高效、令人佩服的生活。",
+      "zh-TW": "自律、高效、令人佩服的生活。",
+      "vi": "Cuộc sống kỷ luật, hiệu quả, đáng ngưỡng mộ."
+    },
+    "card.p1-02.scenario": {
+      "ja": "早起きして運動、韓国語の勉強、お弁当作り、それでも出勤時間には間に合う。",
+      "zh-CN": "早起、锻炼、学韩语、准备午餐，还能准时到公司。",
+      "zh-TW": "早起、鍛鍊、學韓語、準備午餐，還能準時到公司。",
+      "vi": "Dậy sớm, tập thể dục, học tiếng Hàn, chuẩn bị cơm trưa, rồi vẫn đến công ty đúng giờ."
+    },
+    "card.p1-03.era": {
+      "ja": "2022年スポーツ＆ゲームミーム",
+      "zh-CN": "2022体育与游戏迷因",
+      "zh-TW": "2022體育與遊戲迷因",
+      "vi": "Meme thể thao & game 2022"
+    },
+    "card.p1-03.meaning": {
+      "ja": "大事なのは、折れない心。",
+      "zh-CN": "重要的是不屈的精神。",
+      "zh-TW": "重要的是不屈的精神。",
+      "vi": "Điều quan trọng là tinh thần bất khuất."
+    },
+    "card.p1-03.scenario": {
+      "ja": "チームは大差で負けている。でも最終ホイッスルまで誰も諦めない。",
+      "zh-CN": "队伍大幅落后，但没人在终场哨响前放弃。",
+      "zh-TW": "隊伍大幅落後，但沒人在終場哨響前放棄。",
+      "vi": "Đội nhà thua đậm, nhưng không ai bỏ cuộc trước tiếng còi kết thúc."
+    },
+    "card.p1-04.era": {
+      "ja": "2010〜2020年代の世論・議論",
+      "zh-CN": "2010–2020年代公共舆论",
+      "zh-TW": "2010–2020年代公共輿論",
+      "vi": "Diễn ngôn công chúng 2010–2020"
+    },
+    "card.p1-04.meaning": {
+      "ja": "自分には別ルール、他人には別ルール。",
+      "zh-CN": "对我一套规矩，对你另一套。",
+      "zh-TW": "對我一套規矩，對你另一套。",
+      "vi": "Một luật cho tôi, luật khác cho bạn."
+    },
+    "card.p1-04.scenario": {
+      "ja": "他人が5分遅れると文句を言うのに、自分が遅れたらみんなに待たせるのが当たり前だと思ってる。",
+      "zh-CN": "别人晚五分钟他就抱怨，自己晚了却指望大家都等他。",
+      "zh-TW": "別人晚五分鐘他就抱怨，自己晚了卻指望大家都等他。",
+      "vi": "Anh ta phàn nàn khi người khác trễ năm phút, nhưng lại muốn mọi người chờ khi chính mình đến muộn."
+    },
+    "card.p1-05.era": {
+      "ja": "2020年代リアクションミーム",
+      "zh-CN": "2020年代反应迷因",
+      "zh-TW": "2020年代反應迷因",
+      "vi": "Meme phản ứng thập niên 2020"
+    },
+    "card.p1-05.meaning": {
+      "ja": "むしろ、こっちのほうがいい説！",
+      "zh-CN": "说不定这样更好！",
+      "zh-TW": "說不定這樣更好！",
+      "vi": "Có khi thế này còn hơn!"
+    },
+    "card.p1-05.scenario": {
+      "ja": "雨の中で満員バスを逃した—次のバスは、ほぼ貸し切りの豪華シートだった。",
+      "zh-CN": "雨天没赶上挤满的公交—下一班却给了你空空荡荡的豪华座位。",
+      "zh-TW": "雨天沒趕上擠滿的公車—下一班卻給了你空空蕩蕩的豪華座位。",
+      "vi": "Lỡ chuyến xe buýt đông nghịt dưới mưa—chuyến sau cho bạn ghế sang chảnh gần như trống."
+    },
+    "card.p1-06.era": {
+      "ja": "2010年代末〜2020年代スラング",
+      "zh-CN": "2010年代末–2020年代俚语",
+      "zh-TW": "2010年代末–2020年代俚語",
+      "vi": "Lóng cuối 2010–2020"
+    },
+    "card.p1-06.meaning": {
+      "ja": "細かく言われなくても、うまく・きれいに・気が利くようにやる。",
+      "zh-CN": "不用事事叮嘱，也能干得漂亮、利落、懂分寸。",
+      "zh-TW": "不用事事叮囑，也能幹得漂亮、俐落、懂分寸。",
+      "vi": "Làm ổn, gọn, có đầu óc—không cần được dặn từng chi tiết."
+    },
+    "card.p1-06.scenario": {
+      "ja": "短い指示を一つ出すだけ。同僚は状況を全部わかって、完璧に仕上げる。",
+      "zh-CN": "你只给一句简短指示。同事就读懂整盘局，交付得完美。",
+      "zh-TW": "你只給一句簡短指示。同事就讀懂整盤局，交付得完美。",
+      "vi": "Bạn chỉ dặn một câu ngắn. Đồng nghiệp hiểu cả tình huống và giao việc hoàn hảo."
+    },
+    "card.p1-07.era": {
+      "ja": "2000年代比較文化",
+      "zh-CN": "2000年代攀比文化",
+      "zh-TW": "2000年代攀比文化",
+      "vi": "Văn hóa so sánh thập niên 2000"
+    },
+    "card.p1-07.meaning": {
+      "ja": "お母さんが比較してくる、ありえないほど完璧な『友達の息子』。",
+      "zh-CN": "妈妈拿来跟你比的、完美到离谱的『朋友家孩子』。",
+      "zh-TW": "媽媽拿來跟你比的、完美到離譜的『朋友家孩子』。",
+      "vi": "Đứa con nhà bạn bè hoàn hảo không tưởng mà mẹ hay đem ra so với bạn."
+    },
+    "card.p1-07.scenario": {
+      "ja": "夕飯中に、成績・仕事・マナー・料理・フィットネスまで、誰か別の人を褒めまくる家族。",
+      "zh-CN": "晚饭时，家里人夸别人成绩、工作、礼貌、厨艺和身材—全夸一遍。",
+      "zh-TW": "晚飯時，家裡人誇別人成績、工作、禮貌、廚藝和身材—全誇一遍。",
+      "vi": "Gia đình khen điểm số, việc làm, phép tắc, nấu nướng và sức khỏe của người khác—suốt bữa tối."
+    },
+    "card.p1-08.era": {
+      "ja": "2020年代美学スラング",
+      "zh-CN": "2020年代审美俚语",
+      "zh-TW": "2020年代審美俚語",
+      "vi": "Lóng thẩm mỹ thập niên 2020"
+    },
+    "card.p1-08.meaning": {
+      "ja": "ただ、いいバイブがする。",
+      "zh-CN": "就是氛围很对。",
+      "zh-TW": "就是氛圍很對。",
+      "vi": "Chỉ là vibe rất ổn."
+    },
+    "card.p1-08.scenario": {
+      "ja": "理由は説明できない。でもカフェの色、音楽、光、食器が全部しっくりくる。",
+      "zh-CN": "说不清为什么，但咖啡馆的颜色、音乐、光线和餐具都刚刚好。",
+      "zh-TW": "說不清為什麼，但咖啡館的顏色、音樂、光線和餐具都剛剛好。",
+      "vi": "Không giải thích được vì sao, nhưng màu sắc, nhạc, ánh sáng và đồ bàn quán cà phê đều đúng vibe."
+    },
+    "card.p2-01.format": {
+      "ja": "消費文化リミックス",
+      "zh-CN": "消费文化混剪",
+      "zh-TW": "消費文化混剪",
+      "vi": "REMIX VĂN HÓA TIÊU DÙNG"
+    },
+    "card.p2-01.meaning": {
+      "ja": "ありふれたものほど、いざ必要なときに見つからない。",
+      "zh-CN": "越是平常的东西，越是急用时偏偏找不到。",
+      "zh-TW": "越是平常的東西，越是急用時偏偏找不到。",
+      "vi": "Cái tầm thường cũng chẳng thấy đâu đúng lúc cần."
+    },
+    "card.p2-02.format": {
+      "ja": "カフェサイズ・リミックス",
+      "zh-CN": "咖啡尺寸混剪",
+      "zh-TW": "咖啡尺寸混剪",
+      "vi": "REMIX SIZE CÀ PHÊ"
+    },
+    "card.p2-02.meaning": {
+      "ja": "少し与えたつもりが、何倍にもなって返ってくる—しばしば罰や損失として。",
+      "zh-CN": "给得很少，却收回很多—常常是惩罚或损失。",
+      "zh-TW": "給得很少，卻收回很多—常常是懲罰或損失。",
+      "vi": "Cho ít lại nhận nhiều hơn—thường là hình phạt hoặc tổn thất."
+    },
+    "card.p2-03.format": {
+      "ja": "ミーム言葉遊び",
+      "zh-CN": "迷因文字游戏",
+      "zh-TW": "迷因文字遊戲",
+      "vi": "CHƠI CHỮ MEME"
+    },
+    "card.p2-03.meaning": {
+      "ja": "賢くなり、成し遂げた人ほど、謙虚であるべき。",
+      "zh-CN": "人越有智慧、越有成就，越该谦逊。",
+      "zh-TW": "人越有智慧、越有成就，越該謙遜。",
+      "vi": "Người càng khôn ngoan hay thành đạt càng nên khiêm tốn."
+    },
+    "card.p2-04.format": {
+      "ja": "パフォーマンスミーム",
+      "zh-CN": "表演迷因",
+      "zh-TW": "表演迷因",
+      "vi": "MEME BIỂU DIỄN"
+    },
+    "card.p2-04.meaning": {
+      "ja": "正式に学ばなくても、長くその環境にいれば何かは身につく。",
+      "zh-CN": "就算没有正经学过，长期泡在那个环境里也能学到点东西。",
+      "zh-TW": "就算沒有正經學過，長期泡在那個環境裡也能學到點東西。",
+      "vi": "Ở lâu trong môi trường cũng học được, dù không học chính thức."
+    },
+    "card.p2-05.format": {
+      "ja": "我慢できないミーム",
+      "zh-CN": "忍不住迷因",
+      "zh-TW": "忍不住迷因",
+      "vi": "MEME KHÔNG CƯỠNG LẠI"
+    },
+    "card.p2-05.meaning": {
+      "ja": "好きなもの、いつも楽しむものには、簡単に素通りできない。",
+      "zh-CN": "人对自己爱的、常吃的东西，很难轻易路过。",
+      "zh-TW": "人對自己愛的、常吃的東西，很難輕易路過。",
+      "vi": "Người ta khó lòng đi ngang thứ mình thích hay quen thưởng thức."
+    },
+    "card.p2-06.format": {
+      "ja": "コミュニティ投稿タイトル",
+      "zh-CN": "社区帖标题",
+      "zh-TW": "社群貼標題",
+      "vi": "TIÊU ĐỀ BÀI CỘNG ĐỒNG"
+    },
+    "card.p2-06.meaning": {
+      "ja": "『まさか大丈夫だろ』という油断が、本物のトラブルを招く。",
+      "zh-CN": "「应该没事吧」这种轻率自信，会惹出真麻烦。",
+      "zh-TW": "「應該沒事吧」這種輕率自信，會惹出真麻煩。",
+      "vi": "Sự tự tin chủ quan kiểu ‘chắc không sao’ có thể gây họa thật."
+    },
+    "card.p2-07.format": {
+      "ja": "世代ミーム",
+      "zh-CN": "世代迷因",
+      "zh-TW": "世代迷因",
+      "vi": "MEME THẾ HỆ"
+    },
+    "card.p2-07.meaning": {
+      "ja": "年上が『昔はな』話を始める—あの頃の苦労や栄光を自慢することもある。",
+      "zh-CN": "长辈开始讲「我们那时候」—有时是在炫耀当年多苦或多风光。",
+      "zh-TW": "長輩開始講「我們那時候」—有時是在炫耀當年多苦或多風光。",
+      "vi": "Người lớn bắt đầu chuyện ‘thời chúng tôi’—đôi khi khoe ngày ấy gian khổ hay huy hoàng thế nào."
+    },
+    "card.p2-08.format": {
+      "ja": "パフォーマンスミーム",
+      "zh-CN": "表演迷因",
+      "zh-TW": "表演迷因",
+      "vi": "MEME BIỂU DIỄN"
+    },
+    "card.p2-08.meaning": {
+      "ja": "誰にでも、少なくとも一つは得意なことがある。",
+      "zh-CN": "每个人至少有一件拿手的事。",
+      "zh-TW": "每個人至少有一件拿手的事。",
+      "vi": "Ai cũng có ít nhất một việc làm được tốt."
+    },
+    "alt.001": {
+      "ja": "ニヤニヤした海水浴客が、掘るな看板のすぐ横で深い穴を掘っている",
+      "zh-CN": "一个笑嘻嘻的海滩游客，在禁止挖掘告示牌旁挖出深坑",
+      "zh-TW": "一個笑嘻嘻的海灘遊客，在禁止挖掘告示牌旁挖出深坑",
+      "vi": "Người đi biển cười toe toét đào hố sâu ngay cạnh biển cấm đào"
+    },
+    "alt.002": {
+      "ja": "同じ人物が穴に閉じ込められ、砂が降り注ぐ中でもシャベルを握ったまま",
+      "zh-CN": "同一人被困在坑里，沙子倾泻而下，手里还握着铲子",
+      "zh-TW": "同一人被困在坑裡，沙子傾瀉而下，手裡還握著鏟子",
+      "vi": "Cùng người đó bị kẹt trong hố, cát đổ xuống mà vẫn cầm xẻng"
+    },
+    "alt.003": {
+      "ja": "一人の女性が夜明けを駆け抜ける：起床、ジョギング、韓国語学習、お弁当詰め",
+      "zh-CN": "一位女性贯穿黎明：起床、慢跑、学韩语、装午餐",
+      "zh-TW": "一位女性貫穿黎明：起床、慢跑、學韓語、裝午餐",
+      "vi": "Một phụ nữ xuyên suốt bình minh: thức dậy, chạy bộ, học tiếng Hàn, chuẩn bị cơm trưa"
+    },
+    "alt.004": {
+      "ja": "同じ女性が午前9時、お弁当とチェック済みプランナーとともにオフィスの机で落ち着いている",
+      "zh-CN": "同一位女性上午9点平静坐在办公桌前，带着便当和勾好的计划本",
+      "zh-TW": "同一位女性上午9點平靜坐在辦公桌前，帶著便當和勾好的計畫本",
+      "vi": "Cùng người phụ nữ ấy bình tĩnh ngồi bàn làm việc lúc 9 giờ sáng với hộp cơm và sổ kế hoạch đã tick"
+    },
+    "alt.005": {
+      "ja": "ホームチームがベンチで打ちひしがれ、終盤のスコアボードは1対9",
+      "zh-CN": "主队瘫坐替补席，临近终场的比分牌显示1比9",
+      "zh-TW": "主隊癱坐替補席，臨近終場的比分牌顯示1比9",
+      "vi": "Đội nhà ngồi sụp trên ghế dự bị dưới bảng tỉ số 1–9 gần hết giờ"
+    },
+    "alt.006": {
+      "ja": "終盤1対9でも、チームは拳を握りしめ闘志を燃やす円陣を組む",
+      "zh-CN": "尽管临近终场仍是1比9，全队握拳围圈，斗志仍在",
+      "zh-TW": "儘管臨近終場仍是1比9，全隊握拳圍圈，鬥志仍在",
+      "vi": "Dù tỉ số 1–9 gần hết giờ, đội vẫn túm lại nắm đấm, đầy khí thế"
+    },
+    "alt.007": {
+      "ja": "9時5分にのんびり笑顔で遅れて来る男性。同僚たちは腕時計を見る",
+      "zh-CN": "一名男子9:05悠闲笑着迟到，同事们看着手表",
+      "zh-TW": "一名男子9:05悠閒笑著遲到，同事們看著手錶",
+      "vi": "Một người đàn ông đến muộn lúc 9:05 cười thản nhiên trong khi đồng nghiệp nhìn đồng hồ"
+    },
+    "alt.008": {
+      "ja": "同じ9時5分、彼は怒って時計を指さし、別の同僚が遅れて駆け込む",
+      "zh-CN": "同样在9:05，他愤怒地指着时钟，另一个同事慌忙迟到冲进来",
+      "zh-TW": "同樣在9:05，他憤怒地指著時鐘，另一個同事慌忙遲到衝進來",
+      "vi": "Cùng lúc 9:05, anh ta giận dữ chỉ đồng hồ khi đồng nghiệp khác vội vàng đến muộn"
+    },
+    "alt.009": {
+      "ja": "疲れた会社員が雨のバス停でため息をつき、バスが去っていく",
+      "zh-CN": "疲惫的上班族在雨中公交站叹气，看着公交车开走",
+      "zh-TW": "疲憊的上班族在雨中公車站嘆氣，看著公車開走",
+      "vi": "Nhân viên mệt mỏi thở dài ở trạm xe dưới mưa khi xe buýt vừa rời đi"
+    },
+    "alt.010": {
+      "ja": "数分後、彼は窓際にコーヒーを置き、豪華な座席で微笑んでいる",
+      "zh-CN": "几分钟后，他坐在豪华巴士座位上微笑，窗边放着咖啡",
+      "zh-TW": "幾分鐘後，他坐在豪華巴士座位上微笑，窗邊放著咖啡",
+      "vi": "Vài phút sau anh ta mỉm cười trên ghế xe sang với cà phê cạnh cửa sổ"
+    },
+    "alt.011": {
+      "ja": "マネージャーが乱雑な丸い落書きを指し、『わかるだろ』という曖昧なジェスチャー",
+      "zh-CN": "经理指着潦草的一个圆圈涂鸦，比着『你懂我意思』的含糊手势",
+      "zh-TW": "經理指著潦草的一個圓圈塗鴉，比著『你懂我意思』的含糊手勢",
+      "vi": "Quản lý chỉ vào nguệch ngoạc một vòng tròn rối với cử chỉ mơ hồ ‘ý anh hiểu rồi đó’"
+    },
+    "alt.012": {
+      "ja": "同僚が磨き上げたチャート資料を提示。マネージャーは驚き、彼女はOKサイン",
+      "zh-CN": "同事展示精致图表简报；经理惊叹，她比着OK手势",
+      "zh-TW": "同事展示精緻圖表簡報；經理驚嘆，她比著OK手勢",
+      "vi": "Đồng nghiệp trình bộ biểu đồ bóng bẩy; quản lý kinh ngạc còn cô ấy ra dấu OK"
+    },
+    "alt.013": {
+      "ja": "夕食時、多才で輝く完璧な友達の息子が、うなだれた二人の成人した子どもの背後に浮かぶ",
+      "zh-CN": "晚饭时，光芒四射、全能完美的『朋友家儿子』浮现在两个垂头丧气的成年子女身后",
+      "zh-TW": "晚飯時，光芒四射、全能完美的『朋友家兒子』浮現在兩個垂頭喪氣的成年子女身後",
+      "vi": "Bữa tối, cậu con bạn hoàn hảo đa tài phát sáng nổi phía sau hai đứa con trưởng thành ủ rũ"
+    },
+    "alt.014": {
+      "ja": "母がスマホでスーツ写真を見せ、娘は食べかけで目を回す",
+      "zh-CN": "妈妈在手机上展示西装照，女儿咬着饭翻白眼",
+      "zh-TW": "媽媽在手機上展示西裝照，女兒咬著飯翻白眼",
+      "vi": "Mẹ khoe ảnh mặc vest trên điện thoại trong khi con gái trợn mắt giữa miếng ăn"
+    },
+    "alt.015": {
+      "ja": "二人の友人が地味な路地カフェのドアを開け、中を覗き込んで興味津々",
+      "zh-CN": "两个朋友推开看起来普通的街边咖啡馆门，好奇里面有什么",
+      "zh-TW": "兩個朋友推開看起來普通的街邊咖啡館門，好奇裡面有什麼",
+      "vi": "Hai người bạn mở cửa quán cà phê phố trông bình thường, tò mò bên trong"
+    },
+    "alt.016": {
+      "ja": "店内の温かい光、植物、きれいなカップが、説明できないいいバイブをくれる",
+      "zh-CN": "店内暖光、绿植和漂亮杯子，带来说不清的好氛围",
+      "zh-TW": "店內暖光、綠植和漂亮杯子，帶來說不清的好氛圍",
+      "vi": "Bên trong, ánh sáng ấm, cây xanh và ly đẹp mang lại vibe dễ chịu khó giải thích"
+    },
+    "alt.017": {
+      "ja": "買い物客が買い物リストを持ち、売り切れ表示の空の薬局棚を見つめる",
+      "zh-CN": "购物者拿着购物清单，盯着标着售罄的空药店货架",
+      "zh-TW": "購物者拿著購物清單，盯著標著售罄的空藥局貨架",
+      "vi": "Người mua hàng nhìn kệ hiệu thuốc trống ghi HẾT HÀNG trong khi cầm danh sách mua sắm"
+    },
+    "alt.018": {
+      "ja": "薬剤師が肩をすくめ、高いサプリはカウンターに満棚のまま",
+      "zh-CN": "药剂师耸耸肩，昂贵保健品仍在柜台摆得满满当当",
+      "zh-TW": "藥劑師聳聳肩，昂貴保健品仍在櫃檯擺得滿滿當當",
+      "vi": "Dược sĩ nhún vai trong khi thực phẩm bổ sung đắt tiền vẫn đầy trên quầy"
+    },
+    "alt.019": {
+      "ja": "バリスタがカフェカウンター越しに、Tall表示の小さなカップを渡す",
+      "zh-CN": "咖啡师隔着柜台递过标着Tall的小杯子",
+      "zh-TW": "咖啡師隔著櫃檯遞過標著Tall的小杯子",
+      "vi": "Barista đưa chiếc ly nhỏ ghi Tall qua quầy cà phê"
+    },
+    "alt.020": {
+      "ja": "同じバリスタが法外に巨大なGrandeカップを返し、客はショックを受ける",
+      "zh-CN": "同一位咖啡师又递回夸张巨大的Grande杯；顾客一脸震惊",
+      "zh-TW": "同一位咖啡師又遞回誇張巨大的Grande杯；顧客一臉震驚",
+      "vi": "Cùng barista ấy trả lại ly Grande khổng lồ vô lý; khách nhìn sốc"
+    },
+    "alt.021": {
+      "ja": "得意げに顎を上げた男が、硬い青々しい稲の横に立ち、熟した金色の稲は田で頭を垂れる",
+      "zh-CN": "一个得意扬下巴的男人站在挺直的青绿稻旁，而金黄成熟的稻穗在田里低头",
+      "zh-TW": "一個得意揚下巴的男人站在挺直的青綠稻旁，而金黃成熟的稻穗在田裡低頭",
+      "vi": "Người đàn ông kiêu hãnh ngẩng cằm đứng cạnh lúa xanh cứng, trong khi lúa vàng chín cúi đầu trên đồng"
+    },
+    "alt.022": {
+      "ja": "同じ男が頭を垂れた熟稲の中で深くおじぎし、帽子とプライドは小道に置いたまま",
+      "zh-CN": "同一人在低头的熟稻间深深鞠躬，帽子与骄傲留在小路上",
+      "zh-TW": "同一人在低頭的熟稻間深深鞠躬，帽子與驕傲留在小路上",
+      "vi": "Cùng người ấy cúi sâu giữa lúa chín cúi đầu, mũ và lòng kiêu hãnh bỏ lại trên đường"
+    },
+    "alt.023": {
+      "ja": "伝統的な村の書堂の隅で、退屈した犬がマットの上であくびをする",
+      "zh-CN": "一只无聊的狗在传统村塾角落的垫子上打哈欠",
+      "zh-TW": "一隻無聊的狗在傳統村塾角落的墊子上打哈欠",
+      "vi": "Con chó chán nản ngáp trên chiếu góc trường làng truyền thống"
+    },
+    "alt.024": {
+      "ja": "同じ犬が筆で習字をし、驚く生徒と先生が見守る",
+      "zh-CN": "同一只狗用毛笔写书法，惊讶的学生和老师围观",
+      "zh-TW": "同一隻狗用毛筆寫書法，驚訝的學生和老師圍觀",
+      "vi": "Cùng con chó ấy viết thư pháp bằng bút lông trong khi học trò và thầy kinh ngạc nhìn"
+    },
+    "alt.025": {
+      "ja": "伝統的な精米所の外で、こぼれ穀物に向かって急旋回するスズメ",
+      "zh-CN": "一只麻雀急转向传统磨坊外洒落的谷物",
+      "zh-TW": "一隻麻雀急轉向傳統磨坊外灑落的穀物",
+      "vi": "Chim sẻ vọt ngoặt về phía thóc đổ ngoài cối xay truyền thống"
+    },
+    "alt.026": {
+      "ja": "同じスズメが精米所入り口の穀物の山に着地し、我慢できない",
+      "zh-CN": "同一只麻雀落在磨坊入口的谷堆上，完全忍不住",
+      "zh-TW": "同一隻麻雀落在磨坊入口的穀堆上，完全忍不住",
+      "vi": "Cùng chim sẻ ấy đáp xuống đống thóc cửa cối xay, không cưỡng lại được"
+    },
+    "alt.027": {
+      "ja": "ハイカーが崖の危険看板の横で気軽に手を振り、警告をあしらう",
+      "zh-CN": "徒步者在悬崖危险告示旁随意挥手，把警告当耳旁风",
+      "zh-TW": "健行者在懸崖危險告示旁隨意揮手，把警告當耳邊風",
+      "vi": "Người đi bộ đường dài vẫy tay thản nhiên cạnh biển nguy hiểm vách đá, bỏ ngoài tai cảnh báo"
+    },
+    "alt.028": {
+      "ja": "後でカフェで、彼は身振り豊かに友人へその話をし、みんな大笑い",
+      "zh-CN": "后来在咖啡馆，他手舞足蹈讲给朋友听，大家都笑翻了",
+      "zh-TW": "後來在咖啡館，他手舞足蹈講給朋友聽，大家都笑翻了",
+      "vi": "Sau đó ở quán cà phê, anh ta kể chuyện sinh động cho bạn bè trong khi cả bàn cười ầm"
+    },
+    "alt.029": {
+      "ja": "年上が夕食で説教し、若い親戚は退屈そうにスマホを見る",
+      "zh-CN": "长辈在晚饭时训话，年轻亲戚一脸无聊盯着手机",
+      "zh-TW": "長輩在晚飯時訓話，年輕親戚一臉無聊盯著手機",
+      "vi": "Ông chú giảng đạo lúc ăn tối trong khi họ hàng trẻ chán chường xem điện thoại"
+    },
+    "alt.030": {
+      "ja": "頭上には誇張された昔話の場面が浮かび、パイプを吸うトラもいる",
+      "zh-CN": "他头顶浮现夸张的旧时光画面，包括一只抽着烟斗的老虎",
+      "zh-TW": "他頭頂浮現誇張的舊時光畫面，包括一隻抽著菸斗的老虎",
+      "vi": "Phía trên ông nổi lên cảnh ngày xưa phóng đại, gồm cả con hổ hút tẩu"
+    },
+    "alt.031": {
+      "ja": "ウジがチャンピオン選手のように転がり、大歓声の群衆の前に立つ",
+      "zh-CN": "一只蛴螬像冠军运动员一样翻滚，站在疯狂欢呼的观众前",
+      "zh-TW": "一隻蠐螬像冠軍運動員一樣翻滾，站在瘋狂歡呼的觀眾前",
+      "vi": "Con sâu đất lăn như vận động viên vô địch trước đám đông reo hò"
+    }
+  },
+  "proverbs": {
+    "가는 날이 장날": {
+      "ja": {
+        "text": "ついていない日だ",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "来得不是时候",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "來得不是時候",
+        "type": "saying",
+        "note": ""
+      },
+      "vi": {
+        "text": "Xui như chơi",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "가재는 게 편": {
+      "ja": {
+        "text": "類は友を呼ぶ",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "物以类聚",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "物以類聚",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Ngưu tầm ngưu, mã tầm mã",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "개구리 올챙이 적 생각 못 한다": {
+      "ja": {
+        "text": "成り上がりは昔を忘れる",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "一阔脸就变",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "一闊臉就變",
+        "type": "saying",
+        "note": ""
+      },
+      "vi": {
+        "text": "Quên gốc quên nguồn",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "개똥도 약에 쓰려면 없다": {
+      "ja": {
+        "text": "いざという時に限ってない",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "急用时偏找不到",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "zh-TW": {
+        "text": "急用時偏找不到",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "vi": {
+        "text": "Cần thì chẳng thấy đâu",
+        "type": "paraphrase",
+        "note": "loose"
+      }
+    },
+    "개천에서 용 난다": {
+      "ja": {
+        "text": "鳶が鷹を生む",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "鲤鱼跳龙门",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "鯉魚跳龍門",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Cá chép hóa rồng",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "고래 싸움에 새우 등 터진다": {
+      "ja": {
+        "text": "大魚の争いに小魚が割を食う",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "城门失火，殃及池鱼",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "城門失火，殃及池魚",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Trâu bò đánh nhau, ruồi muỗi chết",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "고생 끝에 낙이 온다": {
+      "ja": {
+        "text": "苦あれば楽あり",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "苦尽甘来",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "苦盡甘來",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Sau cơn mưa trời lại sáng",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "공든 탑이 무너지랴": {
+      "ja": {
+        "text": "努力は報われる",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "功夫不负有心人",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "功夫不負有心人",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Có công mài sắt, có ngày nên kim",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "굼벵이도 구르는 재주가 있다": {
+      "ja": {
+        "text": "人にはそれぞれ取り柄がある",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "三百六十行，行行出状元",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "三百六十行，行行出狀元",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Ai cũng có một tài",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "그림의 떡": {
+      "ja": {
+        "text": "絵に描いた餅",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "画饼充饥",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "畫餅充飢",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Bánh vẽ",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "남의 떡이 커 보인다": {
+      "ja": {
+        "text": "隣の芝生は青い",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "这山望着那山高",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "這山望著那山高",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Đứng núi này trông núi nọ",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "낫 놓고 기역 자도 모른다": {
+      "ja": {
+        "text": "いろはも知らない",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "目不识丁",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "目不識丁",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Dốt đặc cán mai",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "낮말은 새가 듣고 밤말은 쥐가 듣는다": {
+      "ja": {
+        "text": "壁に耳あり",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "隔墙有耳",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "隔牆有耳",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Tai vách mạch rừng",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "누워서 떡 먹기": {
+      "ja": {
+        "text": "朝飯前",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "易如反掌",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "易如反掌",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Dễ như trở bàn tay",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "되로 주고 말로 받는다": {
+      "ja": {
+        "text": "倍にして返ってくる",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "种风得暴",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "zh-TW": {
+        "text": "種風得暴",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "vi": {
+        "text": "Gieo gió gặt bão",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "두 손뼉이 맞아야 소리가 난다": {
+      "ja": {
+        "text": "両手あっての拍手",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "一个巴掌拍不响",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "一個巴掌拍不響",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Một bàn tay không vỗ thành tiếng",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "떡 줄 사람은 생각도 않는데 김칫국부터 마신다": {
+      "ja": {
+        "text": "取らぬ狸の皮算用",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "蛋未孵先数雏",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "蛋未孵先數雛",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Chưa đẻ đã tính ăn",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "똥 묻은 개가 겨 묻은 개 나무란다": {
+      "ja": {
+        "text": "目くそ鼻くそを笑う",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "五十步笑百步",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "五十步笑百步",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Chó chê mèo lắm lông",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "뜻이 있는 곳에 길이 있다": {
+      "ja": {
+        "text": "意志あるところに道は開ける",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "有志者事竟成",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "有志者事竟成",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Có chí thì nên",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "말 한마디에 천 냥 빚도 갚는다": {
+      "ja": {
+        "text": "優しい一言は千両に値する",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "好话一句三冬暖",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "好話一句三冬暖",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Lời nói đắt hơn vàng",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "백지장도 맞들면 낫다": {
+      "ja": {
+        "text": "三人寄れば文殊の知恵",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "众人拾柴火焰高",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "眾人拾柴火焰高",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Một cây làm chẳng nên non",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "벼는 익을수록 고개를 숙인다": {
+      "ja": {
+        "text": "実るほど頭を垂れる稲穂かな",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "稻熟低头",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "稻熟低頭",
+        "type": "saying",
+        "note": ""
+      },
+      "vi": {
+        "text": "Lúa chín thì cúi đầu",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "보기 좋은 떡이 먹기도 좋다": {
+      "ja": {
+        "text": "見た目も味のうち",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "中看又中吃",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "中看又中吃",
+        "type": "saying",
+        "note": ""
+      },
+      "vi": {
+        "text": "Nhìn đã thấy ngon",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "사공이 많으면 배가 산으로 간다": {
+      "ja": {
+        "text": "船頭多くして船山に上る",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "三个和尚没水吃",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "三個和尚沒水喝",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Lắm thầy thối ma",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "서당 개 삼 년이면 풍월을 읊는다": {
+      "ja": {
+        "text": "門前の小僧習わぬ経を読む",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "耳濡目染",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "耳濡目染",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Gần mực thì đen, gần đèn thì sáng",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "설마가 사람 잡는다": {
+      "ja": {
+        "text": "「まさか」が命取り",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "大意失荆州",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "大意失荊州",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Chủ quan là chết",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "세 살 버릇 여든까지 간다": {
+      "ja": {
+        "text": "三つ子の魂百まで",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "江山易改，本性难移",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "江山易改，本性難移",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Thói quen khó bỏ",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "소 잃고 외양간 고친다": {
+      "ja": {
+        "text": "泥棒を見て縄をなう",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "贼走关门",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "賊走關門",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Mất bò mới lo làm chuồng",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "싼 게 비지떡": {
+      "ja": {
+        "text": "安物買いの銭失い",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "便宜没好货",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "便宜沒好貨",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Tiền nào của nấy",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "열 번 찍어 안 넘어가는 나무 없다": {
+      "ja": {
+        "text": "石の上にも三年",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "只要功夫深，铁杵磨成针",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "只要功夫深，鐵杵磨成針",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Có công mài sắt, có ngày nên kim",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "우물 안 개구리": {
+      "ja": {
+        "text": "井の中の蛙",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "井底之蛙",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "井底之蛙",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Ếch ngồi đáy giếng",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "울며 겨자 먹기": {
+      "ja": {
+        "text": "泣きながら唐辛子",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "哑巴吃黄连",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "啞巴吃黃連",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Cắn răng chịu đựng",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "원숭이도 나무에서 떨어진다": {
+      "ja": {
+        "text": "猿も木から落ちる",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "智者千虑，必有一失",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "智者千慮，必有一失",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Thánh nhân còn có khi nhầm",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "제 무덤 내가 판다": {
+      "ja": {
+        "text": "自ら墓穴を掘る",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "自掘坟墓",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "自掘墳墓",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Tự đào huyệt chôn mình",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "중이 제 머리 못 깎는다": {
+      "ja": {
+        "text": "医者の不養生",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "灯下黑",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "燈下黑",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Thầy thuốc chẳng chữa được mình",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "참새가 방앗간을 그냥 지나치랴": {
+      "ja": {
+        "text": "好きなものには逆らえない",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "见猎心喜",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "見獵心喜",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Thấy của tham không bỏ qua",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "콩 심은 데 콩 난다": {
+      "ja": {
+        "text": "まいた種は刈らねばならない",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "种瓜得瓜，种豆得豆",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "種瓜得瓜，種豆得豆",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Gieo nhân nào gặt quả nấy",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "콩 한 쪽도 나눠 먹는다": {
+      "ja": {
+        "text": "分け隔てなく分け合う",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "有福同享",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "有福同享",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Một miếng cũng chia nhau",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "티끌 모아 태산": {
+      "ja": {
+        "text": "塵も積もれば山となる",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "积少成多",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "積少成多",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Tích tiểu thành đại",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "하나를 보면 열을 안다": {
+      "ja": {
+        "text": "一を聞いて十を知る",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "闻一知十",
+        "type": "idiom",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "聞一知十",
+        "type": "idiom",
+        "note": ""
+      },
+      "vi": {
+        "text": "Nhìn một biết mười",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "하룻강아지 범 무서운 줄 모른다": {
+      "ja": {
+        "text": "生まれたての子犬は虎を恐れない",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "初生牛犊不怕虎",
+        "type": "proverb",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "初生牛犢不怕虎",
+        "type": "proverb",
+        "note": ""
+      },
+      "vi": {
+        "text": "Bê mới đẻ chẳng sợ hổ",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "호랑이 담배 피던 시절": {
+      "ja": {
+        "text": "虎がタバコを吸っていた頃",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-CN": {
+        "text": "想当年",
+        "type": "saying",
+        "note": ""
+      },
+      "zh-TW": {
+        "text": "想當年",
+        "type": "saying",
+        "note": ""
+      },
+      "vi": {
+        "text": "Thời ông bà ta",
+        "type": "saying",
+        "note": ""
+      }
+    }
+  }
+}

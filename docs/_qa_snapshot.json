@@ -1,0 +1,1249 @@
+{
+  "strings_empty": {
+    "ne": 0,
+    "my": 0,
+    "km": 123,
+    "hi": 0,
+    "bn": 0,
+    "ar": 0,
+    "es": 0,
+    "fr": 0,
+    "de": 0,
+    "sw": 0,
+    "ha": 0,
+    "fil": 0,
+    "ja": 0,
+    "zh-CN": 0,
+    "zh-TW": 0,
+    "vi": 0,
+    "th": 0,
+    "id": 0,
+    "mn": 0,
+    "ru": 0,
+    "uz": 0,
+    "kk": 0,
+    "ky": 0
+  },
+  "proverbs_empty": {
+    "ne": 0,
+    "my": 0,
+    "km": 42,
+    "hi": 0,
+    "bn": 0,
+    "ar": 0,
+    "es": 0,
+    "fr": 0,
+    "de": 0,
+    "sw": 0,
+    "ha": 0,
+    "fil": 0,
+    "ja": 0,
+    "zh-CN": 0,
+    "zh-TW": 0,
+    "vi": 0,
+    "th": 0,
+    "id": 0,
+    "mn": 0,
+    "ru": 0,
+    "uz": 0,
+    "kk": 0,
+    "ky": 0
+  },
+  "proverb_missing_type": {
+    "ne": 0,
+    "my": 0,
+    "km": 0,
+    "hi": 0,
+    "bn": 0,
+    "ar": 0,
+    "es": 0,
+    "fr": 0,
+    "de": 0,
+    "sw": 0,
+    "ha": 0,
+    "fil": 0,
+    "ja": 0,
+    "zh-CN": 0,
+    "zh-TW": 0,
+    "vi": 0,
+    "th": 0,
+    "id": 0,
+    "mn": 0,
+    "ru": 0,
+    "uz": 0,
+    "kk": 0,
+    "ky": 0
+  },
+  "samples": {
+    "ui.brand_slogan": {
+      "en": "Old Wisdom, New Vibes.",
+      "ne": "पुरानो बुद्धि, नयाँ भाइब।",
+      "my": "ရှေးဉာဏ်ပညာ၊ ခေတ်သစ် Vibe။",
+      "km": null,
+      "hi": "पुरानी बुद्धि, नया अंदाज़।",
+      "bn": "পুরনো জ্ঞান, নতুন ভাইব।",
+      "ar": "حكمة قديمة، أجواء جديدة.",
+      "es": "Sabiduría antigua, vibra nueva.",
+      "fr": "Vieille sagesse, nouvelle vibe.",
+      "de": "Alte Weisheit, neue Vibes.",
+      "sw": "Hekima ya Kale, Mtindo Mpya.",
+      "ha": "Tsohuwar Hikima, Sabuwar Yanayi.",
+      "fil": "Lumang Karunungan, Bagong Vibe."
+    },
+    "ui.hero_copy": {
+      "en": "Match Korean internet slang with timeless proverbs. Then remix the old wisdom in the language of memes.",
+      "ne": "कोरियाली इन्टरनेट स्ल्याङलाई कालातीत उखानसँग मिलाउनुहोस्। त्यसपछि त्यो पुरानो बुद्धिलाई मिमको भाषामा नयाँ रूपमा ल्याउनुहोस्।",
+      "my": "ကိုရီးယားအင်တာနက် စလင်းကို ကာလအကန့်အသတ်မရှိသော စကားပုံများနှင့် တွဲစပ်ပါ။ ထို့နောက် ရှေးဉာဏ်ပညာကို မီးမ်းဘာသာစကားဖြင့် ပြန်လည်ဖန်တီးပါ။",
+      "km": null,
+      "hi": "कोरियाई इंटरनेट स्लैंग को कालातीत कहावतों से मिलाएँ। फिर उस पुरानी बुद्धि को मीम्स की भाषा में नए सिरे से पेश करें।",
+      "bn": "কোরিয়ান ইন্টারনেট স্ল্যাংকে চিরন্তন প্রবাদের সাথে মেলান। তারপর সেই পুরনো জ্ঞানকে মিমের ভাষায় নতুন করে সাজান।",
+      "ar": "اجمع بين العامية الكورية على الإنترنت والأمثال الخالدة. ثم أعد صياغة الحكمة القديمة بلغة الميمز.",
+      "es": "Empareja la jerga de internet coreana con refranes atemporales. Luego remezcla la vieja sabiduría en el lenguaje de los memes.",
+      "fr": "Associez le jargon internet coréen à des proverbes intemporels. Puis remixez cette vieille sagesse dans la langue des mèmes.",
+      "de": "Verbinde koreanischen Internet-Slang mit zeitlosen Sprichwörtern. Remixe dann die alte Weisheit in der Sprache der Memes.",
+      "sw": "Linganisha lugha ya mitaani ya Kikorea na methali za milele. Kisha changanya hekima hiyo ya kale kwa lugha ya memes.",
+      "ha": "Ka daidaita salon magana na intanet na Koriya da karin magana marasa lokaci. Sannan ka sake tsara wannan tsohuwar hikima cikin harshen memes.",
+      "fil": "Itambal ang Korean internet slang sa mga walang-hanggang kasabihan. Pagkatapos, i-remix ang lumang karunungan sa wika ng mga meme."
+    },
+    "ui.misses": {
+      "en": "MISSES",
+      "ne": "गल्तीहरू",
+      "my": "မှားယွင်းမှုများ",
+      "km": null,
+      "hi": "गलतियाँ",
+      "bn": "ভুল",
+      "ar": "الأخطاء",
+      "es": "FALLOS",
+      "fr": "ERREURS",
+      "de": "FEHLVERSUCHE",
+      "sw": "MAKOSA",
+      "ha": "KURAKURAI",
+      "fil": "MGA MALI"
+    },
+    "ui.correct": {
+      "en": "CORRECT",
+      "ne": "सही",
+      "my": "မှန်ပါသည်",
+      "km": null,
+      "hi": "सही",
+      "bn": "সঠিক",
+      "ar": "صحيح",
+      "es": "CORRECTO",
+      "fr": "CORRECT",
+      "de": "RICHTIG",
+      "sw": "SAHIHI",
+      "ha": "DAIDAI",
+      "fil": "TAMA"
+    },
+    "ui.wrong": {
+      "en": "WRONG",
+      "ne": "गलत",
+      "my": "မှားပါသည်",
+      "km": null,
+      "hi": "गलत",
+      "bn": "ভুল",
+      "ar": "خطأ",
+      "es": "INCORRECTO",
+      "fr": "INCORRECT",
+      "de": "FALSCH",
+      "sw": "SI SAHIHI",
+      "ha": "BA DAIDAI BA",
+      "fil": "MALI"
+    },
+    "card.p1-01.meaning": {
+      "en": "I brought this disaster upon myself.",
+      "ne": "यो विपत्ति मैले आफैंले निम्त्याएको हुँ।",
+      "my": "ဤဘေးအန္တရာယ်ကို ကျွန်ုပ်ကိုယ်တိုင် ဖိတ်ခေါ်ခဲ့သည်။",
+      "km": null,
+      "hi": "यह मुसीबत मैंने खुद अपने ऊपर मोल ली।",
+      "bn": "এই বিপদ আমি নিজেই নিজের ওপর ডেকে এনেছি।",
+      "ar": "جلبت هذه الكارثة على نفسي بنفسي.",
+      "es": "Yo mismo me busqué este desastre.",
+      "fr": "Je me suis attiré ce désastre moi-même.",
+      "de": "Ich habe mir dieses Desaster selbst eingebrockt.",
+      "sw": "Nilijiletea msiba huu mwenyewe.",
+      "ha": "Na jawo wa kaina wannan bala'i da kaina.",
+      "fil": "Ako mismo ang may kagagawan ng sakunang ito."
+    },
+    "card.p1-04.meaning": {
+      "en": "One rule for me, another for you.",
+      "ne": "मेरो लागि एक नियम, तपाईंको लागि अर्को।",
+      "my": "ငါ့အတွက် စည်းကမ်းတစ်ခု၊ သင့်အတွက် တခြားတစ်ခု။",
+      "km": null,
+      "hi": "मेरे लिए एक नियम, तुम्हारे लिए दूसरा।",
+      "bn": "নিজের জন্য এক নিয়ম, অন্যের জন্য আরেক নিয়ম।",
+      "ar": "قاعدة لي وأخرى لك.",
+      "es": "Una regla para mí, otra para ti.",
+      "fr": "Une règle pour moi, une autre pour toi.",
+      "de": "Eine Regel für mich, eine andere für dich.",
+      "sw": "Sheria moja kwangu, nyingine kwako.",
+      "ha": "Doka daya a gareni, wata kuma a gareka.",
+      "fil": "Isang panuntunan para sa akin, iba naman para sa iyo."
+    },
+    "proverb::굼벵이도 구르는 재주가 있다": {
+      "ko": "굼벵이도 구르는 재주가 있다",
+      "en": "Every dog has its day.",
+      "ne": {
+        "text": "हरेक कुकुरको पनि आफ्नो दिन आउँछ।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "my": {
+        "text": "ခွေးတိုင်းမှာ သူ့နေ့ ရှိသည်။",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "हर कुत्ते का दिन आता है।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "bn": {
+        "text": "সবার ভাগ্যেই একদিন সুদিন আসে।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "ar": {
+        "text": "لكل كلب يوم.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "es": {
+        "text": "A todo cerdo le llega su San Martín.",
+        "type": "proverb",
+        "note": "loose"
+      },
+      "fr": {
+        "text": "À chaque jour suffit sa peine, mais son heure viendra.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "de": {
+        "text": "Auch ein blindes Huhn findet mal ein Korn.",
+        "type": "proverb",
+        "note": "loose"
+      },
+      "sw": {
+        "text": "Kila mbwa ana siku yake.",
+        "type": "proverb",
+        "note": null
+      },
+      "ha": {
+        "text": "Kare kowa yana da ranarsa.",
+        "type": "proverb",
+        "note": null
+      },
+      "fil": {
+        "text": "May araw din ang bawat aso.",
+        "type": "paraphrase",
+        "note": "loose"
+      }
+    },
+    "proverb::남의 떡이 커 보인다": {
+      "ko": "남의 떡이 커 보인다",
+      "en": "The grass is always greener on the other side.",
+      "ne": {
+        "text": "अर्काको थालको भात बढी मीठो देखिन्छ।",
+        "type": "proverb",
+        "note": null
+      },
+      "my": {
+        "text": "တစ်ဖက်လူ့ မြက်ခင်းက ပိုစိမ်းလန်းနေသည်ဟု ထင်ရသည်။",
+        "type": "proverb",
+        "note": null
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "दूसरे की थाली का खाना ज़्यादा स्वादिष्ट लगता है।",
+        "type": "proverb",
+        "note": null
+      },
+      "bn": {
+        "text": "অন্যের থালার ভাত বেশি সুস্বাদু মনে হয়।",
+        "type": "proverb",
+        "note": null
+      },
+      "ar": {
+        "text": "عشب الجار دائماً أخضر.",
+        "type": "proverb",
+        "note": null
+      },
+      "es": {
+        "text": "La hierba siempre es más verde del otro lado.",
+        "type": "proverb",
+        "note": null
+      },
+      "fr": {
+        "text": "L'herbe est toujours plus verte ailleurs.",
+        "type": "proverb",
+        "note": null
+      },
+      "de": {
+        "text": "Das Gras auf der anderen Seite ist immer grüner.",
+        "type": "proverb",
+        "note": null
+      },
+      "sw": {
+        "text": "Nyasi za jirani huonekana nzuri zaidi.",
+        "type": "proverb",
+        "note": null
+      },
+      "ha": {
+        "text": "Ciyawar makwabci kan yi kama da mafi kore.",
+        "type": "proverb",
+        "note": null
+      },
+      "fil": {
+        "text": "Mas berde palagi ang damo sa kabilang bakod.",
+        "type": "proverb",
+        "note": null
+      }
+    },
+    "proverb::벼는 익을수록 고개를 숙인다": {
+      "ko": "벼는 익을수록 고개를 숙인다",
+      "en": "The fuller the ear, the lower it bows.",
+      "ne": {
+        "text": "जति ज्ञान बढ्छ, त्यति नै विनम्रता बढ्नुपर्छ।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "my": {
+        "text": "ပညာရှိလေလေ နှိမ့်ချမှု ရှိသင့်လေဖြစ်သည်။",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "जितना ज्ञान बढ़े, उतनी विनम्रता बढ़नी चाहिए।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "bn": {
+        "text": "যত জ্ঞান বাড়ে, তত বিনয় বাড়া উচিত।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "ar": {
+        "text": "كلما ازداد المرء علماً ازداد تواضعاً.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "es": {
+        "text": "Cuanto más sabe una persona, más humilde se vuelve.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "fr": {
+        "text": "Plus on en sait, plus il faut rester humble.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "de": {
+        "text": "Je klüger jemand wird, desto bescheidener sollte er sein.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "sw": {
+        "text": "Mtu anapozidi kuwa na hekima, ndivyo anavyopaswa kuwa mnyenyekevu zaidi.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "ha": {
+        "text": "Yadda mutum ke kara samun hikima, haka ya kamata ya zama mai tawali'u.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "fil": {
+        "text": "Habang lalo namang marunong ang isang tao, dapat lalo siyang mapagpakumbaba.",
+        "type": "paraphrase",
+        "note": "loose"
+      }
+    },
+    "proverb::설마가 사람 잡는다": {
+      "ko": "설마가 사람 잡는다",
+      "en": "Famous last words.",
+      "ne": {
+        "text": "बढी आत्मविश्वासले नै समस्या निम्त्याउँछ।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "my": {
+        "text": "'ဖြစ်မှာမဟုတ်ဘူး' ဆိုတဲ့ ပေါ့ပေါ့တန်တန် ယုံကြည်မှုက အမှန်တကယ် ပြဿနာဖြစ်စေနိုင်သည်။",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "अति आत्मविश्वास मुसीबत बुला लेता है।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "bn": {
+        "text": "বেশি আত্মবিশ্বাসই বিপদ ডেকে আনে।",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "ar": {
+        "text": "لا تقل فعلت حتى تفعل، فالحذر واجب.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "es": {
+        "text": "Dicho y hecho, la desgracia llegó por confiado.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "fr": {
+        "text": "À force de tenter le sort, le malheur finit par arriver.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "de": {
+        "text": "Wer den Teufel an die Wand malt, den holt er auch.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "sw": {
+        "text": "Kudhani 'labda haitatokea' huleta matatizo halisi.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "ha": {
+        "text": "Amincewa cewa 'ba zai faru ba' na kawo matsala ta gaske.",
+        "type": "paraphrase",
+        "note": "loose"
+      },
+      "fil": {
+        "text": "Ang walang-ingat na kumpiyansa na 'malamang hindi mangyayari' ay nagdudulot ng gulo.",
+        "type": "paraphrase",
+        "note": "loose"
+      }
+    },
+    "proverb::제 무덤 내가 판다": {
+      "ko": "제 무덤 내가 판다",
+      "en": "You dug your own grave.",
+      "ne": {
+        "text": "आफैंले आफ्नो चिहान खन्नु।",
+        "type": "idiom",
+        "note": null
+      },
+      "my": {
+        "text": "ကိုယ့်သင်္ချိုင်းကို ကိုယ်တူးခြင်း။",
+        "type": "idiom",
+        "note": null
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "अपनी कब्र खुद खोदना।",
+        "type": "idiom",
+        "note": null
+      },
+      "bn": {
+        "text": "নিজের কবর নিজে খোঁড়া।",
+        "type": "idiom",
+        "note": null
+      },
+      "ar": {
+        "text": "حفر قبره بيده.",
+        "type": "idiom",
+        "note": null
+      },
+      "es": {
+        "text": "Cavar tu propia tumba.",
+        "type": "idiom",
+        "note": null
+      },
+      "fr": {
+        "text": "Creuser sa propre tombe.",
+        "type": "idiom",
+        "note": null
+      },
+      "de": {
+        "text": "Sich sein eigenes Grab schaufeln.",
+        "type": "idiom",
+        "note": null
+      },
+      "sw": {
+        "text": "Kujichimbia kaburi lako mwenyewe.",
+        "type": "idiom",
+        "note": null
+      },
+      "ha": {
+        "text": "Haƙa wa kanka kabari.",
+        "type": "idiom",
+        "note": null
+      },
+      "fil": {
+        "text": "Sariling libingan ang hinukay.",
+        "type": "idiom",
+        "note": null
+      }
+    },
+    "proverb::참새가 방앗간을 그냥 지나치랴": {
+      "ko": "참새가 방앗간을 그냥 지나치랴",
+      "en": "Like a moth to a flame.",
+      "ne": {
+        "text": "पुतलीजस्तै आगोतिर दौडिनु।",
+        "type": "idiom",
+        "note": null
+      },
+      "my": {
+        "text": "မီးကို ဆွဲငင်ခံရသော လင်းနို့ကဲ့သို့။",
+        "type": "idiom",
+        "note": null
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "पतंगे की तरह आग की ओर खिंचना।",
+        "type": "idiom",
+        "note": null
+      },
+      "bn": {
+        "text": "পতঙ্গের মতো আগুনের দিকে ছুটে যাওয়া।",
+        "type": "idiom",
+        "note": null
+      },
+      "ar": {
+        "text": "كالفراشة تنجذب إلى النار.",
+        "type": "idiom",
+        "note": null
+      },
+      "es": {
+        "text": "Como polilla atraída por la llama.",
+        "type": "idiom",
+        "note": null
+      },
+      "fr": {
+        "text": "Comme un papillon de nuit attiré par la flamme.",
+        "type": "idiom",
+        "note": null
+      },
+      "de": {
+        "text": "Wie eine Motte, die zur Flamme fliegt.",
+        "type": "idiom",
+        "note": null
+      },
+      "sw": {
+        "text": "Kama nondo anavyovutwa na moto.",
+        "type": "idiom",
+        "note": null
+      },
+      "ha": {
+        "text": "Kamar asu da ke jan hankalinsa zuwa wuta.",
+        "type": "idiom",
+        "note": null
+      },
+      "fil": {
+        "text": "Parang gamu-gamong lumilipad papunta sa apoy.",
+        "type": "idiom",
+        "note": null
+      }
+    },
+    "proverb::호랑이 담배 피던 시절": {
+      "ko": "호랑이 담배 피던 시절",
+      "en": "Back in my day.",
+      "ne": {
+        "text": "मेरो पालामा...",
+        "type": "saying",
+        "note": null
+      },
+      "my": {
+        "text": "ငါ့ခေတ်တုန်းက...",
+        "type": "saying",
+        "note": null
+      },
+      "km": {
+        "text": null,
+        "type": null,
+        "note": null
+      },
+      "hi": {
+        "text": "मेरे ज़माने में...",
+        "type": "saying",
+        "note": null
+      },
+      "bn": {
+        "text": "আমার সময়ে...",
+        "type": "saying",
+        "note": null
+      },
+      "ar": {
+        "text": "في زماني...",
+        "type": "saying",
+        "note": null
+      },
+      "es": {
+        "text": "En mis tiempos...",
+        "type": "saying",
+        "note": null
+      },
+      "fr": {
+        "text": "De mon temps...",
+        "type": "saying",
+        "note": null
+      },
+      "de": {
+        "text": "Zu meiner Zeit...",
+        "type": "saying",
+        "note": null
+      },
+      "sw": {
+        "text": "Wakati wangu...",
+        "type": "saying",
+        "note": null
+      },
+      "ha": {
+        "text": "A zamanina...",
+        "type": "saying",
+        "note": null
+      },
+      "fil": {
+        "text": "Noong araw ko...",
+        "type": "saying",
+        "note": null
+      }
+    }
+  },
+  "issues": [
+    {
+      "lang": "km",
+      "key": "ui.edition_pill",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.sinavro_presents",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.product_descriptor",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.tap_to_continue",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.brand_slogan",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.hero_copy",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.tag.korean_slang",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.tag.proverbs",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.tag.world_wisdom",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part01_title",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part01_body",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part01_li1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part01_li2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part01_li3",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.start_part1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part02_title",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part02_body",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part02_li1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part02_li2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part02_li3",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.start_part2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.game_title.part1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.game_title.part2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.misses",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part_switch_1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part_switch_2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part_complete",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.immaculate",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.close",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.loading",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.zero_misses",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.misses_line",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.after_part1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.result.after_part2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.around_the_world",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.world_question",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.continue_part2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.go_part1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.play_again",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.back_home",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.old_wisdom_new_vibes",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.correct",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.wrong",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.try_again",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.next",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.decode_it",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.find_proverb_q",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.find_proverb_hint_p1",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.find_proverb_hint_p2",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.image_slot",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.image_slot_hint",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "ui.part1_cleared",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-01.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-01.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-01.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-02.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-02.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-02.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-03.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-03.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-03.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-04.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-04.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-04.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-05.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-05.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-05.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-06.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-06.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-06.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-07.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-07.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-07.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-08.era",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-08.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p1-08.scenario",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-01.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-01.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-02.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-02.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-03.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-03.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-04.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-04.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-05.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-05.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-06.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-06.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-07.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-07.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-08.format",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "card.p2-08.meaning",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.001",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.002",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.003",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.004",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.005",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.006",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.007",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.008",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.009",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.010",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.011",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.012",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.013",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.014",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.015",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.016",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.017",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.018",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.019",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.020",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.021",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.022",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.023",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.024",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.025",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.026",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.027",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.028",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.029",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.030",
+      "issue": "empty string"
+    },
+    {
+      "lang": "km",
+      "key": "alt.031",
+      "issue": "empty string"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ko": "개천에서 용 난다",
+  "en": "From rags to riches.",
+  "en_type": "idiom",
+  "fills": {
+    "ja": { "text": "鳶が鷹を生む", "type": "proverb" },
+    "zh-CN": { "text": "鲤鱼跳龙门", "type": "proverb" },
+    "zh-TW": { "text": "鯉魚跳龍門", "type": "proverb" },
+    "vi": { "text": "Cá chép hóa rồng", "type": "proverb" },
+    "th": { "text": "จากลำธารเกิดมังกร", "type": "proverb" },
+    "id": { "text": "Dari lumpur muncul teratai.", "type": "proverb" },
+    "mn": { "text": "Эгэлээс ноён төрнө.", "type": "saying" },
+    "ru": { "text": "Из грязи в князи.", "type": "idiom" },
+    "uz": { "text": "Oddiydan buyuk chiqadi.", "type": "saying" },
+    "kk": { "text": "Қарадан хан туады.", "type": "proverb" },
+    "ky": { "text": "Жөнөкөйдөн хан чыгат.", "type": "proverb" },
+    "ne": { "text": "सानो खोलाबाट ठूलो नदी।", "type": "saying" },
+    "my": { "text": "ရွှံ့မှ ကြာပေါက်သည်။", "type": "proverb" },
+    "km": { "text": "ត្រីធម្មតាក្លាយជានាគ។", "type": "saying" },
+    "hi": { "text": "रंक से राजा।", "type": "idiom" },
+    "bn": { "text": "কাঙাল থেকে রাজা।", "type": "idiom" },
+    "ar": { "text": "من الرماد إلى العرش.", "type": "saying" },
+    "es": { "text": "Los pequeños arroyos hacen los grandes ríos.", "type": "proverb" },
+    "fr": { "text": "Les petits ruisseaux font les grandes rivières.", "type": "proverb" },
+    "de": { "text": "Vom Tellerwäscher zum Millionär.", "type": "idiom" },
+    "sw": { "text": "Kutoka mavumbi hadi utukufu.", "type": "saying" },
+    "ha": { "text": "Daga ƙasa zuwa sama.", "type": "saying" },
+    "fil": { "text": "Mula sa putik, tungo sa trono.", "type": "saying" }
+  }
+}

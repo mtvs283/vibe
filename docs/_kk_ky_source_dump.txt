@@ -1,0 +1,167 @@
+﻿STRINGS
+ui.edition_pill|||ENGLISH EDITION
+ui.sinavro_presents|||SINAVRO PRESENTS
+ui.product_descriptor|||KOREAN PROVERBS & SLANG CARD GAME
+ui.tap_to_continue|||TAP TO CONTINUE ??
+ui.brand_slogan|||Old Wisdom, New Vibes.
+ui.hero_copy|||Match Korean internet slang with timeless proverbs. Then remix the old wisdom in the language of memes.
+ui.tag.korean_slang|||#KoreanSlang
+ui.tag.proverbs|||#Proverbs
+ui.tag.world_wisdom|||#WorldWisdom
+ui.part01_title|||Catch the Vibe
+ui.part01_body|||Discover real Korean slang, read the situation, and find its closest proverb cousin.
+ui.part01_li1|||8 real expressions
+ui.part01_li2|||Two-panel visual cards
+ui.part01_li3|||English proverb matches
+ui.start_part1|||START PART 1 ??
+ui.part02_title|||Proverb Remix
+ui.part02_body|||Decode Korean proverbs rewritten as memes, community posts, and modern punchlines.
+ui.part02_li1|||8 creative remixes
+ui.part02_li2|||Two-panel visual cards
+ui.part02_li3|||World-wisdom discussion
+ui.start_part2|||START PART 2 ??
+ui.game_title.part1|||CATCH THE VIBE
+ui.game_title.part2|||PROVERB REMIX
+ui.misses|||MISSES
+ui.part_switch_1|||??PART 1
+ui.part_switch_2|||PART 2 ??
+ui.part_complete|||PART {n} COMPLETE
+ui.result.immaculate|||Your vibe is immaculate.
+ui.result.close|||Close. The wisdom is landing.
+ui.result.loading|||The wisdom is loading.
+ui.result.zero_misses|||Zero misses. You read every vibe on the first try.
+ui.result.misses_line|||You missed {n} time(s). Lower is better?봳ry again for a cleaner run.
+ui.result.after_part1|||You have decoded the slang. Now use those new vibes to remix old Korean wisdom.
+ui.result.after_part2|||You have travelled from old proverbs to internet memes?봞nd found the human truth underneath both.
+ui.around_the_world|||AROUND THE WORLD
+ui.world_question|||Does your language have a proverb that matched one of today?셲 cards?
+ui.continue_part2|||CONTINUE TO PART 2 ??
+ui.go_part1|||??GO TO PART 1
+ui.play_again|||PLAY AGAIN
+ui.back_home|||BACK TO HOME
+ui.old_wisdom_new_vibes|||OLD WISDOM, NEW VIBES
+ui.correct|||CORRECT
+ui.wrong|||WRONG
+ui.try_again|||TRY AGAIN
+ui.next|||NEXT
+ui.decode_it|||DECODE IT
+ui.find_proverb_q|||What is the original proverb?
+ui.find_proverb_hint_p1|||Find the Korean proverb that matches this vibe.
+ui.find_proverb_hint_p2|||Find the original Korean proverb hiding inside this modern remix.
+ui.image_slot|||Image slot
+ui.image_slot_hint|||Drop Gemini art here later.
+ui.part1_cleared|||PART 1 CLEARED ??
+card.p1-01.era|||2020s internet slang
+card.p1-01.meaning|||I brought this disaster upon myself.
+card.p1-01.scenario|||You ignored every warning. Now you are standing in the mess you made with your own hands.
+card.p1-02.era|||2020s lifestyle slang
+card.p1-02.meaning|||A disciplined, productive, admirable life.
+card.p1-02.scenario|||Wake up early, exercise, study Korean, prepare lunch, and still arrive at work on time.
+card.p1-03.era|||2022 sports & gaming meme
+card.p1-03.meaning|||What matters is an unbreakable spirit.
+card.p1-03.scenario|||Your team is far behind, but nobody gives up before the final whistle.
+card.p1-04.era|||2010s??020s public discourse
+card.p1-04.meaning|||One rule for me, another for you.
+card.p1-04.scenario|||He complains when others are five minutes late, but expects everyone to wait when he is late.
+card.p1-05.era|||2020s reaction meme
+card.p1-05.meaning|||This might actually be better!
+card.p1-05.scenario|||You miss the crowded bus in the rain?봳hen the next one gives you a luxury empty seat.
+card.p1-06.era|||late 2010s??020s slang
+card.p1-06.meaning|||Handle it well, neatly, and with good sense?봶ithout being told every detail.
+card.p1-06.scenario|||You give one short instruction. Your coworker understands the whole situation and delivers perfectly.
+card.p1-07.era|||2000s comparison culture
+card.p1-07.meaning|||The impossibly perfect ?쁣riend?셲 son??your mother compares you with.
+card.p1-07.scenario|||Your family praises someone else?셲 grades, job, manners, cooking, and fitness?봞ll during dinner.
+card.p1-08.era|||2020s aesthetic slang
+card.p1-08.meaning|||It just has a nice vibe.
+card.p1-08.scenario|||You cannot explain why, but the caf챕?셲 colors, music, light, and tableware all feel right.
+card.p2-01.format|||CONSUMER CULTURE REMIX
+card.p2-01.meaning|||Even something common is nowhere to be found exactly when you need it.
+card.p2-02.format|||CAF횋 SIZE REMIX
+card.p2-02.meaning|||You give a little but get much more back?봮ften as punishment or loss.
+card.p2-03.format|||MEME WORDPLAY
+card.p2-03.meaning|||The wiser or more accomplished a person becomes, the more humble they should be.
+card.p2-04.format|||PERFORMANCE MEME
+card.p2-04.meaning|||Long exposure to an environment can teach you something, even without formal study.
+card.p2-05.format|||CAN?셏-RESIST MEME
+card.p2-05.meaning|||People cannot easily pass by something they love or habitually enjoy.
+card.p2-06.format|||COMMUNITY POST TITLE
+card.p2-06.meaning|||Careless confidence that ?쁦t probably won?셳 happen??can cause real trouble.
+card.p2-07.format|||GENERATION MEME
+card.p2-07.meaning|||Older folks start ?쁞ack in my day??stories?봲ometimes flexing how hard or glorious those days were.
+card.p2-08.format|||PERFORMANCE MEME
+card.p2-08.meaning|||Everyone has at least one thing they can do well.
+alt.001|||A grinning beachgoer digs a deep sand hole right beside a no-digging warning sign
+alt.002|||The same person sits trapped in the hole as sand pours down on him, still holding the shovel
+alt.003|||One woman moves through dawn: waking up, jogging, studying Korean, packing lunch
+alt.004|||The same woman sits calmly at her office desk at 9am with a packed lunch and checked planner
+alt.005|||Home team sits crushed on the bench under a 1?? scoreboard near full time
+alt.006|||Despite a 1?? score near full time, the team huddles with clenched fists and fighting spirit
+alt.007|||A man arrives late at 9:05 smiling casually while coworkers check their watches
+alt.008|||At the same 9:05, he angrily points at the clock as another coworker rushes in late
+alt.009|||A tired office worker sighs at a rainy bus stop as his bus pulls away
+alt.010|||Minutes later he smiles in a plush luxury bus seat with coffee by the window
+alt.011|||A manager points at a messy one-circle scribble with a vague ?쁸ou know what I mean??gesture
+alt.012|||A coworker presents a polished chart deck; the manager looks amazed while she gives an OK sign
+alt.013|||At dinner, a glowing multi-talented perfect friend?셲 son floats behind two slumped adult children
+alt.014|||Mom shows a suit photo on her phone while her daughter rolls her eyes mid-bite
+alt.015|||Two friends open the door of an ordinary-looking street cafe, curious about what?셲 inside
+alt.016|||Inside, warm light, plants, and pretty cups give them an unexplained good vibe
+alt.017|||A shopper stares at an empty pharmacy shelf marked SOLD OUT while holding a shopping list
+alt.018|||A pharmacist shrugs as expensive supplements remain fully stocked on the counter
+alt.019|||A barista hands a tiny Tall-labeled cup across the cafe counter
+alt.020|||The same barista returns an absurdly oversized Grande cup; the customer looks shocked
+alt.021|||A proud man stands chin-up beside stiff green rice while ripe golden rice bows in the field
+alt.022|||The same man bows deeply among bowed ripe rice, hat and pride left on the path
+alt.023|||A bored dog yawns on a mat in the corner of a traditional village school
+alt.024|||The same dog does calligraphy with a brush while astonished students and teacher watch
+alt.025|||A sparrow banks hard toward spilled grain outside a traditional mill
+alt.026|||The same sparrow lands on the grain pile at the mill entrance, unable to resist
+alt.027|||A hiker waves casually beside a cliff danger sign, brushing off the warning
+alt.028|||Later at a cafe, he animatedly tells friends the story while everyone cracks up
+alt.029|||An older man lectures at dinner while younger relatives look bored and check phones
+alt.030|||Above him float exaggerated old-days scenes, including a tiger smoking a pipe
+alt.031|||A grub rolls like a champion athlete before a wildly cheering crowd
+PROVERBS
+媛???좎씠 ?λ궇|||Just my luck.
+媛?щ뒗 寃???||Birds of a feather flock together.
+媛쒓뎄由??ъ콡?????앷컖 紐??쒕떎|||Don?셳 forget where you came from.
+媛쒕삦???쎌뿉 ?곕젮硫??녿떎|||You can never find a thing when you need it.
+媛쒖쿇?먯꽌 ???쒕떎|||From rags to riches.
+怨좊옒 ?몄????덉슦 ???곗쭊??||When elephants fight, the grass gets trampled.
+怨좎깮 ?앹뿉 ?숈씠 ?⑤떎|||Every cloud has a silver lining.
+怨듬뱺 ?묒씠 臾대꼫吏??||Hard work pays off.
+援쇰껨?대룄 援щⅤ???ъ＜媛 ?덈떎|||Every dog has its day.
+洹몃┝????||Pie in the sky.
+?⑥쓽 ?≪씠 而?蹂댁씤??||The grass is always greener on the other side.
+???볤퀬 湲곗뿭 ?먮룄 紐⑤Ⅸ??||Doesn?셳 know A from B.
+??쭚? ?덇? ?ｊ퀬 諛ㅻ쭚? 伊먭? ?ｋ뒗??||Walls have ears.
+?꾩썙????癒밴린|||A piece of cake.
+?섎줈 二쇨퀬 留먮줈 諛쏅뒗??||Sow the wind, reap the whirlwind.
+???먮펹??留욎븘???뚮━媛 ?쒕떎|||It takes two to tango.
+??以??щ엺? ?앷컖???딅뒗??源移リ뎅遺??留덉떊??||Don?셳 count your chickens before they hatch.
+??臾살? 媛쒓? 寃?臾살? 媛??섎Т???||The pot calling the kettle black.
+?살씠 ?덈뒗 怨녹뿉 湲몄씠 ?덈떎|||Where there?셲 a will, there?셲 a way.
+留??쒕쭏?붿뿉 泥???鍮싲룄 媛싲뒗??||Kind words go a long way.
+諛깆??λ룄 留욌뱾硫??ル떎|||Many hands make light work.
+踰쇰뒗 ?듭쓣?섎줉 怨좉컻瑜??숈씤??||The fuller the ear, the lower it bows.
+蹂닿린 醫뗭? ?≪씠 癒밴린??醫뗫떎|||We eat with our eyes first.
+?ш났??留롮쑝硫?諛곌? ?곗쑝濡?媛꾨떎|||Too many cooks spoil the broth.
+?쒕떦 媛????꾩씠硫??띿썡???딅뒗??||You pick things up by osmosis.
+?ㅻ쭏媛 ?щ엺 ?〓뒗??||Famous last words.
+????踰꾨쫯 ?щ뱺源뚯? 媛꾨떎|||Old habits die hard.
+???껉퀬 ?몄뼇媛?怨좎튇??||Shutting the stable door after the horse has bolted.
+??寃?鍮꾩???||You get what you pay for.
+??踰?李띿뼱 ???섏뼱媛???섎Т ?녿떎|||If at first you don?셳 succeed, try, try again.
+?곕Ъ ??媛쒓뎄由?||A frog in a well.
+?몃ŉ 寃⑥옄 癒밴린|||Grin and bear it.
+?먯댂?대룄 ?섎Т?먯꽌 ?⑥뼱吏꾨떎|||Even Homer sometimes nods.
+??臾대뜡 ?닿? ?먮떎|||You dug your own grave.
+以묒씠 ??癒몃━ 紐?源롫뒗??||The cobbler?셲 children have no shoes.
+李몄깉媛 諛⑹븮媛꾩쓣 洹몃깷 吏?섏튂??||Like a moth to a flame.
+肄??ъ? ??肄??쒕떎|||You reap what you sow.
+肄???履쎈룄 ?섎닠 癒밸뒗??||Share and share alike.
+?곕걣 紐⑥븘 ?쒖궛|||Many a little makes a mickle.
+?섎굹瑜?蹂대㈃ ?댁쓣 ?덈떎|||A word to the wise is enough.
+?섎；媛뺤븘吏 踰?臾댁꽌??以?紐⑤Ⅸ??||Fools rush in where angels fear to tread.
+?몃옉???대같 ?쇰뜕 ?쒖젅|||Back in my day.

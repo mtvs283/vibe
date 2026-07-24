@@ -1,0 +1,1002 @@
+{
+  "strings": {
+    "ui.edition_pill": {
+      "ru": "АНГЛИЙСКАЯ ВЕРСИЯ",
+      "uz": "INGLIZCHA NASHR"
+    },
+    "ui.sinavro_presents": {
+      "ru": "SINAVRO ПРЕДСТАВЛЯЕТ",
+      "uz": "SINAVRO TAQDIM ETADI"
+    },
+    "ui.product_descriptor": {
+      "ru": "КАРТОЧНАЯ ИГРА: КОРЕЙСКИЕ ПОСЛОВИЦЫ И СЛЕНГ",
+      "uz": "KOREYS MAQOLLARI VA SLANG KARTA O‘YINI"
+    },
+    "ui.tap_to_continue": {
+      "ru": "НАЖМИТЕ, ЧТОБЫ ПРОДОЛЖИТЬ →",
+      "uz": "DAVOM ETISH UCHUN BOSING →"
+    },
+    "ui.brand_slogan": {
+      "ru": "Старая мудрость, новые вайбы.",
+      "uz": "Eski donolik, yangi vayblar."
+    },
+    "ui.hero_copy": {
+      "ru": "Сопоставьте корейский интернет-сленг с вечными пословицами. Потом переосмыслите старую мудрость языком мемов.",
+      "uz": "Koreys internet slangini abadiy maqollar bilan moslang. Keyin eski donolikni mem tilida remix qiling."
+    },
+    "ui.tag.korean_slang": {
+      "ru": "#КорейскийСленг",
+      "uz": "#KoreysSlang"
+    },
+    "ui.tag.proverbs": {
+      "ru": "#Пословицы",
+      "uz": "#Maqollar"
+    },
+    "ui.tag.world_wisdom": {
+      "ru": "#МудростьМира",
+      "uz": "#DunyoDonoligi"
+    },
+    "ui.part01_title": {
+      "ru": "Поймай вайб",
+      "uz": "Vaybni ushla"
+    },
+    "ui.part01_body": {
+      "ru": "Узнайте настоящий корейский сленг, прочитайте ситуацию и найдите ближайшую пословицу.",
+      "uz": "Haqiqiy koreys slangini biling, vaziyatni o‘qing va eng yaqin maqolni toping."
+    },
+    "ui.part01_li1": {
+      "ru": "8 реальных выражений",
+      "uz": "8 haqiqiy ibora"
+    },
+    "ui.part01_li2": {
+      "ru": "Карточки из двух панелей",
+      "uz": "Ikki panelli vizual kartalar"
+    },
+    "ui.part01_li3": {
+      "ru": "Совпадения с пословицами",
+      "uz": "Inglizcha maqol mosliklari"
+    },
+    "ui.start_part1": {
+      "ru": "НАЧАТЬ ЧАСТЬ 1 →",
+      "uz": "1-QISMNI BOSHLASH →"
+    },
+    "ui.part02_title": {
+      "ru": "Ремикс пословиц",
+      "uz": "Maqol remiksi"
+    },
+    "ui.part02_body": {
+      "ru": "Разгадайте корейские пословицы в виде мемов, постов и современных панчлайнов.",
+      "uz": "Mem, jamoa posti va zamonaviy punchline sifatida qayta yozilgan koreys maqollarini oching."
+    },
+    "ui.part02_li1": {
+      "ru": "8 креативных ремиксов",
+      "uz": "8 ijodiy remiks"
+    },
+    "ui.part02_li2": {
+      "ru": "Карточки из двух панелей",
+      "uz": "Ikki panelli vizual kartalar"
+    },
+    "ui.part02_li3": {
+      "ru": "Обсуждение мировой мудрости",
+      "uz": "Dunyo donoligi muhokamasi"
+    },
+    "ui.start_part2": {
+      "ru": "НАЧАТЬ ЧАСТЬ 2 →",
+      "uz": "2-QISMNI BOSHLASH →"
+    },
+    "ui.game_title.part1": {
+      "ru": "ПОЙМАЙ ВАЙБ",
+      "uz": "VAYBNI USHLA"
+    },
+    "ui.game_title.part2": {
+      "ru": "РЕМИКС ПОСЛОВИЦ",
+      "uz": "MAQOL REMIKSI"
+    },
+    "ui.misses": {
+      "ru": "ОШИБКИ",
+      "uz": "XATOLAR"
+    },
+    "ui.part_switch_1": {
+      "ru": "← ЧАСТЬ 1",
+      "uz": "← 1-QISM"
+    },
+    "ui.part_switch_2": {
+      "ru": "ЧАСТЬ 2 →",
+      "uz": "2-QISM →"
+    },
+    "ui.part_complete": {
+      "ru": "ЧАСТЬ {n} ПРОЙДЕНА",
+      "uz": "{n}-QISM TUGADI"
+    },
+    "ui.result.immaculate": {
+      "ru": "Ваш вайб безупречен.",
+      "uz": "Vaybingiz benuqson."
+    },
+    "ui.result.close": {
+      "ru": "Почти. Мудрость уже близко.",
+      "uz": "Deyarli. Donolik joylashmoqda."
+    },
+    "ui.result.loading": {
+      "ru": "Мудрость ещё загружается.",
+      "uz": "Donolik hali yuklanmoqda."
+    },
+    "ui.result.zero_misses": {
+      "ru": "Ноль ошибок. Вы считали каждый вайб с первого раза.",
+      "uz": "Nol xato. Har bir vaybni birinchi urinishda o‘qidingiz."
+    },
+    "ui.result.misses_line": {
+      "ru": "Ошибок: {n}. Чем меньше — тем лучше. Попробуйте ещё раз чище.",
+      "uz": "{n} marta xato qildingiz. Kamroq — yaxshiroq. Tozaroq o‘yin uchun qayta urinib ko‘ring."
+    },
+    "ui.result.after_part1": {
+      "ru": "Вы расшифровали сленг. Теперь этими вайбами переосмыслите старую корейскую мудрость.",
+      "uz": "Slangni ochdingiz. Endi shu yangi vayblar bilan eski koreys donoligini remiks qiling."
+    },
+    "ui.result.after_part2": {
+      "ru": "Вы прошли путь от старых пословиц к интернет-мемам — и нашли человеческую правду в обоих.",
+      "uz": "Eski maqollardan internet memlarigacha yo‘l bosdingiz — va ikkalasidagi insoniy haqiqatni topdingiz."
+    },
+    "ui.around_the_world": {
+      "ru": "ПО ВСЕМУ МИРУ",
+      "uz": "DUNYO BO‘YLAB"
+    },
+    "ui.world_question": {
+      "ru": "Есть ли в вашем языке пословица, похожая на сегодняшние карточки?",
+      "uz": "Tilingizda bugungi kartalardan biriga mos maqol bormi?"
+    },
+    "ui.continue_part2": {
+      "ru": "ПЕРЕЙТИ К ЧАСТИ 2 →",
+      "uz": "2-QISMGA DAVOM ETISH →"
+    },
+    "ui.go_part1": {
+      "ru": "← К ЧАСТИ 1",
+      "uz": "← 1-QISMGA O‘TISH"
+    },
+    "ui.play_again": {
+      "ru": "ИГРАТЬ СНОВА",
+      "uz": "YANA O‘YNASH"
+    },
+    "ui.back_home": {
+      "ru": "НА ГЛАВНУЮ",
+      "uz": "BOSH SAHIFAGA"
+    },
+    "ui.old_wisdom_new_vibes": {
+      "ru": "СТАРАЯ МУДРОСТЬ, НОВЫЕ ВАЙБЫ",
+      "uz": "ESKI DONOLIK, YANGI VAYBLAR"
+    },
+    "ui.correct": {
+      "ru": "ВЕРНО",
+      "uz": "TO‘G‘RI"
+    },
+    "ui.wrong": {
+      "ru": "НЕВЕРНО",
+      "uz": "NOTO‘G‘RI"
+    },
+    "ui.try_again": {
+      "ru": "ЕЩЁ РАЗ",
+      "uz": "YANA URINIB KO‘RING"
+    },
+    "ui.next": {
+      "ru": "ДАЛЕЕ",
+      "uz": "KEYINGI"
+    },
+    "ui.decode_it": {
+      "ru": "РАСШИФРОВАТЬ",
+      "uz": "OCHISH"
+    },
+    "ui.find_proverb_q": {
+      "ru": "Какая исходная пословица?",
+      "uz": "Asl maqol qaysi?"
+    },
+    "ui.find_proverb_hint_p1": {
+      "ru": "Найдите корейскую пословицу, которая совпадает с этим вайбом.",
+      "uz": "Shu vaybga mos koreys maqolini toping."
+    },
+    "ui.find_proverb_hint_p2": {
+      "ru": "Найдите исходную корейскую пословицу, спрятанную в этом современном ремиксе.",
+      "uz": "Shu zamonaviy remiks ichidagi asl koreys maqolini toping."
+    },
+    "ui.image_slot": {
+      "ru": "Слот для изображения",
+      "uz": "Rasm joyi"
+    },
+    "ui.image_slot_hint": {
+      "ru": "Сюда позже добавят арт Gemini.",
+      "uz": "Keyinroq Gemini san’atini shu yerga qo‘ying."
+    },
+    "ui.part1_cleared": {
+      "ru": "ЧАСТЬ 1 ПРОЙДЕНА ✓",
+      "uz": "1-QISM YAKUNLANDI ✓"
+    },
+    "card.p1-01.era": {
+      "ru": "Интернет-сленг 2020-х",
+      "uz": "2020-yillar internet slangi"
+    },
+    "card.p1-01.meaning": {
+      "ru": "Я сам навлёк на себя эту беду.",
+      "uz": "Bu ofatni o‘zim keltirdim."
+    },
+    "card.p1-01.scenario": {
+      "ru": "Вы игнорировали все предупреждения. Теперь стоите посреди хаоса, который устроили своими руками.",
+      "uz": "Har bir ogohlantirishni e’tiborsiz qoldirdingiz. Endi o‘z qo‘lingiz bilan yaratgan chalkashlikdasiz."
+    },
+    "card.p1-02.era": {
+      "ru": "Лайфстайл-сленг 2020-х",
+      "uz": "2020-yillar turmush slangi"
+    },
+    "card.p1-02.meaning": {
+      "ru": "Дисциплинированная, продуктивная, достойная жизнь.",
+      "uz": "Intizomli, samarali, hurmatli hayot."
+    },
+    "card.p1-02.scenario": {
+      "ru": "Встать рано, потренироваться, учить корейский, собрать обед — и всё равно прийти на работу вовремя.",
+      "uz": "Erta turish, mashq qilish, koreys tilini o‘rganish, tushlik tayyorlash — baribir ishga o‘z vaqtida yetib borish."
+    },
+    "card.p1-03.era": {
+      "ru": "Мем про спорт и игры, 2022",
+      "uz": "2022 sport va o‘yin memi"
+    },
+    "card.p1-03.meaning": {
+      "ru": "Главное — несгибаемый дух.",
+      "uz": "Asosiysi — sinmas ruh."
+    },
+    "card.p1-03.scenario": {
+      "ru": "Ваша команда сильно отстаёт, но никто не сдаётся до финального свистка.",
+      "uz": "Jamoangiz ancha orqada, lekin yakuniy hushtakgacha hech kim taslim bo‘lmaydi."
+    },
+    "card.p1-04.era": {
+      "ru": "Публичный дискурс 2010–2020-х",
+      "uz": "2010–2020-yillar jamoatchilik nutqi"
+    },
+    "card.p1-04.meaning": {
+      "ru": "Для меня одно правило, для тебя — другое.",
+      "uz": "Menga bir qoida, senga — boshqa."
+    },
+    "card.p1-04.scenario": {
+      "ru": "Он ругается, когда другие опаздывают на пять минут, но ждёт, что все подождут, когда опаздывает он.",
+      "uz": "Boshqalar besh daqiqa kechiksa norozi bo‘ladi, lekin o‘zi kechiksa hamma kutishini kutadi."
+    },
+    "card.p1-05.era": {
+      "ru": "Реакционный мем 2020-х",
+      "uz": "2020-yillar reaksiya memi"
+    },
+    "card.p1-05.meaning": {
+      "ru": "А может, так даже лучше!",
+      "uz": "Balki bu yanada yaxshiroq!"
+    },
+    "card.p1-05.scenario": {
+      "ru": "Вы опоздали на переполненный автобус под дождём — а следующий даёт вам роскошное пустое место.",
+      "uz": "Yomg‘irda gavjum avtobusni qoldirdingiz — keyingisi esa hashamatli bo‘sh o‘rin beradi."
+    },
+    "card.p1-06.era": {
+      "ru": "Сленг конца 2010-х — 2020-х",
+      "uz": "2010-lar oxiri–2020-lar slangi"
+    },
+    "card.p1-06.meaning": {
+      "ru": "Сделать аккуратно, толково и с чувством — без подробных указаний.",
+      "uz": "Har bir tafsilotni aytmasdan — yaxshi, toza va aql bilan bajarish."
+    },
+    "card.p1-06.scenario": {
+      "ru": "Вы даёте одну короткую инструкцию. Коллега схватывает всю ситуацию и сдаёт идеально.",
+      "uz": "Bitta qisqa ko‘rsatma berasiz. Hamkasbingiz butun vaziyatni tushunib, mukammal topshiradi."
+    },
+    "card.p1-07.era": {
+      "ru": "Культура сравнений 2000-х",
+      "uz": "2000-yillar taqqoslash madaniyati"
+    },
+    "card.p1-07.meaning": {
+      "ru": "Невозможный идеальный «сын подруги», с которым мама вас сравнивает.",
+      "uz": "Onangiz sizni solishtiradigan imkonsiz mukammal «do‘stining o‘g‘li»."
+    },
+    "card.p1-07.scenario": {
+      "ru": "За ужином семья хвалит чужие оценки, работу, манеры, готовку и спорт.",
+      "uz": "Kechki ovqatda oilangiz boshqa birovning baholari, ishi, odobi, ovqat pishirishi va sportini maqtaydi."
+    },
+    "card.p1-08.era": {
+      "ru": "Эстетический сленг 2020-х",
+      "uz": "2020-yillar estetik slang"
+    },
+    "card.p1-08.meaning": {
+      "ru": "Просто приятный вайб.",
+      "uz": "Shunchaki yoqimli vayb."
+    },
+    "card.p1-08.scenario": {
+      "ru": "Не объяснить почему, но цвета, музыка, свет и посуда в кафе — всё «то».",
+      "uz": "Nega ekanini tushuntira olmaysiz, lekin kafedagi ranglar, musiqa, yorug‘lik va idishlar — hammasi o‘rinli."
+    },
+    "card.p2-01.format": {
+      "ru": "РЕМИКС ПОТРЕБКУЛЬТУРЫ",
+      "uz": "ISTE’MOL MADANIYATI REMIKSI"
+    },
+    "card.p2-01.meaning": {
+      "ru": "Даже обычная вещь пропадает именно тогда, когда она нужна.",
+      "uz": "Hatto oddiy narsa ham aynan kerak bo‘lganda topilmaydi."
+    },
+    "card.p2-02.format": {
+      "ru": "РЕМИКС РАЗМЕРОВ КОФЕ",
+      "uz": "KAFE O‘LCHAMI REMIKSI"
+    },
+    "card.p2-02.meaning": {
+      "ru": "Даёшь мало — получаешь гораздо больше: часто как наказание или убыток.",
+      "uz": "Oz bersang — ko‘p qaytadi: ko‘pincha jazo yoki zarar sifatida."
+    },
+    "card.p2-03.format": {
+      "ru": "МЕМНАЯ ИГРА СЛОВ",
+      "uz": "MEM SO‘Z O‘YINI"
+    },
+    "card.p2-03.meaning": {
+      "ru": "Чем мудрее и успешнее человек, тем скромнее он должен быть.",
+      "uz": "Inson qanchalik dono yoki muvaffaqiyatli bo‘lsa, shunchalik kamtar bo‘lishi kerak."
+    },
+    "card.p2-04.format": {
+      "ru": "ПЕРФОРМАНС-МЕМ",
+      "uz": "IJRO MEMI"
+    },
+    "card.p2-04.meaning": {
+      "ru": "Долгое пребывание в среде чему-то научит — даже без учёбы.",
+      "uz": "Muhitda uzoq bo‘lish o‘rgatadi — hatto rasmiy o‘qishsiz ham."
+    },
+    "card.p2-05.format": {
+      "ru": "МЕМ «НЕ УСТОЯТЬ»",
+      "uz": "«TIYILA OLMAYMAN» MEMI"
+    },
+    "card.p2-05.meaning": {
+      "ru": "Люди редко проходят мимо того, что любят или привыкли есть.",
+      "uz": "Odamlar sevadigan yoki odatdagi narsadan oson o‘ta olmaydi."
+    },
+    "card.p2-06.format": {
+      "ru": "ЗАГОЛОВОК ПОСТА",
+      "uz": "JAMOA POSTI SARLAVHASI"
+    },
+    "card.p2-06.meaning": {
+      "ru": "Беспечная уверенность «ну вряд ли» может привести к настоящей беде.",
+      "uz": "«Balki bo‘lmas» degan beparvo ishonch haqiqiy muammoga olib kelishi mumkin."
+    },
+    "card.p2-07.format": {
+      "ru": "ПОКОЛЕНЧЕСКИЙ МЕМ",
+      "uz": "AVLOD MEMI"
+    },
+    "card.p2-07.meaning": {
+      "ru": "Старшие начинают истории «в наши времена» — иногда хвастаясь, как тяжело или славно было.",
+      "uz": "Kattalar «mening kunlarimda» hikoyalarini boshlaydi — ba’zan o‘sha kunlar qanchalik og‘ir yoki shonli bo‘lganini ko‘rsatib."
+    },
+    "card.p2-08.format": {
+      "ru": "ПЕРФОРМАНС-МЕМ",
+      "uz": "IJRO MEMI"
+    },
+    "card.p2-08.meaning": {
+      "ru": "У каждого есть хотя бы одно дело, в котором он хорош.",
+      "uz": "Har kimda kamida bitta yaxshi qila oladigan narsa bor."
+    },
+    "alt.001": {
+      "ru": "Ухмыляющийся отдыхающий роет глубокую яму в песке рядом с табличкой «не копать»",
+      "uz": "Jilmaygan plyajchi «qazmang» ogohlantirishi yonida chuqur qum chuqurini qazyapti"
+    },
+    "alt.002": {
+      "ru": "Тот же человек сидит в яме, песок сыплется сверху, лопата всё ещё в руках",
+      "uz": "O‘sha odam chuqurda o‘tiribdi, qum tepadan to‘kilyapti, belkurak hali ham qo‘lida"
+    },
+    "alt.003": {
+      "ru": "Женщина на рассвете: подъём, пробежка, учёба корейского, сбор обеда",
+      "uz": "Bir ayol tongda: uyg‘onish, yugurish, koreys tilini o‘rganish, tushlik yig‘ish"
+    },
+    "alt.004": {
+      "ru": "Та же женщина спокойно за рабочим столом в 9:00 с обедом и отмеченным планом",
+      "uz": "O‘sha ayol soat 9:00 da ofis stolida tinch o‘tiribdi: tushlik va belgilangan reja bilan"
+    },
+    "alt.005": {
+      "ru": "Домашняя команда раздавлена на скамейке под табло 1–9 почти в конце матча",
+      "uz": "Uy jamoasi deyarli yakunda 1–9 hisob taxtasi ostida skameykada ezilib o‘tiribdi"
+    },
+    "alt.006": {
+      "ru": "При счёте 1–9 почти в конце команда в кругу сжимает кулаки и горит боевым духом",
+      "uz": "Deyarli yakunda 1–9 bo‘lsa ham, jamoa mushtlarini siqib, jangovar ruh bilan to‘planadi"
+    },
+    "alt.007": {
+      "ru": "Мужчина приходит в 9:05 с лёгкой улыбкой, коллеги смотрят на часы",
+      "uz": "Erkak soat 9:05 da bemalol jilmayib keladi, hamkasblar soatiga qaraydi"
+    },
+    "alt.008": {
+      "ru": "В те же 9:05 он зло указывает на часы, пока другой коллега опаздывает",
+      "uz": "O‘sha 9:05 da u g‘azab bilan soatga ishora qiladi, boshqa hamkasb kechikib kiradi"
+    },
+    "alt.009": {
+      "ru": "Усталый офисный работник вздыхает на дождливой остановке, когда автобус уезжает",
+      "uz": "Charchagan ofis xodimi yomg‘irli bekatda xo‘rsinib turibdi — avtobus ketib qoladi"
+    },
+    "alt.010": {
+      "ru": "Через минуты он улыбается в мягком люксовом кресле автобуса с кофе у окна",
+      "uz": "Bir necha daqiqadan so‘ng u deraza yonida qahva bilan yumshoq hashamatli avtobus o‘rnida jilmayadi"
+    },
+    "alt.011": {
+      "ru": "Менеджер указывает на грязный кружок-набросок жестом «ну вы поняли»",
+      "uz": "Menejer chalkash bitta doira chizmasiga «tushundingiz-ku» ishorasi bilan ishora qiladi"
+    },
+    "alt.012": {
+      "ru": "Коллега показывает отточенную презентацию; менеджер в шоке, она показывает OK",
+      "uz": "Hamkasb sayqallangan diagramma taqdimotini ko‘rsatadi; menejer hayron, u OK ishora qiladi"
+    },
+    "alt.013": {
+      "ru": "За ужином сияющий идеальный сын подруги парит за спинами двух поникших взрослых детей",
+      "uz": "Kechki ovqatda porlayotgan ko‘p qobiliyatli mukammal do‘st o‘g‘li ikki cho‘kib ketgan katta bolalar orqasida suzib turadi"
+    },
+    "alt.014": {
+      "ru": "Мама показывает фото в костюме на телефоне, дочь закатывает глаза на полужевке",
+      "uz": "Ona telefonda kostyumli suratni ko‘rsatadi, qizi tishlab turgancha ko‘zini oqartiradi"
+    },
+    "alt.015": {
+      "ru": "Двое друзей открывают дверь обычного уличного кафе, любопытные к тому, что внутри",
+      "uz": "Ikki do‘st oddiy ko‘cha kafesi eshigini ochadi — ichida nima borligiga qiziqib"
+    },
+    "alt.016": {
+      "ru": "Внутри тёплый свет, растения и красивые чашки дают необъяснимо хороший вайб",
+      "uz": "Ichkarida iliq yorug‘lik, o‘simliklar va chiroyli piyolalar tushuntirib bo‘lmas yaxshi vayb beradi"
+    },
+    "alt.017": {
+      "ru": "Покупатель смотрит на пустую полку аптеки с табличкой «РАСПРОДАНО», держа список",
+      "uz": "Xaridor RO‘YXAT tutib, SOTIB BO‘LDI deb yozilgan bo‘sh dorixona javoniga tikilib turibdi"
+    },
+    "alt.018": {
+      "ru": "Фармацевт пожимает плечами: дорогие добавки на прилавке всё ещё в полном ассортименте",
+      "uz": "Dorixonachi yelka qisadi: qimmat qo‘shimchalar stol ustida hali ham to‘liq"
+    },
+    "alt.019": {
+      "ru": "Бариста протягивает крошечный стакан с этикеткой Tall через стойку",
+      "uz": "Barista kafeda Tall yorliqli juda kichik stakanni uzatadi"
+    },
+    "alt.020": {
+      "ru": "Тот же бариста возвращает абсурдно огромный Grande; клиент в шоке",
+      "uz": "O‘sha barista absurd darajada katta Grande stakanini qaytaradi; mijoz hayron"
+    },
+    "alt.021": {
+      "ru": "Гордый мужчина с поднятым подбородком рядом с жёстким зелёным рисом, пока спелый золотой кланяется",
+      "uz": "Mag‘rur erkak iyagini ko‘tarib qattiq yashil sholi yonida turadi, pishgan oltin sholi esa egiladi"
+    },
+    "alt.022": {
+      "ru": "Тот же мужчина глубоко кланяется среди спелого риса; шляпа и гордость остаются на тропинке",
+      "uz": "O‘sha erkak egilgan pishgan sholi orasida chuqur ta’zim qiladi; shlyapa va mag‘rurlik yo‘lda qolgan"
+    },
+    "alt.023": {
+      "ru": "Скучающая собака зевает на циновке в углу традиционной деревенской школы",
+      "uz": "Zerikkan it an’anaviy qishloq maktabi burchagidagi gilamda esnaydi"
+    },
+    "alt.024": {
+      "ru": "Та же собака пишет кистью каллиграфию, изумлённые ученики и учитель смотрят",
+      "uz": "O‘sha it cho‘tka bilan xattotlik qiladi; hayron shogirdlar va o‘qituvchi tomosha qiladi"
+    },
+    "alt.025": {
+      "ru": "Воробей резко разворачивается к рассыпанному зерну у традиционной мельницы",
+      "uz": "Chumchuq an’anaviy tegirmon oldidagi to‘kilgan don tomon keskin buriladi"
+    },
+    "alt.026": {
+      "ru": "Тот же воробей садится на кучу зерна у входа в мельницу — устоять невозможно",
+      "uz": "O‘sha chumchuq tegirmon eshigidagi don uyumiga qo‘nadi — tiyila olmaydi"
+    },
+    "alt.027": {
+      "ru": "Турист беспечно машет у знака опасности на обрыве, отмахиваясь от предупреждения",
+      "uz": "Sayyoh jarlik xavfi belgisi yonida bemalol qo‘l silkitadi, ogohlantirishni e’tiborsiz qoldiradi"
+    },
+    "alt.028": {
+      "ru": "Позже в кафе он живо рассказывает друзьям историю, все хохочут",
+      "uz": "Keyinroq kafeda u do‘stlariga voqeani jonli aytib beradi, hamma kuladi"
+    },
+    "alt.029": {
+      "ru": "Пожилой мужчина читает лекцию за ужином, младшие родственники скучают и смотрят в телефоны",
+      "uz": "Keksa erkak kechki ovqatda va’z qiladi, yosh qarindoshlar zerikib telefonga qaraydi"
+    },
+    "alt.030": {
+      "ru": "Над ним парят преувеличенные сцены «тех времён», включая тигра с трубкой",
+      "uz": "Uning tepasida bo‘rttirilgan eski kunlar manzaralari suzadi — trubka chekayotgan yo‘lbars ham bor"
+    },
+    "alt.031": {
+      "ru": "Личинка катится как чемпион-атлет перед бурно болеющей толпой",
+      "uz": "Qurt chempion sportchi kabi dumalab o‘tadi — g‘ayratli olomon oldida"
+    }
+  },
+  "proverbs": {
+    "가는 날이 장날": {
+      "ru": {
+        "text": "Как назло.",
+        "type": "saying",
+        "note": ""
+      },
+      "uz": {
+        "text": "Omadsiz kunim.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "가재는 게 편": {
+      "ru": {
+        "text": "Рыбак рыбака видит издалека.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Qush qushi bilan, baliq baliq bilan.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "개구리 올챙이 적 생각 못 한다": {
+      "ru": {
+        "text": "Сытый голодного не разумеет.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "To‘q ochning holini bilmas.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "개똥도 약에 쓰려면 없다": {
+      "ru": {
+        "text": "Когда нужно — нигде не найдёшь.",
+        "type": "saying",
+        "note": ""
+      },
+      "uz": {
+        "text": "Kerak bo‘lganda topilmaydi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "개천에서 용 난다": {
+      "ru": {
+        "text": "Из грязи в князи.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "Kambag‘allikdan boylikka.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "고래 싸움에 새우 등 터진다": {
+      "ru": {
+        "text": "Паны дерутся — у холопов чубы трещат.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Fil urishsa, o‘t eziladi.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "고생 끝에 낙이 온다": {
+      "ru": {
+        "text": "После дождичка будет солнышко.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Har qiyinchilikning oxiri bor.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "공든 탑이 무너지랴": {
+      "ru": {
+        "text": "Терпение и труд всё перетрут.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Mehnat qilgan — natija ko‘radi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "굼벵이도 구르는 재주가 있다": {
+      "ru": {
+        "text": "У каждого своё умение.",
+        "type": "saying",
+        "note": ""
+      },
+      "uz": {
+        "text": "Har kimning o‘z mahorati bor.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "그림의 떡": {
+      "ru": {
+        "text": "Журавль в небе.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "Ko‘zga ko‘rinmas orzu.",
+        "type": "paraphrase",
+        "note": "loose"
+      }
+    },
+    "남의 떡이 커 보인다": {
+      "ru": {
+        "text": "Хорошо там, где нас нет.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Boshqaning narsasi katta ko‘rinadi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "낫 놓고 기역 자도 모른다": {
+      "ru": {
+        "text": "Ни аза не знает.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "Alifni bilmaydi.",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "낮말은 새가 듣고 밤말은 쥐가 듣는다": {
+      "ru": {
+        "text": "И у стен есть уши.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Devorning ham qulog‘i bor.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "누워서 떡 먹기": {
+      "ru": {
+        "text": "Проще пареной репы.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "Bolalar o‘yinchig‘idek oson.",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "되로 주고 말로 받는다": {
+      "ru": {
+        "text": "Посеешь ветер — пожнёшь бурю.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Shamol ekib, bo‘ron o‘rasan.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "두 손뼉이 맞아야 소리가 난다": {
+      "ru": {
+        "text": "Одной рукой не хлопнешь.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Bir qo‘l chalinsa tovush chiqmaydi.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "떡 줄 사람은 생각도 않는데 김칫국부터 마신다": {
+      "ru": {
+        "text": "Цыплят по осени считают.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Jo‘jani kuzda sanaymiz.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "똥 묻은 개가 겨 묻은 개 나무란다": {
+      "ru": {
+        "text": "Чья бы корова мычала.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "O‘zi yomon, boshqani ayblaydi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "뜻이 있는 곳에 길이 있다": {
+      "ru": {
+        "text": "Где хотенье, там и уменье.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Istagan odam yo‘l topadi.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "말 한마디에 천 냥 빚도 갚는다": {
+      "ru": {
+        "text": "Доброе слово и кошке приятно.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Yaxshi so‘z — yarim boylik.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "백지장도 맞들면 낫다": {
+      "ru": {
+        "text": "Одна голова хорошо, а две лучше.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Birga ko‘targanda oson.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "벼는 익을수록 고개를 숙인다": {
+      "ru": {
+        "text": "Чем полнее колос, тем ниже он клонится.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Don to‘lgan sari egiladi.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "보기 좋은 떡이 먹기도 좋다": {
+      "ru": {
+        "text": "Встречают по одёжке.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Ko‘z bilan ham ovqatlaniladi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "사공이 많으면 배가 산으로 간다": {
+      "ru": {
+        "text": "У семи нянек дитя без глазу.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Ko‘p oshpaz — ovqat buziladi.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "서당 개 삼 년이면 풍월을 읊는다": {
+      "ru": {
+        "text": "С кем поведёшься, от того и наберёшься.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Muhit o‘rgatadi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "설마가 사람 잡는다": {
+      "ru": {
+        "text": "Не говори «гоп», пока не перепрыгнешь.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "«Bo‘lmas» degan gap odamni o‘ldiradi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "세 살 버릇 여든까지 간다": {
+      "ru": {
+        "text": "Привычка — вторая натура.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Odat — ikkinchi tabiat.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "소 잃고 외양간 고친다": {
+      "ru": {
+        "text": "После драки кулаками не машут.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Ot ketgach, otxonani ta’mirlash.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "싼 게 비지떡": {
+      "ru": {
+        "text": "Скупой платит дважды.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Arzonning ozi zarar.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "열 번 찍어 안 넘어가는 나무 없다": {
+      "ru": {
+        "text": "Капля камень точит.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Tinmay ur — daraxt yiqiladi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "우물 안 개구리": {
+      "ru": {
+        "text": "Лягушка в колодце.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "Quduqdagi qurbaqa.",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "울며 겨자 먹기": {
+      "ru": {
+        "text": "Скрепя сердце.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "Yig‘lab yutish.",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "원숭이도 나무에서 떨어진다": {
+      "ru": {
+        "text": "И на старуху бывает проруха.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Hatto usta ham yanglishadi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "제 무덤 내가 판다": {
+      "ru": {
+        "text": "Сам себе могилу роешь.",
+        "type": "idiom",
+        "note": ""
+      },
+      "uz": {
+        "text": "O‘z qabrini o‘zi qazadi.",
+        "type": "idiom",
+        "note": ""
+      }
+    },
+    "중이 제 머리 못 깎는다": {
+      "ru": {
+        "text": "Сапожник без сапог.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Etikdo‘zning bolasi yalangoyoq.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "참새가 방앗간을 그냥 지나치랴": {
+      "ru": {
+        "text": "Как кот к сметане.",
+        "type": "saying",
+        "note": ""
+      },
+      "uz": {
+        "text": "Sevgan narsadan o‘ta olmaydi.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "콩 심은 데 콩 난다": {
+      "ru": {
+        "text": "Что посеешь, то и пожнёшь.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Nima eksang, shuni o‘rasan.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "콩 한 쪽도 나눠 먹는다": {
+      "ru": {
+        "text": "Дели поровну.",
+        "type": "saying",
+        "note": ""
+      },
+      "uz": {
+        "text": "Bo‘lishib yeyish.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "티끌 모아 태산": {
+      "ru": {
+        "text": "Копейка рубль бережёт.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Tomchi-tomchi ko‘l bo‘ladi.",
+        "type": "proverb",
+        "note": ""
+      }
+    },
+    "하나를 보면 열을 안다": {
+      "ru": {
+        "text": "Умному достаточно одного слова.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Birini ko‘rsang, o‘ntasini bilasan.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "하룻강아지 범 무서운 줄 모른다": {
+      "ru": {
+        "text": "Не зная броду, не суйся в воду.",
+        "type": "proverb",
+        "note": ""
+      },
+      "uz": {
+        "text": "Johil qo‘rqmas.",
+        "type": "saying",
+        "note": ""
+      }
+    },
+    "호랑이 담배 피던 시절": {
+      "ru": {
+        "text": "В мои годы.",
+        "type": "saying",
+        "note": ""
+      },
+      "uz": {
+        "text": "Mening yoshligimda.",
+        "type": "saying",
+        "note": ""
+      }
+    }
+  }
+}

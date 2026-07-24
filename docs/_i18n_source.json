@@ -1,0 +1,789 @@
+{
+  "strings": [
+    {
+      "key": "ui.edition_pill",
+      "category": "ui",
+      "en": "ENGLISH EDITION"
+    },
+    {
+      "key": "ui.sinavro_presents",
+      "category": "ui",
+      "en": "SINAVRO PRESENTS"
+    },
+    {
+      "key": "ui.product_descriptor",
+      "category": "ui",
+      "en": "KOREAN PROVERBS & SLANG CARD GAME"
+    },
+    {
+      "key": "ui.tap_to_continue",
+      "category": "ui",
+      "en": "TAP TO CONTINUE →"
+    },
+    {
+      "key": "ui.brand_slogan",
+      "category": "ui",
+      "en": "Old Wisdom, New Vibes."
+    },
+    {
+      "key": "ui.hero_copy",
+      "category": "ui",
+      "en": "Match Korean internet slang with timeless proverbs. Then remix the old wisdom in the language of memes."
+    },
+    {
+      "key": "ui.tag.korean_slang",
+      "category": "ui",
+      "en": "#KoreanSlang"
+    },
+    {
+      "key": "ui.tag.proverbs",
+      "category": "ui",
+      "en": "#Proverbs"
+    },
+    {
+      "key": "ui.tag.world_wisdom",
+      "category": "ui",
+      "en": "#WorldWisdom"
+    },
+    {
+      "key": "ui.part01_title",
+      "category": "ui",
+      "en": "Catch the Vibe"
+    },
+    {
+      "key": "ui.part01_body",
+      "category": "ui",
+      "en": "Discover real Korean slang, read the situation, and find its closest proverb cousin."
+    },
+    {
+      "key": "ui.part01_li1",
+      "category": "ui",
+      "en": "8 real expressions"
+    },
+    {
+      "key": "ui.part01_li2",
+      "category": "ui",
+      "en": "Two-panel visual cards"
+    },
+    {
+      "key": "ui.part01_li3",
+      "category": "ui",
+      "en": "English proverb matches"
+    },
+    {
+      "key": "ui.start_part1",
+      "category": "ui",
+      "en": "START PART 1 →"
+    },
+    {
+      "key": "ui.part02_title",
+      "category": "ui",
+      "en": "Proverb Remix"
+    },
+    {
+      "key": "ui.part02_body",
+      "category": "ui",
+      "en": "Decode Korean proverbs rewritten as memes, community posts, and modern punchlines."
+    },
+    {
+      "key": "ui.part02_li1",
+      "category": "ui",
+      "en": "8 creative remixes"
+    },
+    {
+      "key": "ui.part02_li2",
+      "category": "ui",
+      "en": "Two-panel visual cards"
+    },
+    {
+      "key": "ui.part02_li3",
+      "category": "ui",
+      "en": "World-wisdom discussion"
+    },
+    {
+      "key": "ui.start_part2",
+      "category": "ui",
+      "en": "START PART 2 →"
+    },
+    {
+      "key": "ui.game_title.part1",
+      "category": "ui",
+      "en": "CATCH THE VIBE"
+    },
+    {
+      "key": "ui.game_title.part2",
+      "category": "ui",
+      "en": "PROVERB REMIX"
+    },
+    {
+      "key": "ui.misses",
+      "category": "ui",
+      "en": "MISSES"
+    },
+    {
+      "key": "ui.part_switch_1",
+      "category": "ui",
+      "en": "← PART 1"
+    },
+    {
+      "key": "ui.part_switch_2",
+      "category": "ui",
+      "en": "PART 2 →"
+    },
+    {
+      "key": "ui.part_complete",
+      "category": "ui",
+      "en": "PART {n} COMPLETE"
+    },
+    {
+      "key": "ui.result.immaculate",
+      "category": "ui",
+      "en": "Your vibe is immaculate."
+    },
+    {
+      "key": "ui.result.close",
+      "category": "ui",
+      "en": "Close. The wisdom is landing."
+    },
+    {
+      "key": "ui.result.loading",
+      "category": "ui",
+      "en": "The wisdom is loading."
+    },
+    {
+      "key": "ui.result.zero_misses",
+      "category": "ui",
+      "en": "Zero misses. You read every vibe on the first try."
+    },
+    {
+      "key": "ui.result.misses_line",
+      "category": "ui",
+      "en": "You missed {n} time(s). Lower is better—try again for a cleaner run."
+    },
+    {
+      "key": "ui.result.after_part1",
+      "category": "ui",
+      "en": "You have decoded the slang. Now use those new vibes to remix old Korean wisdom."
+    },
+    {
+      "key": "ui.result.after_part2",
+      "category": "ui",
+      "en": "You have travelled from old proverbs to internet memes—and found the human truth underneath both."
+    },
+    {
+      "key": "ui.around_the_world",
+      "category": "ui",
+      "en": "AROUND THE WORLD"
+    },
+    {
+      "key": "ui.world_question",
+      "category": "ui",
+      "en": "Does your language have a proverb that matched one of today’s cards?"
+    },
+    {
+      "key": "ui.continue_part2",
+      "category": "ui",
+      "en": "CONTINUE TO PART 2 →"
+    },
+    {
+      "key": "ui.go_part1",
+      "category": "ui",
+      "en": "← GO TO PART 1"
+    },
+    {
+      "key": "ui.play_again",
+      "category": "ui",
+      "en": "PLAY AGAIN"
+    },
+    {
+      "key": "ui.back_home",
+      "category": "ui",
+      "en": "BACK TO HOME"
+    },
+    {
+      "key": "ui.old_wisdom_new_vibes",
+      "category": "ui",
+      "en": "OLD WISDOM, NEW VIBES"
+    },
+    {
+      "key": "ui.correct",
+      "category": "ui",
+      "en": "CORRECT"
+    },
+    {
+      "key": "ui.wrong",
+      "category": "ui",
+      "en": "WRONG"
+    },
+    {
+      "key": "ui.try_again",
+      "category": "ui",
+      "en": "TRY AGAIN"
+    },
+    {
+      "key": "ui.next",
+      "category": "ui",
+      "en": "NEXT"
+    },
+    {
+      "key": "ui.decode_it",
+      "category": "ui",
+      "en": "DECODE IT"
+    },
+    {
+      "key": "ui.find_proverb_q",
+      "category": "ui",
+      "en": "What is the original proverb?"
+    },
+    {
+      "key": "ui.find_proverb_hint_p1",
+      "category": "ui",
+      "en": "Find the Korean proverb that matches this vibe."
+    },
+    {
+      "key": "ui.find_proverb_hint_p2",
+      "category": "ui",
+      "en": "Find the original Korean proverb hiding inside this modern remix."
+    },
+    {
+      "key": "ui.image_slot",
+      "category": "ui",
+      "en": "Image slot"
+    },
+    {
+      "key": "ui.image_slot_hint",
+      "category": "ui",
+      "en": "Drop Gemini art here later."
+    },
+    {
+      "key": "ui.part1_cleared",
+      "category": "ui",
+      "en": "PART 1 CLEARED ✓"
+    },
+    {
+      "key": "card.p1-01.era",
+      "category": "card",
+      "en": "2020s internet slang"
+    },
+    {
+      "key": "card.p1-01.meaning",
+      "category": "card",
+      "en": "I brought this disaster upon myself."
+    },
+    {
+      "key": "card.p1-01.scenario",
+      "category": "card",
+      "en": "You ignored every warning. Now you are standing in the mess you made with your own hands."
+    },
+    {
+      "key": "card.p1-02.era",
+      "category": "card",
+      "en": "2020s lifestyle slang"
+    },
+    {
+      "key": "card.p1-02.meaning",
+      "category": "card",
+      "en": "A disciplined, productive, admirable life."
+    },
+    {
+      "key": "card.p1-02.scenario",
+      "category": "card",
+      "en": "Wake up early, exercise, study Korean, prepare lunch, and still arrive at work on time."
+    },
+    {
+      "key": "card.p1-03.era",
+      "category": "card",
+      "en": "2022 sports & gaming meme"
+    },
+    {
+      "key": "card.p1-03.meaning",
+      "category": "card",
+      "en": "What matters is an unbreakable spirit."
+    },
+    {
+      "key": "card.p1-03.scenario",
+      "category": "card",
+      "en": "Your team is far behind, but nobody gives up before the final whistle."
+    },
+    {
+      "key": "card.p1-04.era",
+      "category": "card",
+      "en": "2010s–2020s public discourse"
+    },
+    {
+      "key": "card.p1-04.meaning",
+      "category": "card",
+      "en": "One rule for me, another for you."
+    },
+    {
+      "key": "card.p1-04.scenario",
+      "category": "card",
+      "en": "He complains when others are five minutes late, but expects everyone to wait when he is late."
+    },
+    {
+      "key": "card.p1-05.era",
+      "category": "card",
+      "en": "2020s reaction meme"
+    },
+    {
+      "key": "card.p1-05.meaning",
+      "category": "card",
+      "en": "This might actually be better!"
+    },
+    {
+      "key": "card.p1-05.scenario",
+      "category": "card",
+      "en": "You miss the crowded bus in the rain—then the next one gives you a luxury empty seat."
+    },
+    {
+      "key": "card.p1-06.era",
+      "category": "card",
+      "en": "late 2010s–2020s slang"
+    },
+    {
+      "key": "card.p1-06.meaning",
+      "category": "card",
+      "en": "Handle it well, neatly, and with good sense—without being told every detail."
+    },
+    {
+      "key": "card.p1-06.scenario",
+      "category": "card",
+      "en": "You give one short instruction. Your coworker understands the whole situation and delivers perfectly."
+    },
+    {
+      "key": "card.p1-07.era",
+      "category": "card",
+      "en": "2000s comparison culture"
+    },
+    {
+      "key": "card.p1-07.meaning",
+      "category": "card",
+      "en": "The impossibly perfect ‘friend’s son’ your mother compares you with."
+    },
+    {
+      "key": "card.p1-07.scenario",
+      "category": "card",
+      "en": "Your family praises someone else’s grades, job, manners, cooking, and fitness—all during dinner."
+    },
+    {
+      "key": "card.p1-08.era",
+      "category": "card",
+      "en": "2020s aesthetic slang"
+    },
+    {
+      "key": "card.p1-08.meaning",
+      "category": "card",
+      "en": "It just has a nice vibe."
+    },
+    {
+      "key": "card.p1-08.scenario",
+      "category": "card",
+      "en": "You cannot explain why, but the café’s colors, music, light, and tableware all feel right."
+    },
+    {
+      "key": "card.p2-01.format",
+      "category": "card",
+      "en": "CONSUMER CULTURE REMIX"
+    },
+    {
+      "key": "card.p2-01.meaning",
+      "category": "card",
+      "en": "Even something common is nowhere to be found exactly when you need it."
+    },
+    {
+      "key": "card.p2-02.format",
+      "category": "card",
+      "en": "CAFÉ SIZE REMIX"
+    },
+    {
+      "key": "card.p2-02.meaning",
+      "category": "card",
+      "en": "You give a little but get much more back—often as punishment or loss."
+    },
+    {
+      "key": "card.p2-03.format",
+      "category": "card",
+      "en": "MEME WORDPLAY"
+    },
+    {
+      "key": "card.p2-03.meaning",
+      "category": "card",
+      "en": "The wiser or more accomplished a person becomes, the more humble they should be."
+    },
+    {
+      "key": "card.p2-04.format",
+      "category": "card",
+      "en": "PERFORMANCE MEME"
+    },
+    {
+      "key": "card.p2-04.meaning",
+      "category": "card",
+      "en": "Long exposure to an environment can teach you something, even without formal study."
+    },
+    {
+      "key": "card.p2-05.format",
+      "category": "card",
+      "en": "CAN’T-RESIST MEME"
+    },
+    {
+      "key": "card.p2-05.meaning",
+      "category": "card",
+      "en": "People cannot easily pass by something they love or habitually enjoy."
+    },
+    {
+      "key": "card.p2-06.format",
+      "category": "card",
+      "en": "COMMUNITY POST TITLE"
+    },
+    {
+      "key": "card.p2-06.meaning",
+      "category": "card",
+      "en": "Careless confidence that ‘it probably won’t happen’ can cause real trouble."
+    },
+    {
+      "key": "card.p2-07.format",
+      "category": "card",
+      "en": "GENERATION MEME"
+    },
+    {
+      "key": "card.p2-07.meaning",
+      "category": "card",
+      "en": "Older folks start ‘back in my day’ stories—sometimes flexing how hard or glorious those days were."
+    },
+    {
+      "key": "card.p2-08.format",
+      "category": "card",
+      "en": "PERFORMANCE MEME"
+    },
+    {
+      "key": "card.p2-08.meaning",
+      "category": "card",
+      "en": "Everyone has at least one thing they can do well."
+    },
+    {
+      "key": "alt.001",
+      "category": "alt",
+      "en": "A grinning beachgoer digs a deep sand hole right beside a no-digging warning sign"
+    },
+    {
+      "key": "alt.002",
+      "category": "alt",
+      "en": "The same person sits trapped in the hole as sand pours down on him, still holding the shovel"
+    },
+    {
+      "key": "alt.003",
+      "category": "alt",
+      "en": "One woman moves through dawn: waking up, jogging, studying Korean, packing lunch"
+    },
+    {
+      "key": "alt.004",
+      "category": "alt",
+      "en": "The same woman sits calmly at her office desk at 9am with a packed lunch and checked planner"
+    },
+    {
+      "key": "alt.005",
+      "category": "alt",
+      "en": "Home team sits crushed on the bench under a 1–9 scoreboard near full time"
+    },
+    {
+      "key": "alt.006",
+      "category": "alt",
+      "en": "Despite a 1–9 score near full time, the team huddles with clenched fists and fighting spirit"
+    },
+    {
+      "key": "alt.007",
+      "category": "alt",
+      "en": "A man arrives late at 9:05 smiling casually while coworkers check their watches"
+    },
+    {
+      "key": "alt.008",
+      "category": "alt",
+      "en": "At the same 9:05, he angrily points at the clock as another coworker rushes in late"
+    },
+    {
+      "key": "alt.009",
+      "category": "alt",
+      "en": "A tired office worker sighs at a rainy bus stop as his bus pulls away"
+    },
+    {
+      "key": "alt.010",
+      "category": "alt",
+      "en": "Minutes later he smiles in a plush luxury bus seat with coffee by the window"
+    },
+    {
+      "key": "alt.011",
+      "category": "alt",
+      "en": "A manager points at a messy one-circle scribble with a vague ‘you know what I mean’ gesture"
+    },
+    {
+      "key": "alt.012",
+      "category": "alt",
+      "en": "A coworker presents a polished chart deck; the manager looks amazed while she gives an OK sign"
+    },
+    {
+      "key": "alt.013",
+      "category": "alt",
+      "en": "At dinner, a glowing multi-talented perfect friend’s son floats behind two slumped adult children"
+    },
+    {
+      "key": "alt.014",
+      "category": "alt",
+      "en": "Mom shows a suit photo on her phone while her daughter rolls her eyes mid-bite"
+    },
+    {
+      "key": "alt.015",
+      "category": "alt",
+      "en": "Two friends open the door of an ordinary-looking street cafe, curious about what’s inside"
+    },
+    {
+      "key": "alt.016",
+      "category": "alt",
+      "en": "Inside, warm light, plants, and pretty cups give them an unexplained good vibe"
+    },
+    {
+      "key": "alt.017",
+      "category": "alt",
+      "en": "A shopper stares at an empty pharmacy shelf marked SOLD OUT while holding a shopping list"
+    },
+    {
+      "key": "alt.018",
+      "category": "alt",
+      "en": "A pharmacist shrugs as expensive supplements remain fully stocked on the counter"
+    },
+    {
+      "key": "alt.019",
+      "category": "alt",
+      "en": "A barista hands a tiny Tall-labeled cup across the cafe counter"
+    },
+    {
+      "key": "alt.020",
+      "category": "alt",
+      "en": "The same barista returns an absurdly oversized Grande cup; the customer looks shocked"
+    },
+    {
+      "key": "alt.021",
+      "category": "alt",
+      "en": "A proud man stands chin-up beside stiff green rice while ripe golden rice bows in the field"
+    },
+    {
+      "key": "alt.022",
+      "category": "alt",
+      "en": "The same man bows deeply among bowed ripe rice, hat and pride left on the path"
+    },
+    {
+      "key": "alt.023",
+      "category": "alt",
+      "en": "A bored dog yawns on a mat in the corner of a traditional village school"
+    },
+    {
+      "key": "alt.024",
+      "category": "alt",
+      "en": "The same dog does calligraphy with a brush while astonished students and teacher watch"
+    },
+    {
+      "key": "alt.025",
+      "category": "alt",
+      "en": "A sparrow banks hard toward spilled grain outside a traditional mill"
+    },
+    {
+      "key": "alt.026",
+      "category": "alt",
+      "en": "The same sparrow lands on the grain pile at the mill entrance, unable to resist"
+    },
+    {
+      "key": "alt.027",
+      "category": "alt",
+      "en": "A hiker waves casually beside a cliff danger sign, brushing off the warning"
+    },
+    {
+      "key": "alt.028",
+      "category": "alt",
+      "en": "Later at a cafe, he animatedly tells friends the story while everyone cracks up"
+    },
+    {
+      "key": "alt.029",
+      "category": "alt",
+      "en": "An older man lectures at dinner while younger relatives look bored and check phones"
+    },
+    {
+      "key": "alt.030",
+      "category": "alt",
+      "en": "Above him float exaggerated old-days scenes, including a tiger smoking a pipe"
+    },
+    {
+      "key": "alt.031",
+      "category": "alt",
+      "en": "A grub rolls like a champion athlete before a wildly cheering crowd"
+    }
+  ],
+  "proverbs": [
+    {
+      "ko": "가는 날이 장날",
+      "en": "Just my luck."
+    },
+    {
+      "ko": "가재는 게 편",
+      "en": "Birds of a feather flock together."
+    },
+    {
+      "ko": "개구리 올챙이 적 생각 못 한다",
+      "en": "Don’t forget where you came from."
+    },
+    {
+      "ko": "개똥도 약에 쓰려면 없다",
+      "en": "You can never find a thing when you need it."
+    },
+    {
+      "ko": "개천에서 용 난다",
+      "en": "From rags to riches."
+    },
+    {
+      "ko": "고래 싸움에 새우 등 터진다",
+      "en": "When elephants fight, the grass gets trampled."
+    },
+    {
+      "ko": "고생 끝에 낙이 온다",
+      "en": "Every cloud has a silver lining."
+    },
+    {
+      "ko": "공든 탑이 무너지랴",
+      "en": "Hard work pays off."
+    },
+    {
+      "ko": "굼벵이도 구르는 재주가 있다",
+      "en": "Every dog has its day."
+    },
+    {
+      "ko": "그림의 떡",
+      "en": "Pie in the sky."
+    },
+    {
+      "ko": "남의 떡이 커 보인다",
+      "en": "The grass is always greener on the other side."
+    },
+    {
+      "ko": "낫 놓고 기역 자도 모른다",
+      "en": "Doesn’t know A from B."
+    },
+    {
+      "ko": "낮말은 새가 듣고 밤말은 쥐가 듣는다",
+      "en": "Walls have ears."
+    },
+    {
+      "ko": "누워서 떡 먹기",
+      "en": "A piece of cake."
+    },
+    {
+      "ko": "되로 주고 말로 받는다",
+      "en": "Sow the wind, reap the whirlwind."
+    },
+    {
+      "ko": "두 손뼉이 맞아야 소리가 난다",
+      "en": "It takes two to tango."
+    },
+    {
+      "ko": "떡 줄 사람은 생각도 않는데 김칫국부터 마신다",
+      "en": "Don’t count your chickens before they hatch."
+    },
+    {
+      "ko": "똥 묻은 개가 겨 묻은 개 나무란다",
+      "en": "The pot calling the kettle black."
+    },
+    {
+      "ko": "뜻이 있는 곳에 길이 있다",
+      "en": "Where there’s a will, there’s a way."
+    },
+    {
+      "ko": "말 한마디에 천 냥 빚도 갚는다",
+      "en": "Kind words go a long way."
+    },
+    {
+      "ko": "백지장도 맞들면 낫다",
+      "en": "Many hands make light work."
+    },
+    {
+      "ko": "벼는 익을수록 고개를 숙인다",
+      "en": "The fuller the ear, the lower it bows."
+    },
+    {
+      "ko": "보기 좋은 떡이 먹기도 좋다",
+      "en": "We eat with our eyes first."
+    },
+    {
+      "ko": "사공이 많으면 배가 산으로 간다",
+      "en": "Too many cooks spoil the broth."
+    },
+    {
+      "ko": "서당 개 삼 년이면 풍월을 읊는다",
+      "en": "You pick things up by osmosis."
+    },
+    {
+      "ko": "설마가 사람 잡는다",
+      "en": "Famous last words."
+    },
+    {
+      "ko": "세 살 버릇 여든까지 간다",
+      "en": "Old habits die hard."
+    },
+    {
+      "ko": "소 잃고 외양간 고친다",
+      "en": "Shutting the stable door after the horse has bolted."
+    },
+    {
+      "ko": "싼 게 비지떡",
+      "en": "You get what you pay for."
+    },
+    {
+      "ko": "열 번 찍어 안 넘어가는 나무 없다",
+      "en": "If at first you don’t succeed, try, try again."
+    },
+    {
+      "ko": "우물 안 개구리",
+      "en": "A frog in a well."
+    },
+    {
+      "ko": "울며 겨자 먹기",
+      "en": "Grin and bear it."
+    },
+    {
+      "ko": "원숭이도 나무에서 떨어진다",
+      "en": "Even Homer sometimes nods."
+    },
+    {
+      "ko": "제 무덤 내가 판다",
+      "en": "You dug your own grave."
+    },
+    {
+      "ko": "중이 제 머리 못 깎는다",
+      "en": "The cobbler’s children have no shoes."
+    },
+    {
+      "ko": "참새가 방앗간을 그냥 지나치랴",
+      "en": "Like a moth to a flame."
+    },
+    {
+      "ko": "콩 심은 데 콩 난다",
+      "en": "You reap what you sow."
+    },
+    {
+      "ko": "콩 한 쪽도 나눠 먹는다",
+      "en": "Share and share alike."
+    },
+    {
+      "ko": "티끌 모아 태산",
+      "en": "Many a little makes a mickle."
+    },
+    {
+      "ko": "하나를 보면 열을 안다",
+      "en": "A word to the wise is enough."
+    },
+    {
+      "ko": "하룻강아지 범 무서운 줄 모른다",
+      "en": "Fools rush in where angels fear to tread."
+    },
+    {
+      "ko": "호랑이 담배 피던 시절",
+      "en": "Back in my day."
+    }
+  ]
+}
