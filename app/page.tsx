@@ -548,7 +548,12 @@ export default function Home() {
           </h1>
           <div className="product-descriptor">{tx("ui.product_descriptor")}</div>
           <div className="org-row" aria-label="Publisher">
-            <img className="org-logo institute" src="/brand/institute.png" alt="" />
+            <img
+               className="org-logo institute"
+               src="/brand/institute.png"
+              alt="ONMAEUM"
+              style={{ width: "64px", height: "64px", objectFit: "contain" }}
+/>
             <span className="org-name">
               한국어교육AI연구개발원 <span className="copyright-mark">© 2026</span>
             </span>
